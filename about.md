@@ -1,9 +1,11 @@
 ---
 layout: page
-title: about
-permalink: /about/
+title: About
+permalink: /About/
 ---
 
-Bavaria ipsum dolor sit amet hoid a bissal wos gehd ollaweil nomoi. Wolln mei Weißwiaschd sowos, koa Habedehre schaugn san. Foidweg sog i hoggd Kaiwe, wuid Marterl großherzig ned woar.
-
-Obandln singd Hendl spernzaln i hab an singan dringma aweng Hendl oamoi gwiss Fünferl. Xaver Auffisteign vasteh kumm geh i moan oiwei nia om auf’n Gipfe hoam obandeln.
+I'm a Northern California Bay Area resident with free time in the summer months allowing me to explore. 
+During the non summer months I am at college on the East Coast where my herping expeditions are few and far between.
+This website features expeditions of mine and includes pictures of the journey. 
+My goal is to become a more experienced herper. A better understanding of optimal snake conditions, will increase encounters and allow more instances to improve my photography.
+Ultimately, this website will serve as a tool to document my outings and accumulate my photography.

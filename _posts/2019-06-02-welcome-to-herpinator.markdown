@@ -5,6 +5,28 @@ date:   2019-06-02 15:39:40
 preview: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/05/1862/1048/Eastern-massasauga-rattlesnake-.jpg?ve=1&tl=1
 ---
 
-![Picture 1](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/05/1862/1048/Eastern-massasauga-rattlesnake-.jpg?ve=1&tl=1)
+Since my herping interest began last year, this post will feature the highlights from the summer of 2018. At the moment, the pictures on this website were taken on a iPhone but that should change.
 
-This blog will feature expeditions of mine across Northern California and include pictures along the way. This will chronicle my journey becoming a more experienced herper and hopefully I will gain experience in photography. At the moment, the pictures on this post were taken on a iPhone but that should change.
+Northern Pacific Rattlesnake
+
+![Northern Pacific Rattlesnake Stretched]({{ site.baseurl }}/assets/norPacRatSum18.JPG)
+
+Pacific Gopher Snake
+
+![Pacific Gopher Snake Stretched ]({{ site.baseurl }}/assets/pacGophSum18.jpg)
+
+Northern Pacific Treefrog
+
+![Caught Northern Pacific Treefrog]({{ site.baseurl }}/assets/norPacTreeFrogSum18.png)
+
+Mountain Gartersnake
+
+![Swimming Mountain Garter]({{ site.baseurl }}/assets/mouGarSum18.jpg)
+
+Santa Cruz Gartersnake
+
+![in situ Santa Cruz Garter]({{ site.baseurl }}/assets/sanCruGarSum18.jpg)
+
+Northern Rubber Boa
+
+![Caught Rubber Boa]({{ site.baseurl }}/assets/norRubBoaSum18.jpg)
