@@ -2,31 +2,31 @@
 layout: post
 title:  "Welcome to Herpinator!"
 date:   2019-06-02 15:39:40
-preview: /assets/norPacRatSum181.jpg
+preview: /assets/WelcometoHerpinator/norPacRatSum181.jpg
 ---
 
 Since my herping interest began last year, this post will feature the highlights from the summer of 2018. At the moment, the pictures on this website were taken on a iPhone but that should change.
 
 Northern Pacific Rattlesnake, from preview
 
-![Northern Pacific Rattlesnake Stretched]({{ site.baseurl }}/assets/norPacRatSum18.JPG)
+![Northern Pacific Rattlesnake Stretched]({{ site.baseurl }}/assets/WelcometoHerpinator/norPacRatSum18.JPG)
 
-Pacific Gopher Snake
+Pacific Gophersnake
 
-![Pacific Gopher Snake Stretched ]({{ site.baseurl }}/assets/pacGophSum18.jpg)
+![Pacific Gophersnake Stretched ]({{ site.baseurl }}/assets/WelcometoHerpinator/pacGophSum18.jpg)
 
 Northern Pacific Treefrog
 
-![Caught Northern Pacific Treefrog]({{ site.baseurl }}/assets/norPacTreeFrogSum18.png)
+![Caught Northern Pacific Treefrog]({{ site.baseurl }}/assets/WelcometoHerpinator/norPacTreeFrogSum18.png)
 
 Mountain Gartersnake
 
-![Swimming Mountain Garter]({{ site.baseurl }}/assets/mouGarSum18.jpg)
+![Swimming Mountain Garter]({{ site.baseurl }}/assets/WelcometoHerpinator/mouGarSum18.jpg)
 
 Santa Cruz Gartersnake
 
-![in situ Santa Cruz Garter]({{ site.baseurl }}/assets/sanCruGarSum18.jpg)
+![in situ Santa Cruz Garter]({{ site.baseurl }}/assets/WelcometoHerpinator/sanCruGarSum18.jpg)
 
 Northern Rubber Boa
 
-![Caught Rubber Boa]({{ site.baseurl }}/assets/norRubBoaSum18.jpg)
+![Caught Rubber Boa]({{ site.baseurl }}/assets/WelcometoHerpinator/norRubBoaSum18.jpg)

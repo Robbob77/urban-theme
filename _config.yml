@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Photography of North American Herps with a focus on snakes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-instagram_username: herpinator
+twitter_username: herpinator
 
 # Build settings
 markdown: kramdown
