@@ -9,7 +9,7 @@ Since my herping interest began last year, this post will feature the highlights
 
 Northern Pacific Rattlesnake, from preview
 
-![Northern Pacific Rattlesnake Stretched]({{ site.baseurl }}/assets/WelcometoHerpinator/norPacRatSum18.JPG)
+![Northern Pacific Rattlesnake Stretched]({{ site.baseurl }}/assets/WelcometoHerpinator/norPacRatSum18.jpg)
 
 Pacific Gophersnake
 
