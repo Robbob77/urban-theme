@@ -13,7 +13,7 @@ Northern Pacific Rattlesnake, from preview
 
 Pacific Gophersnake
 
-![Pacific Gophersnake Stretched ]({{ site.baseurl }}/assets/WelcometoHerpinator/pacGophSum18.jpg)
+![Pacific Gophersnake Stretched]({{ site.baseurl }}/assets/WelcometoHerpinator/pacGophSum18.jpg)
 
 Northern Pacific Treefrog
 
