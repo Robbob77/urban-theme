@@ -19,9 +19,9 @@ Northern Pacific Treefrog
 
 ![Caught Northern Pacific Treefrog]({{ site.baseurl }}/assets/WelcometoHerpinator/norPacTreeFrogSum18.png)
 
-Mountain Gartersnake
+Diablo Range Gartersnake
 
-![Swimming Mountain Garter]({{ site.baseurl }}/assets/WelcometoHerpinator/mouGarSum18.jpg)
+![Swimming Diablo Range Garter]({{ site.baseurl }}/assets/WelcometoHerpinator/mouGarSum18.jpg)
 
 Santa Cruz Gartersnake
 
