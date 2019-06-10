@@ -13,6 +13,10 @@ Northern Pacific Gophersnake Pattern
 
 Once back on the road it continued its crossing allowing for some neat shots:
 
+It was a decent sized snake
+
+![Northern Pacific Gophersnake]({{ site.baseurl }}/assets/goneCruising/norPacGopSum194.jpg)
+
 Gopher Snake slithering towards the camera
 
 ![Northern Pacific Gophersnake]({{ site.baseurl }}/assets/goneCruising/norPacGopSum192.jpg)
