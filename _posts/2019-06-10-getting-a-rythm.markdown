@@ -11,7 +11,7 @@ Tonight's goal is to focus on finding live rattlesnakes and continue seeing king
 
 No better start to the night than a moderately sized gophersnake crossing the road.
 
-![Northern Pacific Gophersnake]({{ site:baseurl }}/assets/gettingRhythm/norPacGopSum19.jpg)
+![Northern Pacific Gophersnake]({{ site.baseurl }}/assets/gettingRhythm/norPacGopSum19.jpg)
 
 Trying out new roads, I spotted this a kingsnake slithering towards the road in hunting mode.
 
