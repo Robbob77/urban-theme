@@ -8,7 +8,7 @@ preview: /assets/RattlesnakeRoad/norPacRatSum19.jpg
 After a couple hikes where I got skunked I returned to the road. This time leaving a little earlier  and trying out habitat further inland. Interestingly it appears I hit a NorPac sweet spot as I found 5 rattlesnakes and then 2 DOR gophers and kings on more local roads on the way home. Stumbled upon a herd of Tule Elk to end a good night.
 
 Just before sunset, I found the biggest rattlesnake I've cruised thus far. Probably over three feet with 6+ rattles it was a stunner. 
-![Northern Pacific Rattlesnake1]({{ site.baseurl }}/assets/RattlesnakeRoad/IMG_0167.jpg)
+
 ![Northern Pacific Rattlesnake1]({{ site.baseurl }}/assets/RattlesnakeRoad/norPacRatSum191.jpg)
 
 Got some sweet headshots in the fading light.
