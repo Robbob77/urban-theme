@@ -13,7 +13,7 @@ On the hike I flipped rocks and checked out a little pond next to some woods. Sa
 
 ![Wild Pig]({{ site.baseurl }}/assets/threeLittlePigs/pigSum19.jpg)
 
-As I continued to explore the pond, I heard some Oinks and rustling in the bushes behind me. Managed to see three piglets who were headed my direction. They saw me and turned around. Two were black and one was white and brown.
+As I continued to explore the pond, I heard some "Oinks" and rustling in the bushes behind me. Managed to see three piglets who were headed my direction. They saw me and turned around. Two were black and one was white and brown.
 
 ![Wild Piglets]({{ site.baseurl }}/assets/threeLittlePigs/pigSum191.jpg)
 
