@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Herping amidst the Fall Foliage"
-date:   2019-09-08 10:00:00
+date:   2019-10-24 10:00:00
 preview: /assets/fallFoliage/easGarSnaSum19.jpg
 ---
 
