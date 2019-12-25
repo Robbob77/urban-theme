@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Last Snake of the Year?"
-date:   2019-12-22 07:00:00
+date:   2019-12-23 07:00:00
 preview: /assets/lastSnake/forShaTaiSnaWin19.jpg
 ---
 As I have been saying that snake season is over, I was shocked today to find out that wasn't the case. My first snake encounter was sad. Walking my normal path, I encountered a drainage well with the top off. I peered into it and this is what I saw. 
