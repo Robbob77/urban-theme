@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "End of the Year"
+title:  "Happy Newt Year"
 date:   2019-12-29 07:00:00
 preview: /assets/lastExpedition/calNewWin19.jpg
 ---
+Not quite the new year but the 29th of december is certainly close enough.
+
 The calendars were marked and the day finally arrived. About three weeks ago, my mother had found a newspaper clipping announcing a Newt search in Tilden park. For three weeks we had been waiting for this and it did not dissapoint. 
 
 The ranger leading it was enthusiastic and knowledgeable regarding salamanders. He led us through the back of a golf course leading to a stream and then up a nearby closed road that was heading up a hill. Seemed like perfect salamander migration territory. 
