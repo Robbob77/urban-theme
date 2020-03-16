@@ -20,19 +20,19 @@ I am not positive, but seeing glimpses of a yellow underside and trying my best 
 
 Moving on, boards were uncovering some good signs for snakes. I found mice under a couple and even parts of a shedded skin. On the last board of the day I found this. 
 
-![Forest Sharp-Tailed Snake]({{ site.baseurl }}/assets/lastSnake/forShaTaiSnaWin194.jpg)
+![Common Sharp-Tailed Snake]({{ site.baseurl }}/assets/lastSnake/forShaTaiSnaWin194.jpg)
 
-Boy was I excited to see this Forest Sharp-Tailed Snake. It is a lifer! After looking at salamanders for so long, I was surprised that its coloration is somewhat similar to slender and redbacked salamanders with red along its edges. They don't call it a sharp-tailed snake for nothing!
+Boy was I excited to see this Common Sharp-Tailed Snake. It is a lifer! After looking at salamanders for so long, I was surprised that its coloration is somewhat similar to slender and redbacked salamanders with red along its edges. They don't call it a sharp-tailed snake for nothing!
 
-![Forest Sharp-Tailed Snake]({{ site.baseurl }}/assets/lastSnake/forShaTaiSnaWin191.jpg)
+![Common Sharp-Tailed Snake]({{ site.baseurl }}/assets/lastSnake/forShaTaiSnaWin191.jpg)
 
 Here it is protecting its head and showing its sharp tail as a decoy.
 
-![Forest Sharp-Tailed Snake]({{ site.baseurl }}/assets/lastSnake/forShaTaiSnaWin192.jpg)
+![Common Sharp-Tailed Snake]({{ site.baseurl }}/assets/lastSnake/forShaTaiSnaWin192.jpg)
 
 I had to flip it over to see the pattern of black and white on its underside. 
 
-![Forest Sharp-Tailed Snake]({{ site.baseurl }}/assets/lastSnake/forShaTaiSnaWin193.jpg)
+![Common Sharp-Tailed Snake]({{ site.baseurl }}/assets/lastSnake/forShaTaiSnaWin193.jpg)
 
 Couldn't help but add in this photo of another arboreal salamander that I found. Something about the way the shot was angled really spoke to me.
 
