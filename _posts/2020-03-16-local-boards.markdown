@@ -2,7 +2,7 @@
 layout: post
 title:  "Local Boards"
 date:   2020-03-16 08:00:00
-preview: /assets/localBoards/pacGopSnaSpr20.jpg
+preview: /assets/localBoards/preview.jpg
 ---
 Nothing crazy today, just finished off the remainder of my local boards.  Uncovered another ring-neck under one of the first few boards. The colors were possibly even more vibrant on this one.
 
