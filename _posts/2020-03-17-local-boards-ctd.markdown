@@ -4,6 +4,9 @@ title:  "Local Boards Ctd."
 date:   2020-03-17 08:00:00
 preview: /assets/localBoards2/preview.jpg
 ---
+March 17
+
+-----------------------------------------------------------------------
 
 I lied. There was another part of my normal route that had boards. I'm excited to report that the season is off to a good start. Another day, another handful of snakes. I look forward to what these boards bring as the weather dries up. Hopefully some norpacs move in. 
 
@@ -40,3 +43,25 @@ One of the more exciting finds was the tiger salamander. This is the first one I
 Apparently I was bugging it quite a bit. After this shot I returned it to its cover and let it be.
 
 ![California Tiger Salamander]({{ site.baseurl }}/assets/localBoards2/calTigSalSpr201.jpg)
+
+-----------------------------------------------------------------------
+
+March 18
+
+-----------------------------------------------------------------------
+
+Another day at the same boards. I keep finding more and more. Most likely due to an old herpetological survey when this neighborhood was first under construction.
+
+Went past where I did the last couple days and found some more boards. Uncovered another gorgeous king. This one was more on the brown/ivory coloration.
+
+![California Kingsnake]({{ site.baseurl }}/assets/localBoards2/calKinSnaSpr20.jpg)
+
+![California Kingsnake]({{ site.baseurl }}/assets/localBoards2/calKinSnaSpr201.jpg)
+
+![California Kingsnake]({{ site.baseurl }}/assets/localBoards2/calKinSnaSpr202.jpg)
+
+I'm loving these close to the ground perspective shots. Also saw some more arboreal salamanders and mice. Even uncovered a yellow-eyed ensatina!
+
+![Yellow-Eyed Ensatina]({{ site.baseurl }}/assets/localBoards2/yelEyeEnsSpr20.jpg)
+
+Now that is the last of the boards in my area. On to hikes for a little while.
