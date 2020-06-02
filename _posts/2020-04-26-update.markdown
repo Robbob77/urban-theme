@@ -6,11 +6,7 @@ preview: /assets/update/preview.jpg
 ---
 The last post I made was March 17th. I proceeded to take roughly a month break and let the boards rest while the California weather continued to warm up.
 
------------------------------------------------------------------------
-
-April 12th
-
------------------------------------------------------------------------
+<div align="center"><h3> April 12th</h3></div>
 
 I began by checking my local board setup. I was blown away on that day to find 25 total snakes. The majority were king snakes (18) and the others consisted of gophers, ring-necks, and even some racers. It was eye opening to see that many kingsnakes, proving how common they are in the area. There were some gorgeous snakes seen, especially one that was large and leathery brown. 
 
@@ -44,27 +40,15 @@ Can't go herping in my area without seeing some gophers. Surprise surprise, the 
 
 ![Pacific Gophersnake]({{ site.baseurl }}/assets/update/pacGopSnaSpr20.jpg)
 
------------------------------------------------------------------------
-
-April 13th
-
------------------------------------------------------------------------
+<div align="center"><h3> April 13th</h3></div>
 
 The following day I witnessed a gopher snake crossing the road in the middle of the day. With that sight I knew that snaking season was in full effect.
 
------------------------------------------------------------------------
-
-April 15th
-
------------------------------------------------------------------------
+<div align="center"><h3> April 15th</h3></div>
 
 Excited that snakes were out now, I went to explore some new areas up North of where I live. Went hiking around a park and didn't up turn much more than a ring-neck and some alligator lizards.
 
------------------------------------------------------------------------
-
-April 19th
-
------------------------------------------------------------------------
+<div align="center"><h3> April 19th</h3></div>
 
 Back to my boards. Finishing off the other section, they yielded another, surprisingly, 25 snakes. Again, four species were seen. This time the majority were gophers (15) with the remainder being kings, rings, and some garters.
 
@@ -108,11 +92,7 @@ Lastly, one of the smaller kings found on the day.
 
 ![California Kingsnake]({{ site.baseurl }}/assets/update/calKinSnaSpr204.jpg)
 
------------------------------------------------------------------------
-
-April 23th
-
------------------------------------------------------------------------
+<div align="center"><h3> April 23rd</h3></div>
 
 Continuing the good vibes, I went to explore another area within walking distance of my house. On the way there I found a prime piece of tin sitting in the sun. Wasn't a big surprise to see two kings under it. I am starting to understand the temperatures snakes like and am really appreciating tin cover.
 
@@ -120,11 +100,7 @@ At the location, the rocks I wanted to flip had not heated up enough and were st
 
 Flipped a couple boards on the way back and found more kings and gophers. Nothing spectacular.
 
------------------------------------------------------------------------
-
-April 24th
-
------------------------------------------------------------------------
+<div align="center"><h3> April 24th</h3></div>
 
 Shockingly, I had not seen any rattlesnakes thus far in the season. Seeing warmer temperatures on the forecast, I went to check out some tin I knew of at a nearby park. I missed the prime window and came after the tin had been in the shade for a couple hours. That being said, I still found a ring-neck and the first rattlesnake of the year. I took it cautiously because I heard the snake before I saw it and didn't want to chance anything. Only got one photo of it (and the photo is out of focus).
 
@@ -132,19 +108,11 @@ Shockingly, I had not seen any rattlesnakes thus far in the season. Seeing warme
 
 This snake was not particularly large but I was still excited to find the first one of the season.
 
------------------------------------------------------------------------
-
-April 25th
-
------------------------------------------------------------------------
+<div align="center"><h3> April 25th</h3></div>
 
 Realizing that warm temperatures meant night cruising, I began to wonder about the possibility of night herping. I went out after a mildly warm day to check some boards and was surprised to see the results. Uncovered eight kings and two gophers. It was also moister than I expected. No pictures but I will be continuing to look into this and will report back as I do.
 
------------------------------------------------------------------------
-
-April 26th
-
------------------------------------------------------------------------
+<div align="center"><h3> April 26th</h3></div>
 
 Went out to a different set of boards this night. Remarkably colder than the night before, both during the day and when I went out. Completely struck out aside from one juvenile western racer.
 

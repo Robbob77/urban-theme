@@ -10,6 +10,4 @@ This website features expeditions of mine and includes pictures of the journey.
 My goal is to become a more experienced herper. A better understanding of optimal snake conditions, will increase encounters and allow more instances to improve my photography.
 Ultimately, this website will serve as a tool to document my outings and accumulate my photography.
 
-Lifer List
-
-Red Diamond Rattlesnake, Northern Pacific Rattlesnake, Southern Pacific Rattlesnake, Pygmy Rattlesnake, Pacific Gophersnake, San Diego Gophersnake, Diablo Range Gartersnake, Santa Cruz Gartersnake, Eastern Gartersnake, Eastern Ribbon Snake, California Kingsnake, Eastern Kingsnake, Scarlet Kingsnake, Coastal Plains Milksnake, Eastern Milksnake, Red Coachwhip, Black Racer, Western Yellow-Bellied Racer, Northern Brown Snake, Cottonmouth, Brown Watersnake, Red Bellied Watersnake, Red Bellied Snake,  Northern Rubber Boa,  Corn Snake, Rat Snake, Eastern Worm Snake, Eastern Ring-necked Snake, Pacific Ring-necked Snake, Common Sharp-Tailed Snake, California Nightsnake
+I am currently using a Cannon EOS Rebel T6 Body with an EF-S 19-55mm f/3.5-5.6 IS II and EF 75-300mm f/4-5.6 III. I am also looking into macro lenses.
