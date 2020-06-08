@@ -6,8 +6,8 @@ permalink: /liferList/
 |Species|Date First Observed|Most Recent Observation|Favorite Picture|
 |---|---|---|---|
 |Red Diamond Rattlesnake|March 29, 2018|May 27, 2020|![Red Diamond Rattlesnake]({{ site.baseurl }}/assets/lifers/redDiamondRattle.jpg)|   
-|Northern Pacific Rattlesnake|June 4, 2018|April 24, 2020|![NorPac]({{ site.baseurl }}/assets/lifers/norPac.jpg)|
-|Pacific Gophersnake|June 5, 2018|May 8, 2020|![Pacific Gophersnake]({{ site.baseurl }}/assets/lifers/pacificGopher.jpg)|
+|Northern Pacific Rattlesnake|June 4, 2018|June 4, 2020|![NorPac]({{ site.baseurl }}/assets/lifers/norPac.jpg)|
+|Pacific Gophersnake|June 5, 2018|June 4, 2020|![Pacific Gophersnake]({{ site.baseurl }}/assets/lifers/pacificGopher.jpg)|
 |Diablo Range Gartersnake|June 10, 2018|June 18, 2019|![Diablo Range Gartersnake]({{ site.baseurl }}/assets/lifers/diabloRangeGarter.jpg)|
 |Santa Cruz Gartersnake|June 30, 2018|June 30, 2018|![Santa Cruz Garter]({{ site.baseurl }}/assets/lifers/santaCruzGarter.jpg)|
 |Northern Rubber Boa|June 30, 2018|June 21, 2019|![Northern Rubber Boa]({{ site.baseurl }}/assets/lifers/rubberBoa.jpg)|
