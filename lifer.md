@@ -35,7 +35,7 @@ permalink: /liferList/
 |Western Yellow Bellied Racer|June 6, 2019|April 26, 2020|![Western Yellow Bellied Racer]({{ site.baseurl }}/assets/lifers/yellowBellyRacer.jpg)|
 |California Nighsnake|June 18, 2019|June 23, 2019|![California Nightsnake]({{ site.baseurl }}/assets/lifers/nightsnake.jpg)|
 |Monterey Ringneck|August 11, 2019|August 11, 2019|Not Personally Photographed|
-|Common Sharp Tailed Snake|December 23, 2019|December 23, 2019|![Common Sharp Tailed]({{ site.baseurl }}/assets/lifers/sharpTail.jpg)|
+|Common Sharp Tailed Snake|December 23, 2019|June 10, 2020|![Common Sharp Tailed]({{ site.baseurl }}/assets/lifers/sharpTail.jpg)|
 |Pacific Ringneck|March 15, 2020|April 24, 2020|![Pacific Ring Neck]({{ site.baseurl }}/assets/lifers/pacRing.jpg)|
 |California Red-Sided Gartersnake|April 19, 2020|April 19, 2020|![Red Sided Garter]({{ site.baseurl }}/assets/lifers/redSidedGarter.jpg)|
 |Desert Glossy Snake|May 25, 2020|May 27,2020|![Desert Glossy Snake]({{ site.baseurl }}/assets/lifers/desertGlossy.jpg)|
