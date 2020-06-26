@@ -12,7 +12,7 @@ permalink: /liferList/
 |Santa Cruz Gartersnake|June 30, 2018|June 30, 2018|![Santa Cruz Garter]({{ site.baseurl }}/assets/lifers/santaCruzGarter.jpg)|
 |Northern Rubber Boa|June 30, 2018|June 21, 2019|![Northern Rubber Boa]({{ site.baseurl }}/assets/lifers/rubberBoa.jpg)|
 |Eastern Gartersnake|September 22, 2018|October 24, 2019|![Eastern Gartersnake]({{ site.baseurl }}/assets/lifers/easternGarter.jpg)|
-|California Kingsnake|March 27, 2019|May 8, 2020|![California Kingsnake]({{ site.baseurl }}/assets/lifers/californiaKingsnake.jpg)|
+|California Kingsnake|March 27, 2019|June 24, 2020|![California Kingsnake]({{ site.baseurl }}/assets/lifers/californiaKingsnake.jpg)|
 |San Diego Gophersnake|March 27, 2019|May 29, 2019|Not Personally Photographed|
 |Southern Pacific Rattlesnake|March 27, 2019|March 27, 2019|![SoPac]({{ site.baseurl }}/assets/lifers/soPac.jpg)| 
 |Red Coachwhip|March 29, 2019|March 29, 2019|Not Personally Photographed|
