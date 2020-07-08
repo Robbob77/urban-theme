@@ -5,48 +5,48 @@ permalink: /liferList/
 ---
 |Species|Date First Observed|Most Recent Observation|Favorite Picture|
 |---|---|---|---|
-|Red Diamond Rattlesnake|March 29, 2018|May 27, 2020|![Red Diamond Rattlesnake]({{ site.baseurl }}/assets/lifers/redDiamondRattle.jpg)|   
-|Northern Pacific Rattlesnake|June 4, 2018|June 4, 2020|![NorPac]({{ site.baseurl }}/assets/lifers/norPac.jpg)|
-|Pacific Gophersnake|June 5, 2018|June 9, 2020|![Pacific Gophersnake]({{ site.baseurl }}/assets/lifers/pacificGopher.jpg)|
-|Diablo Range Gartersnake|June 10, 2018|June 18, 2019|![Diablo Range Gartersnake]({{ site.baseurl }}/assets/lifers/diabloRangeGarter.jpg)|
-|Santa Cruz Gartersnake|June 30, 2018|June 30, 2018|![Santa Cruz Garter]({{ site.baseurl }}/assets/lifers/santaCruzGarter.jpg)|
-|Northern Rubber Boa|June 30, 2018|June 21, 2019|![Northern Rubber Boa]({{ site.baseurl }}/assets/lifers/rubberBoa.jpg)|
-|Eastern Gartersnake|September 22, 2018|October 24, 2019|![Eastern Gartersnake]({{ site.baseurl }}/assets/lifers/easternGarter.jpg)|
-|California Kingsnake|March 27, 2019|June 24, 2020|![California Kingsnake]({{ site.baseurl }}/assets/lifers/californiaKingsnake.jpg)|
+|Red Diamond Rattlesnake|March 29, 2018|May 27, 2020|![Red Diamond Rattlesnake]({{ site.baseurl }}/assets/snakes/lifers/redDiamondRattle.jpg)|   
+|Northern Pacific Rattlesnake|June 4, 2018|June 4, 2020|![NorPac]({{ site.baseurl }}/assets/snakes/lifers/norPac.jpg)|
+|Pacific Gophersnake|June 5, 2018|June 9, 2020|![Pacific Gophersnake]({{ site.baseurl }}/assets/snakes/lifers/pacificGopher.jpg)|
+|Diablo Range Gartersnake|June 10, 2018|June 18, 2019|![Diablo Range Gartersnake]({{ site.baseurl }}/assets/snakes/lifers/diabloRangeGarter.jpg)|
+|Santa Cruz Gartersnake|June 30, 2018|June 30, 2018|![Santa Cruz Garter]({{ site.baseurl }}/assets/snakes/lifers/santaCruzGarter.jpg)|
+|Northern Rubber Boa|June 30, 2018|June 21, 2019|![Northern Rubber Boa]({{ site.baseurl }}/assets/snakes/lifers/rubberBoa.jpg)|
+|Eastern Gartersnake|September 22, 2018|October 24, 2019|![Eastern Gartersnake]({{ site.baseurl }}/assets/snakes/lifers/easternGarter.jpg)|
+|California Kingsnake|March 27, 2019|June 24, 2020|![California Kingsnake]({{ site.baseurl }}/assets/snakes/lifers/californiaKingsnake.jpg)|
 |San Diego Gophersnake|March 27, 2019|May 29, 2019|Not Personally Photographed|
-|Southern Pacific Rattlesnake|March 27, 2019|March 27, 2019|![SoPac]({{ site.baseurl }}/assets/lifers/soPac.jpg)| 
+|Southern Pacific Rattlesnake|March 27, 2019|March 27, 2019|![SoPac]({{ site.baseurl }}/assets/snakes/lifers/soPac.jpg)| 
 |Red Racer|March 29, 2019|March 29, 2019|Not Personally Photographed|
-|Eastern Milksnake|April 13, 2019|April 13, 2019|![Eastern Milksnake]({{ site.baseurl }}/assets/lifers/easternMilk.jpg)|
+|Eastern Milksnake|April 13, 2019|April 13, 2019|![Eastern Milksnake]({{ site.baseurl }}/assets/snakes/lifers/easternMilk.jpg)|
 |Black Racer|May 28, 2019|May 31, 2019|Not Personally Photographed|
 |Eastern Ring-necked Snake|May 28, 2019|May 29, 2019|Not Personally Photographed|
 |Black Rat Snake|May 28, 2019|May 28, 2019|Not Personally Photographed|
 |Eastern Ribbon Snake|May 28, 2019|May 28, 2019|Not Personally Photographed|
-|Scarlet Kingsnake|May 28, 2019|May 28, 2019|![Scarlet Kingsnake]({{ site.baseurl }}/assets/lifers/scarKing.jpg)|
-|Brown Watersnake|May 28, 2019|May 30, 2019|![Watersnake]({{ site.baseurl }}/assets/lifers/watersnake.jpg)|
+|Scarlet Kingsnake|May 28, 2019|May 28, 2019|![Scarlet Kingsnake]({{ site.baseurl }}/assets/snakes/lifers/scarKing.jpg)|
+|Brown Watersnake|May 28, 2019|May 30, 2019|![Watersnake]({{ site.baseurl }}/assets/snakes/lifers/watersnake.jpg)|
 |Cottonmouth|May 28, 2019|May 28, 2019|Not Personally Photographed|
-|Northern Brown Snake|May 28, 2019|May 28, 2019|![Northern Brown Snake]({{ site.baseurl }}/assets/lifers/brownSnake.jpg)|
-|Red Bellied Water Snake|May 29, 2019|May 29, 2019|![Red Bellied Watersnake]({{ site.baseurl }}/assets/lifers/redBellyWatersnake.jpg)|
-|Corn Snake|May 29, 2019|May 29, 2019|![Corn Snake]({{ site.baseurl }}/assets/lifers/cornSnake.jpg)|
+|Northern Brown Snake|May 28, 2019|May 28, 2019|![Northern Brown Snake]({{ site.baseurl }}/assets/snakes/lifers/brownSnake.jpg)|
+|Red Bellied Water Snake|May 29, 2019|May 29, 2019|![Red Bellied Watersnake]({{ site.baseurl }}/assets/snakes/lifers/redBellyWatersnake.jpg)|
+|Corn Snake|May 29, 2019|May 29, 2019|![Corn Snake]({{ site.baseurl }}/assets/snakes/lifers/cornSnake.jpg)|
 |Eastern Worm Snake|May 29, 2019|May 29, 2019|Not Personally Photographed|
-|Pygmy Rattlesnake|May 30, 2019|May 30, 2019|![Pygmy Rattlesnake]({{ site.baseurl }}/assets/lifers/pygmy.jpg)|
+|Pygmy Rattlesnake|May 30, 2019|May 30, 2019|![Pygmy Rattlesnake]({{ site.baseurl }}/assets/snakes/lifers/pygmy.jpg)|
 |Eastern Kingsnake|May 31, 2019|May 31, 2019|Not Personally Photographed|
 |Coastal Plains Milksnake|May 31, 2019|May 31, 2019|Not Personally Photographed|
 |Red Bellied Snake|May 31, 2019|May 31, 2019|Not Personally Photographed|
-|Western Yellow-bellied Racer|June 6, 2019|April 26, 2020|![Western Yellow Bellied Racer]({{ site.baseurl }}/assets/lifers/yellowBellyRacer.jpg)|
-|California Nighsnake|June 18, 2019|June 23, 2019|![California Nightsnake]({{ site.baseurl }}/assets/lifers/nightsnake.jpg)|
+|Western Yellow-bellied Racer|June 6, 2019|April 26, 2020|![Western Yellow Bellied Racer]({{ site.baseurl }}/assets/snakes/lifers/yellowBellyRacer.jpg)|
+|California Nighsnake|June 18, 2019|June 23, 2019|![California Nightsnake]({{ site.baseurl }}/assets/snakes/lifers/nightsnake.jpg)|
 |Monterey Ring-necked Snake|August 11, 2019|August 11, 2019|Not Personally Photographed|
-|Common Sharp-tailed Snake|December 23, 2019|June 10, 2020|![Common Sharp Tailed]({{ site.baseurl }}/assets/lifers/sharpTail.jpg)|
-|Pacific Ring-necked Snake|March 15, 2020|April 24, 2020|![Pacific Ring Neck]({{ site.baseurl }}/assets/lifers/pacRing.jpg)|
-|California Red-Sided Gartersnake|April 19, 2020|April 19, 2020|![Red Sided Garter]({{ site.baseurl }}/assets/lifers/redSidedGarter.jpg)|
-|Desert Glossy Snake|May 25, 2020|May 27,2020|![Desert Glossy Snake]({{ site.baseurl }}/assets/lifers/desertGlossy.jpg)|
-|Colorado Desert Shovel-nosed Snake|May 26, 2020|May 27, 2020|![Colorado Desert Shovel Nose]({{ site.baseurl }}/assets/lifers/shovelNose.jpg)|
-|Colorado Desert Sidewinder|May 26, 2020|May 27, 2020|![Colorado Sidewinder]({{ site.baseurl }}/assets/lifers/sidewinder.jpg)|
-|Spotted Leaf-nosed Snake|May 26, 2020|July 4, 2020|![Leaf Nose]({{ site.baseurl }}/assets/lifers/leafNose.jpg)|
-|Mojave Desert Sidewinder|July 1, 2020|July 2, 2020|![Mojave Sidewinder]({{ site.baseurl }}/assets/lifers/mojaveSidewinder.jpg)|
-|Great Basin Gophersnake|July 2, 2020|July 2, 2020|![Great Basin Gophersnake]({{ site.baseurl }}/assets/lifers/greatBasinGopher.jpg)|
-|Mojave Glossy Snake|July 2, 2020|July 2, 2020|![Mojave Glossy]({{ site.baseurl }}/assets/lifers/mojaveGlossy.jpg)|
-|Panamint Rattlesnake|July 2, 2020|July 2, 2020|![Panamint Rattlesnake]({{ site.baseurl }}/assets/lifers/panamint.jpg)|
-|Northern Desert Nightsnake|July 4, 2020|July 4, 2020|![Northern Desert Nightsnake]({{ site.baseurl }}/assets/lifers/desertNightsnake.jpg)|
-|Mojave Shovel-nosed Snake|July 4, 2020|July 4, 2020|![Mojave Shovel-nose]({{ site.baseurl }}/assets/lifers/mojaveShovel.jpg)|
+|Common Sharp-tailed Snake|December 23, 2019|June 10, 2020|![Common Sharp Tailed]({{ site.baseurl }}/assets/snakes/lifers/sharpTail.jpg)|
+|Pacific Ring-necked Snake|March 15, 2020|April 24, 2020|![Pacific Ring Neck]({{ site.baseurl }}/assets/snakes/lifers/pacRing.jpg)|
+|California Red-Sided Gartersnake|April 19, 2020|April 19, 2020|![Red Sided Garter]({{ site.baseurl }}/assets/snakes/lifers/redSidedGarter.jpg)|
+|Desert Glossy Snake|May 25, 2020|May 27,2020|![Desert Glossy Snake]({{ site.baseurl }}/assets/snakes/lifers/desertGlossy.jpg)|
+|Colorado Desert Shovel-nosed Snake|May 26, 2020|May 27, 2020|![Colorado Desert Shovel Nose]({{ site.baseurl }}/assets/snakes/lifers/shovelNose.jpg)|
+|Colorado Desert Sidewinder|May 26, 2020|May 27, 2020|![Colorado Sidewinder]({{ site.baseurl }}/assets/snakes/lifers/sidewinder.jpg)|
+|Spotted Leaf-nosed Snake|May 26, 2020|July 4, 2020|![Leaf Nose]({{ site.baseurl }}/assets/snakes/lifers/leafNose.jpg)|
+|Mojave Desert Sidewinder|July 1, 2020|July 2, 2020|![Mojave Sidewinder]({{ site.baseurl }}/assets/snakes/lifers/mojaveSidewinder.jpg)|
+|Great Basin Gophersnake|July 2, 2020|July 2, 2020|![Great Basin Gophersnake]({{ site.baseurl }}/assets/snakes/lifers/greatBasinGopher.jpg)|
+|Mojave Glossy Snake|July 2, 2020|July 2, 2020|![Mojave Glossy]({{ site.baseurl }}/assets/snakes/lifers/mojaveGlossy.jpg)|
+|Panamint Rattlesnake|July 2, 2020|July 2, 2020|![Panamint Rattlesnake]({{ site.baseurl }}/assets/snakes/lifers/panamint.jpg)|
+|Northern Desert Nightsnake|July 4, 2020|July 4, 2020|![Northern Desert Nightsnake]({{ site.baseurl }}/assets/snakes/lifers/desertNightsnake.jpg)|
+|Mojave Shovel-nosed Snake|July 4, 2020|July 4, 2020|![Mojave Shovel-nose]({{ site.baseurl }}/assets/snakes/lifers/mojaveShovel.jpg)|
 
 43 total species!
