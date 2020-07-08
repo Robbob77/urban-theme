@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postS
 title:  "Branching out"
 date:   2020-07-04 18:00:00
 preview: /assets/stars/branchingOut/preview.png
