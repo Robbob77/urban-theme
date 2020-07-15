@@ -1,9 +1,10 @@
 ---
 layout: postS
 title:  "Death Valley"
-date:   2020-07-04 18:00:00
+date:   2020-07-07 18:00:00
 preview: /assets/stars/deathValley/preview.jpg
-stars: on
+stars: "on"
+number: 33
 ---
 
 This hobby will keep me in tune with the moon. Learned the hard way that a dark sky often comes from a moonless sky.

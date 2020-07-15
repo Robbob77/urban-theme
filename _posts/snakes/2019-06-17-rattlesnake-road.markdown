@@ -3,7 +3,8 @@ layout: post
 title:  "Rattlesnake Road"
 date:   2019-06-17 23:00:00
 preview: /assets/snakes/RattlesnakeRoad/norPacRatSum19.jpg
-snake: on
+snake: "on"
+number: 11
 ---
 
 After a couple hikes where I got skunked I returned to the road. This time leaving a little earlier  and trying out habitat further inland. Interestingly it appears I hit a NorPac sweet spot as I found 5 rattlesnakes and then 2 DOR gophers and kings on more local roads on the way home. Stumbled upon a herd of Tule Elk to end a good night.

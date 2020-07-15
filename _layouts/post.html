@@ -3,12 +3,40 @@ layout: default
 ---
 <div class="post">
   <div class="post-nav">
-    {% if page.next.url %}
+
+    {% if page.next.snake %}
       <a class="nav-item" href="{{ page.next.url | prepend: site.baseurl }}">&laquo; Prev</a>
+    {% else %}
+      {% for post in site.posts reversed%}
+        {% if post.stars %}
+          {% continue %}
+        {% elsif post == page %}
+          {% continue %}
+        {% elsif post.snake %}
+          {% if post.number > page.number %}
+            <a class="nav-item" href="{{ post.url | prepend: site.baseurl }}">&laquo; Prev</a>
+            {% break %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
     {% endif %}
-    {% if page.previous.url %}
+    {% if page.previous.snake %}
       <a class="nav-item" href="{{ page.previous.url | prepend: site.baseurl }}">Next &raquo;</a>
+    {% else %}
+      {% for post in site.posts%}
+        {% if post.stars %}
+          {% continue %}
+        {% elsif post == page %}
+          {% continue %}
+        {% elsif post.snake %}
+          {% if page.number > post.number %}
+            <a class="nav-item" href="{{ post.url | prepend: site.baseurl }}">Next &raquo;</a>
+            {% break %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
     {% endif %}
+
   </div>
 
   <header class="post-header">

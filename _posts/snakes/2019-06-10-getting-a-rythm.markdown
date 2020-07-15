@@ -3,7 +3,8 @@ layout: post
 title:  "Getting in a Rhythm"
 date:   2019-06-10 23:00:00
 preview: /assets/snakes/gettingRhythm/calKinSum19.jpg
-snake: on
+snake: "on"
+number: 9
 ---
 
 This short three day heat wave is being kind. Day 2 was a success after seeing 8 pacific gophers (three alive), 2 california kingsnakes (1 alive) and 2 DOR northern pacific rattlesnakes. In addition there were more deer, barn and great horned owls, and another california tiger salamander. Thankfully the ratio of DORs to live snakes has gone down but still is pretty poor. 

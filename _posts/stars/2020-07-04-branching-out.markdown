@@ -3,7 +3,8 @@ layout: postS
 title:  "Branching out"
 date:   2020-07-04 18:00:00
 preview: /assets/stars/branchingOut/preview.png
-stars: on
+stars: "on"
+number: 31
 ---
 
 I will begin by saying this site is still 100% focused on herping. That being said, in anticipation of my trip to Death Valley I began to look into star photography. Knowing that I would have the opportunity to shoot under a completely dark sky I decided to jump into the rabbit hole of star photography. With a canon EF-S 24mm f/2.8 STM lens, tripod, and remote added to my photography equipment I began to experiment under my local sky. This is the result.

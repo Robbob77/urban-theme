@@ -3,7 +3,8 @@ layout: post
 title:  Preparation for Summer
 date:   2019-06-05 22:00:00
 preview: /assets/snakes/summerPrep/dorPacGopSum19.jpg
-snake: on
+snake: "on"
+number: 5
 ---
 All good herpers have their own board line. Mine is in progress.
 

@@ -3,7 +3,8 @@ layout: post
 title:  "Mountain Hikes"
 date:   2019-06-21 13:00:00
 preview: /assets/snakes/hikingMountains/rubBoaSum19.jpg
-snake: on
+snake: "on"
+number: 13
 ---
 
 A weekend getaway up near Tahoe allowed for some gorgeous hikes. Working to climb in elevation gave some pretty views over the course of 22 miles of hiking. At no point did it become an all out herping expedition but prime habitat was appreciated and rocks were flipped. I was graced with one snake, the first rubber boa of the summer. 

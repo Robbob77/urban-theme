@@ -3,7 +3,8 @@ layout: post
 title:  "SoCal Herping"
 date:   2020-06-01 18:00:00
 preview: /assets/snakes/socalHerps/preview.jpg
-snake: on
+snake: "on"
+number: 28
 ---
 
 Before I get into the SoCal trip, I did do a couple expeditions earlier in the month (the 7th and 8th). I was testing out flipping boards at night, however ran into some trouble as it hadn't been as warm as I was hoping for. The thought process behind night flipping is that while the boards won't hold more heat than a road they will still provide cover for mice. Snakes may use that as a place to sit and wait for prey.

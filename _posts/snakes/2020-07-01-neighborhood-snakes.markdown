@@ -3,7 +3,8 @@ layout: post
 title:  "Neighborhood Snakes"
 date:   2020-07-01 18:00:00
 preview: /assets/snakes/neighborhoodSnakes/preview.jpg
-snake: on
+snake: "on"
+number: 30
 ---
 
 As I took a short break from herping, it seems as though the snakes were not taking a break from me! The heat of summer was beginning and I was finding snakes out for walks through the neighborhood. I encountered a gophersnake, sharp-tailed snake, and a kingsnake in the course of two weeks. The kingsnake was surprisingly found in my garage. Maybe its a sign that I should have been out herping.

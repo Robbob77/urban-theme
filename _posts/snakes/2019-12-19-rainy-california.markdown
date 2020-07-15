@@ -3,7 +3,8 @@ layout: post
 title:  "California Rainy Season"
 date:   2019-12-19 08:00:00
 preview: /assets/snakes/rainyCalifornia/calSleSalWin19.jpg
-snake: on
+snake: "on"
+number: 19
 ---
 With snaking season drawn to a close, breeding season for salamanders and other amphibeans are right around the corner. Having arrived back in California I left the frozen east coast and entered the rainy season. These conditions should allow for ample opportunities to find salamanders.
 

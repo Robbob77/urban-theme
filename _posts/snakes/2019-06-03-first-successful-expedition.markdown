@@ -3,7 +3,8 @@ layout: post
 title:  "First Californian Snake of the Summer!"
 date:   2019-06-03 15:00:00
 preview: /assets/snakes/firstSuccessfulExpedition/norPacRatSum19.jpg
-snake: on
+snake: "on"
+number: 3
 ---
 
 Back home, I didn't hesitate to continue exploring. Even a trip where I see nothing can be learned from. The first one was just that, a short trip up to rocky hills where I flipped nothing. However, the second trip proved more eventful than I expected.

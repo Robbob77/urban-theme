@@ -3,7 +3,8 @@ layout: post
 title:  "On the road again"
 date:   2019-06-23 23:00:00
 preview: /assets/snakes/roadAgain/calNigSum19.jpg
-snake: on
+snake: "on"
+number: 14
 ---
 
 Upon return from my Tahoe getaway, the conditions were apt for some more cruising. The night started off well as a gophersnake was spotted off the side of the road. 

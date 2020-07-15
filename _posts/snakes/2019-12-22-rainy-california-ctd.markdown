@@ -3,7 +3,8 @@ layout: post
 title:  "California Rainy Season Ctd."
 date:   2019-12-22 07:00:00
 preview: /assets/snakes/arboreals/arbSalWin19.jpg
-snake: on
+snake: "on"
+number: 20
 ---
 Seeing a rainy day on the forecast, I made sure to get out early and returned to the fields from the other day. With a goal of finding adult arboreal salamanders, I passed over many of the early slender salamanders. However, I couldn't help but take a picture of this one as it is for sure the smallest I have ever seen. Most likely a juvenile.
 

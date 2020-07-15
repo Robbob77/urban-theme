@@ -3,7 +3,8 @@ layout: post
 title:  "Herping amidst the Fall Foliage"
 date:   2019-10-24 10:00:00
 preview: /assets/snakes/fallFoliage/easGarSnaSum19.jpg
-snake: on
+snake: "on"
+number: 18
 ---
 
 After the intensive start to my school year, things have finally calmed down thanks to a half week of classes. Taking advantage of the weather remaining unusually warm, I went for a walk along some nearby trails. With low expectations of finding snakes, I was pleasantly surprised that the first living thing I found was an Eastern Garter Snake.

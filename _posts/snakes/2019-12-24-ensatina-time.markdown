@@ -3,7 +3,8 @@ layout: post
 title:  "Surprise Ensatinas"
 date:   2019-12-24 07:00:00
 preview: /assets/snakes/ensatina/yelEyeEnsWin193.jpg
-snake: on
+snake: "on"
+number: 22
 ---
 As I continue my extensive exploration of local areas, I am always surprised to find new species. This time excitement came in a form I least expected, ensatinas. That is a name that I had heard of, but had very little knowledge about. Flipping a concrete slab, I was greeted by these two individuals.
 

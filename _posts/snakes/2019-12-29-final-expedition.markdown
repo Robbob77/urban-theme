@@ -3,7 +3,8 @@ layout: post
 title:  "Happy Newt Year"
 date:   2019-12-29 07:00:00
 preview: /assets/snakes/lastExpedition/calNewWin19.jpg
-snake: on
+snake: "on"
+number: 23
 ---
 Not quite the new year but the 29th of december is certainly close enough.
 

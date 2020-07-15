@@ -3,7 +3,8 @@ layout: post
 title:  "More Cruising"
 date:   2019-06-12 23:00:00
 preview: /assets/snakes/moreCruising/norPacRatSum19.jpg
-snake: on
+snake: "on"
+number: 10
 ---
 
 Every outing is a chance to learn. A couple nights ago I came to the realization that hot days don't gaurantee snakes at night. When the heat doesn't leave it can still be too hot for snakes to be out. Luckily I did stumble upon one snake. It was a gorgeous California Kingsnake which made the outing worth it. It was roughly 2 feet in length.

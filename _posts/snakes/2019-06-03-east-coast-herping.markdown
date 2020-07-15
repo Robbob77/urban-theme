@@ -3,7 +3,8 @@ layout: post
 title:  "Return from the east coast"
 date:   2019-06-02 15:39:40
 preview: /assets/snakes/eastCoastHerping/pygRatSum19.jpg
-snake: on
+snake: "on"
+number: 2
 ---
 Before returning to the Bay area for the summer I was able to travel the east coast for a couple days. Although I wasn't able to get pictures of everything, here is some of what I stumbled across:
 

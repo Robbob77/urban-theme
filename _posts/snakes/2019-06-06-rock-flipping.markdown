@@ -3,7 +3,8 @@ layout: post
 title:  "Rock Flipping and Stream Following"
 date:   2019-06-06 13:00:00
 preview: /assets/snakes/rockFlipping/wesYelBelRacSum19.jpg
-snake: on
+snake: "on"
+number: 6
 ---
 Today's exploration traversed grassy hills and flipped (and returned to its original position) almost every rock in my path. My first successful flip of the summer over turned what I believe to be my life Western Yellow-Bellied Racer. 
 

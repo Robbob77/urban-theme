@@ -3,7 +3,8 @@ layout: post
 title:  "Back on the East Coast"
 date:   2019-09-08 08:00:00
 preview: /assets/snakes/eastCoast/redBacSalSum19.jpg
-snake: on
+snake: "on"
+number: 17
 ---
 One little hike before I am stranded without a car. All it took to get a little taste of the East Coast amphibian scene was to flip a couple rocks and logs. Rocks in the shade were yielding the salamanders. For awhile every rock I flipped had a couple red backed salamanders under them. They were the only salamanders I saw though I did see their red backed and lead backed variations. 
 

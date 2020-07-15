@@ -3,7 +3,8 @@ layout: post
 title:  "Gone Cruising"
 date:   2019-06-08 23:00:00
 preview: /assets/snakes/goneCruising/norPacGopSum19.jpg
-snake: on
+snake: "on"
+number: 7
 ---
 
 Upon the arrival of my Canon EOS Rebel T6 I was eager to find a subject to photograph. Taking advantage of rising temperatures, I cruised some local roads and stumbled upon a gorgeous gophersnake. 

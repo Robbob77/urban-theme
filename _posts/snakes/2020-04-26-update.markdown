@@ -3,7 +3,8 @@ layout: post
 title:  "April Update"
 date:   2020-04-26 08:00:00
 preview: /assets/snakes/update/preview.jpg
-snake: on
+snake: "on"
+number: 27
 ---
 The last post I made was March 17th. I proceeded to take roughly a month break and let the boards rest while the California weather continued to warm up.
 
@@ -25,7 +26,7 @@ There was also a surprising number of double flips.
 
 The Ring-necks seemed darker green than the previous ones I had found. They also didn't want to roll over and show off their pretty colors.
 
-![Pacific Ring-Neck]({{ site.baseurl }}/assets/update/snakes/pacRinSnaSpr20.jpg)
+![Pacific Ring-Neck]({{ site.baseurl }}/assets/snakes/update/pacRinSnaSpr20.jpg)
 
 After that, the excitement came with the unexpected racers. Back to back racer flips.
 

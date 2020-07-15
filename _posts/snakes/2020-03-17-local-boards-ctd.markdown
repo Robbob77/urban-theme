@@ -3,7 +3,8 @@ layout: post
 title:  "Local Boards Ctd."
 date:   2020-03-17 08:00:00
 preview: /assets/snakes/localBoards2/preview.jpg
-snake: on
+snake: "on"
+number: 26
 ---
 March 17
 

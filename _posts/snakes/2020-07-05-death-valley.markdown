@@ -3,7 +3,8 @@ layout: post
 title:  "Death Valley"
 date:   2020-07-05 18:00:00
 preview: /assets/snakes/deathValley/preview.jpg
-snake: on
+snake: "on"
+number: 32
 ---
 
 Four days/nights in one of the hottest places in the state during the summer, no better way to spend the fourth of July in my opinion. This trip would prove to be quite the challenge due to the heat and unfamiliar territory. That being said, I left with a better understanding of the park and got some decent results. Only totalled 10 snakes; 4 mojave desert sidewinders, 1 mojave glossy snake, 1 great basin gophersnake, 1 panamint rattlesnake, 1 northern desert nightsnake, 1 mojave shovel-nosed snake, and 1 spotted leaf-nosed snake. That's 6 lifers! A great introduction to that region, but theres much more to see out there. Another benefit of being out there was the stars. Got some great photos (including the thumbnail) but am looking into adding star photos in another place on the website so look out for that. I also spent one night in the Mojave but got skunked so we will have to dedicate a trip there at some other point. Last note before getting into the post, finally made major use of my Tamron 100mm macro lens and am really enjoying the quality of images it produces. 

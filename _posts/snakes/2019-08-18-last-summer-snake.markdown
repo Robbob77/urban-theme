@@ -3,7 +3,8 @@ layout: post
 title:  "Last Snake of Summer?"
 date:   2019-08-18 10:00:00
 preview: /assets/snakes/lastSummerSnake/kinSnaSum193.jpg
-snake: on
+snake: "on"
+number: 16
 ---
 
 Been a busy wind down to summer. Haven't gotten out as much as I would have liked. 

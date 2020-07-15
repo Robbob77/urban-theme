@@ -3,7 +3,8 @@ layout: post
 title:  "Home Early, It's Snaking Time"
 date:   2020-03-15 08:00:00
 preview: /assets/snakes/firstSnake/pacRinSnaSpr20.jpg
-snake: on
+snake: "on"
+number: 24
 ---
 Amidst the Covid-19 pandemonium, my college cancelled classes and most likely will cancel the rest of the semester. Whilst tragic, this brings me home during prime snaking season. I'm looking to take full advantage of this. Thus, on my first day back I didn't hesitate to get out early. And good thing I did as I found my first snakes of the year. Found two kingsnakes, my lifer pacific ring-neck, four arborreal salamanders, three slender salamanders, four fence lizards, a variegated skink, and a plethora of mice hanging out under my boards. While an exciting start, I will be tested this season as I have so much time and so few locations. I am going to need to find some new spots so I don't put too much pressure on the few spots I already have.
 

@@ -3,7 +3,8 @@ layout: post
 title:  "Nocturnal Sightings"
 date:   2019-06-18 23:00:00
 preview: /assets/snakes/nocturnalSighting/calNigSum19.jpg
-snake: on
+snake: "on"
+number: 12
 ---
 
 Someone alert the zoo! Animals are loose and causing havoc around town!

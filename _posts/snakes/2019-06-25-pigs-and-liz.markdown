@@ -3,7 +3,8 @@ layout: post
 title:  "A Skink and Three Little Pigs"
 date:   2019-06-25 11:00:00
 preview: /assets/snakes/threeLittlePigs/skiSkiSum19.jpg
-snake: on
+snake: "on"
+number: 15
 ---
 
 Today was a bust for snakes. Woke up at sunrise to check boards and then hike and didn't see a single snake. But it wasn't a complete loss. While checking the boards, I found three snake skins which show that the habitat is prime. One was even intact and nearly four and a half feet long. It looked like it may have continued into a hole as well.

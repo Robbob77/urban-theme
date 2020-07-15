@@ -3,7 +3,8 @@ layout: post
 title:  "Welcome to Herpinator!"
 date:   2019-06-02 15:39:40
 preview: /assets/snakes/WelcometoHerpinator/norPacRatSum181.jpg
-snake: on
+snake: "on"
+number: 1
 ---
 
 Since my herping interest began last year, this post will feature the highlights from the summer of 2018. At the moment, the pictures on this website were taken on a iPhone but that should change.

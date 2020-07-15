@@ -3,7 +3,8 @@ layout: post
 title:  "Macro Lens!"
 date:   2020-06-01 18:00:00
 preview: /assets/snakes/macro/preview.jpg
-snake: on
+snake: "on"
+number: 29
 ---
 
 Recently got a macro lens and just had to take it out. Checked my boards the morning of a hot day and came across a gophersnake. One snake was all I was looking for as I just needed a target to practice on.

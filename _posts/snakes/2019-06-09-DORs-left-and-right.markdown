@@ -3,7 +3,8 @@ layout: post
 title:  "DORs Left and Right"
 date:   2019-06-09 23:00:00
 preview: /assets/snakes/DORseverywhere/calKinSum19.jpg
-snake: on
+snake: "on"
+number: 8
 ---
 
 Wow, hot temperatures really do the trick for bringing out critters at night. Saw an alligator lizard, 2 california tiger salamanders, a great horned owl, lots of deer, 5 pacific gophersnakes (4 DOR), 4 califonia kingsnakes (3 DOR), and 2 DOR pacific rattlesnakes. Its depressing driving around rural california roads and seeing how heavily trafficked they are even at night. Hoping that the high mortality rate of last night is not how it will always be. 
