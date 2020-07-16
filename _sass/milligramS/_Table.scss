@@ -7,12 +7,25 @@
  */
 
 
-// Color
+// Table
 // ––––––––––––––––––––––––––––––––––––––––––––––––––
 
-$color-initial: #fff !default;
-$color-primary: #9b4dca !default;
-$color-secondary: #606c76 !default;
-$color-tertiary: #f4f5f6 !default;
-$color-quaternary: #d1d1d1 !default;
-$color-quinary: #e1e1e1 !default;
+table {
+	border-spacing: 0;
+	width: 100%;
+}
+
+td,
+th {
+	border-bottom: .1rem solid $color-quinary;
+	padding: 1.2rem 1.5rem;
+	text-align: left;
+
+	&:first-child {
+		padding-left: 0;
+	}
+
+	&:last-child {
+		padding-right: 0;
+	}
+}
