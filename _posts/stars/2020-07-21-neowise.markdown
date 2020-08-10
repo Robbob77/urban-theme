@@ -2,17 +2,17 @@
 layout: postS
 title:  "Neowise Comet"
 date:   2020-07-21 18:00:00
-preview: /assets/stars/neowise/preview.jpg
+preview: /assets/stars/neoWise/preview.jpg
 stars: "on"
 number: 34
 ---
 
 If it only happens once every 6,800 years you bet I'm pouncing on that opportunity. I had to wait for it to be high enough in the sky that it got over the haze of light pollution surrounding my house. Even then it was more polluted with light than I was hoping. Best shot I got with some perspective in the foreground had some light in it.
 
-![Neowise]({{ site.baseurl }}/assets/stars/neowise/neoWise1.jpg)
+![Neowise]({{ site.baseurl }}/assets/stars/neoWise/neoWise1.jpg)
 
 I would have greatly preferred if it was just a dark hill, but I will have to go elsewhere to find that. Best in tight shot I got was out of focus and needs some stacking for higher quality.
 
-![Neowise]({{ site.baseurl }}/assets/stars/neowise/neoWise2.jpg)
+![Neowise]({{ site.baseurl }}/assets/stars/neoWise/neoWise2.jpg)
 
 Glad to have seen and photographed it. May be more pictures of higher quality to come later if I get to a different location to see it.
