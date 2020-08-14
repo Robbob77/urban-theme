@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Summer of the Rattlesnake"
+date:   2020-08-13 18:00:00
+preview: /assets/snakes/goals/preview.jpg
+snake: "on"
+number: 36
+---
+
+As the summer is coming near to an end I wanted to give a quick update on my goals for the remainder of summer. After the success of the first few SoCal trips I came to the realization that there are only four rattlesnakes in California that I have not yet seen; the Great Basin Rattlesnake, Mojave Rattlesnake, Speckled Rattlesnake, and the Western Diamondback. The tricky part with finding these remaining snakes is that the Great Basin resides in the northenmost part of California while the others are southern species. I spent last weekend up in Mono County looking (with no sucess) for a Great Basin Rattlesnake though I may have come across a long dead one on the road. Next weekend I plan on returning to the southern most parts of California and continuing my search for the three southern species. If that goes well I may have enough time for one more trip to the north, otherwise this goal is largely impossible after last weekend.
+
+That being said, temperatures have finally shot up in my locale and I decided to do a little cruising tonight. Was out for less than an hour but had the pleasure of finding a good ole norpac. It was a litte guy with fresh skin and probably no more than 4 rattles to its tail. 
+
+![Northern Pacific Rattlesnake]({{ site.baseurl }}/assets/snakes/goals/norPacRatSum20.jpg)
+
+It was patiently waiting for me to get out of my car, but after one step too close it took off.
+
+![Northern Pacific Rattlesnake]({{ site.baseurl }}/assets/snakes/goals/norPacRatSum201.jpg)
+
+It took shelter in a hole on the side of the road and I left it alone as I had already bothered it enough.
+
+![Northern Pacific Rattlesnake]({{ site.baseurl }}/assets/snakes/goals/norPacRatSum202.jpg)
+
+Probably cruising again tomorrow as temperatures should peak around 107. If I don't update this post then I am making my way to Socal and will update once back.
