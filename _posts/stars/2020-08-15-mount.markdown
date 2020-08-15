@@ -1,0 +1,16 @@
+---
+layout: postS
+title:  "Trial Time"
+date:   2020-08-09 14:00:00
+preview: /assets/stars/mount/preview.jpg
+stars: "on"
+number: 37
+---
+
+Before I head down to Southern California for the last time this summer I wanted to try a couple things out. First, my brother got a mount and I wanted to test out my camera on it. Unfortunately, the set up with my camera and telescope was a little too heavy for the setup and the tracking did not work. That being said I got the picture of Jupiter below. It has decent color and there is some appearance of the bands but when zoomed in it is clearly out of focus.
+
+![Jupiter]({{ site.baseurl }}/assets/stars/mount/Jupiter.jpg)
+
+The other thing I wanted to try out was getting a picture of my brother using the telescope in front of the stars. I am very happy with this photo and it is a huge improvement on the original death valley photo of him. Composition. Lighting. Posing. There are a lot of details I focused on that came out pretty well. Looking to take another one in Southern California with the Milky Way in the background.
+
+![Star Explorer]({{ site.baseurl }}/assets/stars/mount/starExplorer.jpg)
