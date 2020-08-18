@@ -9,20 +9,20 @@ number: 39
 
 As mentioned in the previous post, the goal of this trip is to get closer to having seen all the rattlesnakes of California. My progress is seen below:
 
-|Species|Seen at all?|Seen this summer?|
+|Species|Lifer Date|Encounters This Summer|
 |---|---|---|
-|Northern Pacific Rattlesnake|✓|✓|
-|Colorado Desert Sidewinder|✓|✓|
-|Mohave Desert Sidewinder|✓|✓|
-|Northern Mohave Rattlesnake|✓|✓|
-|Panamint Rattlesnake|✓|✓|
-|Red Diamond Rattlesnake|✓|✓|
-|Southern Pacific Rattlesnake|✓|X|
-|Southwestern Speckled Rattlesnake|X|X|
-|Western Diamond-backed Rattlesnake|X|X|
-|Great Basin Rattlesnake|X|X|
+|Red Diamond Rattlesnake|March 29, 2018|2|
+|Northern Pacific Rattlesnake|June 4, 2018|3|
+|Southern Pacific Rattlesnake|March 27, 2019|0|
+|Colorado Desert Sidewinder|May 26, 2020|5|
+|Mohave Desert Sidewinder|July 1, 2020|4|
+|Panamint Rattlesnake|July 2, 2020|1|
+|Northern Mohave Rattlesnake|August 16, 2020|2|
+|Southwestern Speckled Rattlesnake|X|0|
+|Western Diamond-backed Rattlesnake|X|0|
+|Great Basin Rattlesnake|X|0|
 
-The goal is to find a Southwestern Speckled and Western Diamond-backed Rattlesnake (already found a Northern Mohave). If I find both of those this trip then I may take one more jab at finding the Great Basin Rattlesnake this summer. 
+The goal is to find a Southwestern Speckled and Western Diamond-backed Rattlesnake (already checked off a Northern Mohave this trip). If I find both of those this trip then I may take one more jab at finding the Great Basin Rattlesnake this summer. 
 
 With that in mind, below is how the trip has gone thus far.
 
