@@ -1,0 +1,58 @@
+---
+layout: postS
+title:  "Thunderstorm"
+date:   2020-08-16 14:00:00
+preview: /assets/stars/storm/preview.jpg
+stars: "on"
+number: 38
+---
+
+Thunderstorms in California are quite rare, especially to this degree. I was awoken by lights at 4am and realized I had a rare opportunity to capture this. Set up my tripod and camera gear in my backyard and threw together some chairs for an umbrella to lean on. 3,200 photos and nearly three hours later, I got these 22 photos. 
+
+![Lightning Storm]({{ site.baseurl }}/assets/stars/storm/1.jpg)
+
+![Lightning Storm]({{ site.baseurl }}/assets/stars/storm/2.jpg)
+
+![Lightning Storm]({{ site.baseurl }}/assets/stars/storm/3.jpg)
+
+![Lightning Storm]({{ site.baseurl }}/assets/stars/storm/4.jpg)
+
+![Lightning Storm]({{ site.baseurl }}/assets/stars/storm/5.jpg)
+
+![Lightning Storm]({{ site.baseurl }}/assets/stars/storm/6.jpg)
+
+![Lightning Storm]({{ site.baseurl }}/assets/stars/storm/7.jpg)
+
+![Lightning Storm]({{ site.baseurl }}/assets/stars/storm/8.jpg)
+
+![Lightning Storm]({{ site.baseurl }}/assets/stars/storm/9.jpg)
+
+![Lightning Storm]({{ site.baseurl }}/assets/stars/storm/10.jpg)
+
+![Lightning Storm]({{ site.baseurl }}/assets/stars/storm/11.jpg)
+
+![Lightning Storm]({{ site.baseurl }}/assets/stars/storm/12.jpg)
+
+![Lightning Storm]({{ site.baseurl }}/assets/stars/storm/13.jpg)
+
+![Lightning Storm]({{ site.baseurl }}/assets/stars/storm/14.jpg)
+
+![Lightning Storm]({{ site.baseurl }}/assets/stars/storm/15.jpg)
+
+![Lightning Storm]({{ site.baseurl }}/assets/stars/storm/16.jpg)
+
+![Lightning Storm]({{ site.baseurl }}/assets/stars/storm/17.jpg)
+
+![Lightning Storm]({{ site.baseurl }}/assets/stars/storm/18.jpg)
+
+![Lightning Storm]({{ site.baseurl }}/assets/stars/storm/19.jpg)
+
+![Lightning Storm]({{ site.baseurl }}/assets/stars/storm/20.jpg)
+
+![Lightning Storm]({{ site.baseurl }}/assets/stars/storm/21.jpg)
+
+![Lightning Storm]({{ site.baseurl }}/assets/stars/storm/22.jpg)
+
+Crazy variety all around. Some photos were just a flash, some a bolt, and one seemed to catch multiple bolts. It was awesome to see the change in clouds, the added rain at points, and the sun beginning to rise towards the end. I think my favorite are the single bolts which throw some light on the clouds and are accompanied by a little rain. The best individual bolt is the last one and the one with tons of bolts is cool. I was very impressed with what came out. 
+
+Without a heat sensor (not sure what instrument is normally used to trigger the shutter) I just set up my camera to take 1 second exposures with a two second delay. In hindsight, there were other locations which would have produced better phots or would have seen more bolts. My settings weren't the most keyed in as I was out of focus and the lighting is not great on a lot of photos. Definetely better settings I could have shot this in but I am happy with the end result considering I didn't prep for this at all. I know its not stars but most were at least taken in the dark.
