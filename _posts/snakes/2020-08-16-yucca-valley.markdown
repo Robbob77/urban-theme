@@ -14,11 +14,11 @@ As mentioned in the previous post, the goal of this trip is to get closer to hav
 |Red Diamond Rattlesnake|March 29, 2018|2|
 |Northern Pacific Rattlesnake|June 4, 2018|3|
 |Southern Pacific Rattlesnake|March 27, 2019|0|
-|Colorado Desert Sidewinder|May 26, 2020|5|
+|Colorado Desert Sidewinder|May 26, 2020|6|
 |Mohave Desert Sidewinder|July 1, 2020|4|
 |Panamint Rattlesnake|July 2, 2020|1|
 |Northern Mohave Rattlesnake|August 16, 2020|2|
-|Southwestern Speckled Rattlesnake|X|0|
+|Southwestern Speckled Rattlesnake|August 18, 2020|3|
 |Western Diamond-backed Rattlesnake|X|0|
 |Great Basin Rattlesnake|X|0|
 
@@ -77,3 +77,55 @@ The last snake of the night was a Colorado Desert Sidewinder. Nice to see these 
 ![Colorado Desert Sidewinder]({{ site.baseurl }}/assets/snakes/rattlesnakes/colSidSum20.jpg)
 
 Aside from the heat lightning in the distantce, the only other excitement was encountering two DOR glossy snakes. I am sure more of those will be seen at some point during this trip.
+
+<div align="center"><h3> August 18 </h3></div>
+
+Got out with a plan. First day looking for some Southwestern Speckled Rattlesnakes. Wanted to check out a couple locations and go for a little hike. Started out rather slow. The beginning roads were highly trafficked and the temperatures remained quite high. Hit one road that had no one on it, some high rocky hills on either side and looked quite promising aside from the triple digit temperatures. Kept moving and just like the night before, found the first snake right outside of Joshua Tree. 
+
+![Colorado Desert Sidewinder]({{ site.baseurl }}/assets/snakes/rattlesnakes/colSidSum201.jpg)
+
+With no shoulder on the road and cars off in the distance, the snake was quickly moved off the road and the journey continued. Entering Joshua Tree, we scanned the horizon and looked for a good location to hike. Before much traveling we were off the road and walking through the desolate land. Dry and deserted at first look. Over time we began to notice life. We began to recognize the quick movements in the bushes were kangaroo mice, many of the lights reflecting back at us were small insects, and the holes we were stepping over were often occupied by Tarantulas.
+
+![Tarantula]({{ site.baseurl }}/assets/snakes/rattlesnakes/tarantula.jpg)
+
+It was a cool find to see the Tarantulas. Before long we began to notice them everywhere. Hanging out by their holes and being quick to retreat inside as we approached. They had a vaariety of colors ranging from light brown to dark brown with black stripes. Very neat!
+
+We followed a wash up to the base of a rocky hill and began our slow scramble up. Carefully peering in every crack and crevice and watching our every step. In a matter of minutes I spotted our target. After stepping over a rock, I saw a small patch of dirt amongst the rocks with a creosote bush nearby. Caught off guard I rushed to pull out my camera and snap a couple shots. 
+
+![Southwestern Speckled Rattlesnake]({{ site.baseurl }}/assets/snakes/rattlesnakes/speRatSum20.jpg)
+
+Very aware of my presence it retreated to the shelter of the creosote bush.
+
+![Southwestern Speckled Rattlesnake]({{ site.baseurl }}/assets/snakes/rattlesnakes/speRatSum201.jpg)
+
+Coiled up, I got a couple shots before leaving it be. 
+
+![Southwestern Speckled Rattlesnake]({{ site.baseurl }}/assets/snakes/rattlesnakes/speRatSum202.jpg)
+
+Crazy luck to find it so fast and have it be a larger one. Speckled rattlesnakes are known for having a variety of colors and patterns as their camoflouge represents the environment around them. This one was a peachy color which obviously represented its terrain. It is fascinating as the Colorado Desert Sidewinders in the area maintain a similar peachy color yet can be distinguished from speckled rattlesnakes by their "horned" eyes, smaller size, and unique locomotive method. On the topic of locomotives, I don't know if it is a pattern of finding panamints and speckleds on the hunt but they seem to have a unique slither. It is almost an inching motion where they apply pressure with one segment of their body and inch the rest forward. Obviously, as my sample size is small I can't comment on if it is situation dependent or species dependent.
+
+On the journey back to the car, nothing was seen aside from some black widows. Content with the night after the successful hike, we began to head out of the park. A brief stop to look at the stars, enjoy the Perseid meteor shower, and watch bats circle the car. Passed a scorpion when we continued the drive, but was not fast enough to stop the car and find it.
+
+About an hour into our drive back, we saw the familiar sight of a rattlesnake in the road. It did not take long to identify it as another speckled rattlesnake. 
+
+![Southwestern Speckled Rattlesnake]({{ site.baseurl }}/assets/snakes/rattlesnakes/speRatSum203.jpg)
+
+This one did not seem to bothered by our presence. Driving by it scared away a couple mice and I am sure the rattlesnake was annoyed with our presence scaring away its prey.
+
+![Southwestern Speckled Rattlesnake]({{ site.baseurl }}/assets/snakes/rattlesnakes/speRatSum204.jpg)
+
+It slithered right by us and off the road and continued its hunt as seen below. I apologize about the profanity.
+
+<iframe width="100%" height= "500" src="https://www.youtube.com/embed/1zyrWBdf1ts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+There may be some more experimental videos later on. Just checking out some different media forms. 
+
+As the night continued, the luck kept coming. One more speckled before we left the park.
+
+![Southwestern Speckled Rattlesnake]({{ site.baseurl }}/assets/snakes/rattlesnakes/speRatSum205.jpg)
+
+This one was smaller than the other two, but sported a little meal bump. I think its meal bump made it a little lethargic and more defensive. It is the only rattlesnake I have seen this trip that actually coiled up into a defensive position and rattled.
+
+![Southwestern Speckled Rattlesnake]({{ site.baseurl }}/assets/snakes/rattlesnakes/speRatSum206.jpg)
+
+Huge day! I expected the search for the Speckled Rattlesnake to take much longer so rounding this hump is monumental. I'll be looking for the Western Diamondback over the next couple days and seeing if I can maybe come up on another variant of a Speckled.

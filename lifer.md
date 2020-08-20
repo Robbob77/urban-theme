@@ -40,7 +40,7 @@ permalink: /liferList/
 |California Red-Sided Gartersnake|April 19, 2020|April 19, 2020|![Red Sided Garter]({{ site.baseurl }}/assets/snakes/lifers/redSidedGarter.jpg)|
 |Desert Glossy Snake|May 25, 2020|May 27,2020|![Desert Glossy Snake]({{ site.baseurl }}/assets/snakes/lifers/desertGlossy.jpg)|
 |Colorado Desert Shovel-nosed Snake|May 26, 2020|May 27, 2020|![Colorado Desert Shovel Nose]({{ site.baseurl }}/assets/snakes/lifers/shovelNose.jpg)|
-|Colorado Desert Sidewinder|May 26, 2020|August 17, 2020|![Colorado Sidewinder]({{ site.baseurl }}/assets/snakes/lifers/sidewinder.jpg)|
+|Colorado Desert Sidewinder|May 26, 2020|August 18, 2020|![Colorado Sidewinder]({{ site.baseurl }}/assets/snakes/lifers/sidewinder.jpg)|
 |Spotted Leaf-nosed Snake|May 26, 2020|July 4, 2020|![Leaf Nose]({{ site.baseurl }}/assets/snakes/lifers/leafNose.jpg)|
 |Mojave Desert Sidewinder|July 1, 2020|July 2, 2020|![Mojave Sidewinder]({{ site.baseurl }}/assets/snakes/lifers/mojaveSidewinder.jpg)|
 |Great Basin Gophersnake|July 2, 2020|July 2, 2020|![Great Basin Gophersnake]({{ site.baseurl }}/assets/snakes/lifers/greatBasinGopher.jpg)|
@@ -50,5 +50,6 @@ permalink: /liferList/
 |Mojave Shovel-nosed Snake|July 4, 2020|July 4, 2020|![Mojave Shovel-nose]({{ site.baseurl }}/assets/snakes/lifers/mojaveShovel.jpg)|
 |Northern Mojave Rattlesnake|August 16, 2020|August 17, 2020|![Mojave Rattlesnake]({{ site.baseurl }}/assets/snakes/lifers/mojaveRattlesnake.jpg)|
 |Long-nosed Snake|August 17, 2020|August 17, 2020|![Long-nosed Snake]({{ site.baseurl }}/assets/snakes/lifers/longNosed.jpg)| 
+|Southwestern Speckled Rattlesnake|August 18, 2020|August 18, 2020|![Southwestern Speckled Rattlesnake]({{ site.baseurl }}/assets/snakes/lifers/speckledRattlesnake.jpg)|
 
-45 total species!
+46 total species!
