@@ -42,14 +42,15 @@ permalink: /liferList/
 |Colorado Desert Shovel-nosed Snake|May 26, 2020|May 27, 2020|![Colorado Desert Shovel Nose]({{ site.baseurl }}/assets/snakes/lifers/shovelNose.jpg)|
 |Colorado Desert Sidewinder|May 26, 2020|August 18, 2020|![Colorado Sidewinder]({{ site.baseurl }}/assets/snakes/lifers/sidewinder.jpg)|
 |Spotted Leaf-nosed Snake|May 26, 2020|July 4, 2020|![Leaf Nose]({{ site.baseurl }}/assets/snakes/lifers/leafNose.jpg)|
-|Mojave Desert Sidewinder|July 1, 2020|July 2, 2020|![Mojave Sidewinder]({{ site.baseurl }}/assets/snakes/lifers/mojaveSidewinder.jpg)|
+|Mohave Desert Sidewinder|July 1, 2020|July 2, 2020|![Mohave Sidewinder]({{ site.baseurl }}/assets/snakes/lifers/mohaveSidewinder.jpg)|
 |Great Basin Gophersnake|July 2, 2020|July 2, 2020|![Great Basin Gophersnake]({{ site.baseurl }}/assets/snakes/lifers/greatBasinGopher.jpg)|
-|Mojave Glossy Snake|July 2, 2020|July 2, 2020|![Mojave Glossy]({{ site.baseurl }}/assets/snakes/lifers/mojaveGlossy.jpg)|
+|Mohave Glossy Snake|July 2, 2020|July 2, 2020|![Mohave Glossy]({{ site.baseurl }}/assets/snakes/lifers/mohaveGlossy.jpg)|
 |Panamint Rattlesnake|July 2, 2020|July 2, 2020|![Panamint Rattlesnake]({{ site.baseurl }}/assets/snakes/lifers/panamint.jpg)|
-|Northern Desert Nightsnake|July 4, 2020|July 4, 2020|![Northern Desert Nightsnake]({{ site.baseurl }}/assets/snakes/lifers/desertNightsnake.jpg)|
-|Mojave Shovel-nosed Snake|July 4, 2020|July 4, 2020|![Mojave Shovel-nose]({{ site.baseurl }}/assets/snakes/lifers/mojaveShovel.jpg)|
-|Northern Mojave Rattlesnake|August 16, 2020|August 17, 2020|![Mojave Rattlesnake]({{ site.baseurl }}/assets/snakes/lifers/mojaveRattlesnake.jpg)|
+|Northern Desert Nightsnake|July 4, 2020|August 21, 2020|![Northern Desert Nightsnake]({{ site.baseurl }}/assets/snakes/lifers/desertNightsnake.jpg)|
+|Mohave Shovel-nosed Snake|July 4, 2020|July 4, 2020|![Mohave Shovel-nose]({{ site.baseurl }}/assets/snakes/lifers/mohaveShovel.jpg)|
+|Northern Mohave Rattlesnake|August 16, 2020|August 17, 2020|![Mohave Rattlesnake]({{ site.baseurl }}/assets/snakes/lifers/mohaveRattlesnake.jpg)|
 |Long-nosed Snake|August 17, 2020|August 17, 2020|![Long-nosed Snake]({{ site.baseurl }}/assets/snakes/lifers/longNosed.jpg)| 
 |Southwestern Speckled Rattlesnake|August 18, 2020|August 18, 2020|![Southwestern Speckled Rattlesnake]({{ site.baseurl }}/assets/snakes/lifers/speckledRattlesnake.jpg)|
+|Western Diamond-backed Rattlesnake|August 21, 2020|August 21, 2020|![Western Diamond-backed Rattlesnake]({{ site.baseurl }}/assets/snakes/lifers/westernDiamondback.jpg)|
 
-46 total species!
+47 total species!

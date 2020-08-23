@@ -19,12 +19,10 @@ As mentioned in the previous post, the goal of this trip is to get closer to hav
 |Panamint Rattlesnake|July 2, 2020|1|
 |Northern Mohave Rattlesnake|August 16, 2020|2|
 |Southwestern Speckled Rattlesnake|August 18, 2020|3|
-|Western Diamond-backed Rattlesnake|X|0|
+|Western Diamond-backed Rattlesnake|August 21, 2020|6|
 |Great Basin Rattlesnake|X|0|
 
-The goal is to find a Southwestern Speckled and Western Diamond-backed Rattlesnake (already checked off a Northern Mohave this trip). If I find both of those this trip then I may take one more jab at finding the Great Basin Rattlesnake this summer. 
-
-With that in mind, below is how the trip has gone thus far.
+This trip was a great success! I found all three of the remaining southern california rattlesnakes that I hadn't seen. The only rattlesnake I have yet to see in California is the Great Basin Rattlesnake. Looks like I have a goal for next summer.
 
 <div align="center"><h3> August 16 </h3></div>
 
@@ -129,3 +127,72 @@ This one was smaller than the other two, but sported a little meal bump. I think
 ![Southwestern Speckled Rattlesnake]({{ site.baseurl }}/assets/snakes/rattlesnakes/speRatSum206.jpg)
 
 Huge day! I expected the search for the Speckled Rattlesnake to take much longer so rounding this hump is monumental. I'll be looking for the Western Diamondback over the next couple days and seeing if I can maybe come up on another variant of a Speckled.
+
+<div align="center"><h3> August 20 </h3></div>
+
+After taking the night of the 19th off in order to catch up on rest, I was ready to get back at it. Having already found the other two rattlesnakes, my attention has turned to the Western Diamond-backed Rattlesnake. I sent a new location and as the trend seems to be when herping in unknown areas I had very little luck. I spent most of the night wandering around a park that didn't look promising and watched thunderstorms approach. Thankfully, as I was leaving the park I stumbled upon a desert nightsnake making the night not a total bust.
+
+![Desert Nightsnake]({{ site.baseurl }}/assets/snakes/rattlesnakes/desNigSum20.jpg)
+
+Rough night, walked that little guy in circles trying to get a good picture. The one I got was over exposed and out of focus. Either way just happy not to get skunked on the night and get out of there before the thunderstorm made it. On the way back to the hotel I saw a DOR sonoran gophersnake.
+
+<div align="center"><h3> August 21 </h3></div>
+
+On the final herping night of the trip, I had high hopes. Changed up the locations I was searching for the diamondback, picked some roads, and headed out. Nearly two hours from the hotel I was staying at, the night started off great. At the start of the first couple roads I came upon a neonate diamondback. Seems like there is a trend of my lifers being neonates. 
+
+![Western Diamond-backed Rattlesnake]({{ site.baseurl }}/assets/snakes/rattlesnakes/wesDiaSum20.jpg)
+
+As this was my lifer and a target of the trip, I took a handful of shots to properly ID the snake. It seemed as though the greatest possibility at misidentification was confusion with the Mohave Rattlesnake (due to the lack of overlap with the Red Diamond-backed Rattlesnake I was not worried about that). From the shot above, you can see the eye stripe does not extend as far back as it does on the Mohave.
+
+![Western Diamond-backed Rattlesnake]({{ site.baseurl }}/assets/snakes/rattlesnakes/wesDiaSum201.jpg)
+
+More than the two supraocular scales present on the Mohave.
+
+![Western Diamond-backed Rattlesnake]({{ site.baseurl }}/assets/snakes/rattlesnakes/wesDiaSum202.jpg)
+
+Closest band to the rattle is black and the bands are fairly equal in width. Pretty confident in the identification that this neonate is a Western Diamond-backed Rattlesnake. With that, I have successfully hit all my targets for the trip! That being said, the night was still young so I continued with my roads. Had little success for the next three hours and all of the places I wanted to hike were closed at sundown. After exhausting my preparation, I decided to cruise the road that I found the diamondback on again. I noticed a trail head that I hadn't before and saw it wasn't closed at night. Parked, pulled out my plethora of flashlights, and began the hike. Quickly came to a wash and decided to explore it. Within a matter of minutes I saw another diamondback, this one just chilling next to a hole. 
+
+![Western Diamond-backed Rattlesnake]({{ site.baseurl }}/assets/snakes/rattlesnakes/wesDiaSum203.jpg)
+
+Didn't want to bother it too much. Snapped a quick picture and moved along with renewed vigor. Further down the wash, the rock walls built a little on either side created some holes and crevices. Wasn't long before more snakes were spotted. Great spot from my brother who was enthusiastically checking crevices. His attention to detail paid off with this spot of double diamondbacks in one hole.
+
+![Western Diamond-backed Rattlesnake]({{ site.baseurl }}/assets/snakes/rattlesnakes/wesDiaSum204.jpg)
+
+I'm fairly certain it is too late for them to be a mating pair. Were they both just finding shelter in the same location?
+
+The next snake spotted returned to the normalcy of one snake at a time. This was a beefy diamondback which seemed to be resting on a ledge. Wish I could have gotten above it as the diamondback pattern seemed to be quite clean.
+
+![Western Diamond-backed Rattlesnake]({{ site.baseurl }}/assets/snakes/rattlesnakes/wesDiaSum205.jpg)
+
+As it was getting late we decided to head back. As we were about to leave the wash we heard a sound and turned off our lights for a moment to see if we could hear it again. Next thing I knew, I heard something moving between my brother and I. I don't know who was startled more. Once everyone was aware of each others presence, the diamondback coiled up and my brother and I backed up before taking out the camera. We will never know if I walked past the snake or it slithered between us when we paused to listen. Either way, this goes to prove the defensive nature of snakes. It wasn't until we put a light on it that it coiled up, it had been content with us passing by. Good thing we didn't step on it as it was bigger than the snake we had just seen.
+
+![Western Diamond-backed Rattlesnake]({{ site.baseurl }}/assets/snakes/rattlesnakes/wesDiaSum206.jpg)
+
+After that incident we were ready to get out of there and were extra cautious on the way back to the car. So cautious that we saw a nightsnake slithering across our path. 
+
+![Desert Nightsnake]({{ site.baseurl }}/assets/snakes/rattlesnakes/desNigSum201.jpg)
+
+Quite the eventful night. With the exception of a DOR long-nosed snake, that marks the end of our successful trip. 
+
+<div align="center"><h2> Trip Conclusion </h2></div>
+
+
+This trip was incredibly successful with the finding of all three of the targeted species. There is an extra sense of accomplishment as two of the species were successfully hiked up indicating an understanding of their habitat and ideal conditions. In total 17 snakes of 7 species were found over the five nights of herping: 6 Western Diamond-backed Snakes, 3 Southwestern Speckled Rattlesnakes, 2 Mohave Rattlesnakes, 2 Colorado Desert Sidewinders, 2 Desert Nightsnakes, a long-nosed snake, and a california kingsnake. Four lifers is exciting and just goes to show how little time I have spent in Southern California.
+
+<div align="center"><h2> Summer Conclusion </h2></div>
+
+I know this post is massive, but as this is my last trip of the summer I am going to wrap up the summer herping here rather than in a new post. This was a great summer primarily defined by my early arrival home, the flourishing of my boards, and the trips down south. The early arrival home led to a lifer that was overdue, the Pacific Ring-necked Snake. The boards led to a couple crazy days of 20+ snakes. It became the summer of rattlesnake species as I explored southern california and found all the rattlesnakes it had to offer. The goal of next summer seems to be finishing off the california rattlesnakes (Great Basin Rattlesnake), search for the elusive California Mountain Kingsnake, and try to knock out some more lifers such as the Rosy Boa, Alameda Whipsnake, and maybe even the San Francisco Gartersnake.
+
+This summer in numbers: 
+
+156 snakes, 22 total species, 16 lifers
+
+Three most found snakes: California Kingsnake (46), Pacific Gophersnake (44), and the Pacific Ring-necked snake (12) making up 102 of the 156 snakes or 65% of the total snakes seen. No other snake had double digit encounters.
+
+27 rattlesnake encounters with 8 species, only missing the Southern Pacific Rattlesnake (seen last year) and the Great Basin Rattlesnake.
+
+3 snakes found wandering my neighborhood; a california kingsnake, pacific gophersnake, and common sharp-tailed snake.
+
+I would say the most exciting snake found was the Southwestern Speckled Rattlesnake.
+
+With that, see you on the next herping adventure whenever that may be.
