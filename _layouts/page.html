@@ -8,7 +8,10 @@ layout: default
     $('#table_id').DataTable( {
       "order": [[ 1, "asc"]],
       "lengthMenu": [[10, 25, -1], [10, 25, "All"]],
-      "pageLength": -1
+      "pageLength": -1,
+      "columnDefs": [
+        { "visible": false, "targets": 4 }
+      ]
     });
   } );
     </script>
