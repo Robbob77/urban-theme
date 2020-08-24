@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Southern California Rattlesnakes"
+title:  "SoCal Rattlesnakes"
 date:   2020-08-16 18:00:00
 preview: /assets/snakes/rattlesnakes/preview.jpg
 snake: "on"

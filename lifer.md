@@ -3,6 +3,7 @@ layout: page
 title: Lifer List
 permalink: /liferList/
 ---
+
 |Species|Date First Observed|Most Recent Observation|Favorite Picture|
 |---|---|---|---|
 |Red Diamond Rattlesnake|March 29, 2018|May 27, 2020|![Red Diamond Rattlesnake]({{ site.baseurl }}/assets/snakes/lifers/redDiamondRattle.jpg)|   
