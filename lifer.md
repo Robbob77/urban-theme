@@ -348,7 +348,7 @@ datatable: true
             <td>2020/08/21</td>
             <td>2020/08/21</td>
             <td><img src="/assets/snakes/lifers/westernDiamondback.jpg" alt="Western Diamond-backed Rattlesnake"></td>
-            <th>California, West</th>
+            <th>California, Arizona, West</th>
         </tr>
     </tbody>
 </table>
