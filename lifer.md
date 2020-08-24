@@ -2,11 +2,13 @@
 layout: page
 title: Lifer List
 permalink: /liferList/
+datatable: true
 ---
 
+<div class="datatable-begin"></div>
 |Species|Date First Observed|Most Recent Observation|Favorite Picture|
 |---|---|---|---|
-|Red Diamond Rattlesnake|March 29, 2018|May 27, 2020|![Red Diamond Rattlesnake]({{ site.baseurl }}/assets/snakes/lifers/redDiamondRattle.jpg)|   
+|Red Diamond Rattlesnake|March 29, 2018|May 27, 2020|![Red Diamond Rattlesnake]({{ site.baseurl }}/assets/snakes/lifers/redDiamondRattle.jpg)|
 |Northern Pacific Rattlesnake|June 4, 2018|August 13, 2020|![NorPac]({{ site.baseurl }}/assets/snakes/lifers/norPac.jpg)|
 |Pacific Gophersnake|June 5, 2018|July 20, 2020|![Pacific Gophersnake]({{ site.baseurl }}/assets/snakes/lifers/pacificGopher.jpg)|
 |Diablo Range Gartersnake|June 10, 2018|June 18, 2019|![Diablo Range Gartersnake]({{ site.baseurl }}/assets/snakes/lifers/diabloRangeGarter.jpg)|
@@ -53,5 +55,6 @@ permalink: /liferList/
 |Long-nosed Snake|August 17, 2020|August 17, 2020|![Long-nosed Snake]({{ site.baseurl }}/assets/snakes/lifers/longNosed.jpg)| 
 |Southwestern Speckled Rattlesnake|August 18, 2020|August 18, 2020|![Southwestern Speckled Rattlesnake]({{ site.baseurl }}/assets/snakes/lifers/speckledRattlesnake.jpg)|
 |Western Diamond-backed Rattlesnake|August 21, 2020|August 21, 2020|![Western Diamond-backed Rattlesnake]({{ site.baseurl }}/assets/snakes/lifers/westernDiamondback.jpg)|
+<div class="datatable-end"></div>
 
 47 total species!

@@ -1,6 +1,23 @@
 ---
 layout: default
 ---
+<head>
+  <link rel="stylesheet" type="text/css" href="DataTables/datatables.min.css"/>
+ 
+  <script type="text/javascript" src="DataTables/datatables.min.js"></script>
+
+  <script>
+    $(document).ready(function(){
+      <script>console.log("hello");</script>
+        $('table.display').DataTable( {
+            paging: true,
+            stateSave: true,
+            searching: true
+        }
+            );
+    });
+    </script>
+</head>
 
 <div class="post">
 
