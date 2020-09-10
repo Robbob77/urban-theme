@@ -1,0 +1,42 @@
+---
+layout: postS
+title:  "Whales"
+date:   2020-09-08 14:00:00
+preview: /assets/stars/whales/preview.jpg
+stars: "on"
+number: 40
+---
+
+Another early morning surf session, arriving just past sunrise. The beach always looks the best at this golden hour.
+
+![Pacifica]({{ site.baseurl }}/assets/stars/whales/Pacifica2.jpg)
+
+I was shocked that from the shore it appeared as though there was something on the waters. Either the water was choppy or there was something throwing some mist into the air. From afar I could make some animal surfacing for air and caught the first humpback on camera (center of the picture below).
+
+![Pacifica]({{ site.baseurl }}/assets/stars/whales/Pacifica.jpg)
+
+Once it became apparent that they were humpbacks, I began to recognize blows all across the ocean spanning in front of me.
+
+![Humpback Whale Blowing]({{ site.baseurl }}/assets/stars/whales/whaleBlow.jpg)
+
+I felt as though I was back in Hawaii, watching pods and calling out their behaviors.
+
+Blow! South of us about 10 ticks out from the shore!
+
+![Humpback Whale Blowing]({{ site.baseurl }}/assets/stars/whales/whaleBlow1.jpg)
+
+After observing for a short time, I was graced with a spell of breaches. I was never quite prepared for them to exit the water so I only caught their return to the surface.
+
+![Humpback Whale Breaching]({{ site.baseurl }}/assets/stars/whales/whaleBreach.jpg)
+
+![Humpback Whale Breaching]({{ site.baseurl }}/assets/stars/whales/whaleBreach1.jpg)
+
+![Humpback Whale Breaching]({{ site.baseurl }}/assets/stars/whales/whaleBreach2.jpg)
+
+![Humpback Whale Breaching]({{ site.baseurl }}/assets/stars/whales/whaleBreach3.jpg)
+
+Are they communicating with each other, removing barnacles, or just playing? Who knows.
+
+It was fun to see the humpbacks again. This time rather than at their breeding grounds, they were in the middle of their migration up towards the Alaskan waters to feed during the winter. 
+
+Crazy fact; with the current population estimates for humpback whales it is more likely for me to see the same whale than it is for a whale to see the same human.
