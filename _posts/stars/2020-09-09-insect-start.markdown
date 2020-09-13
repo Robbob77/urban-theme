@@ -48,7 +48,7 @@ Observed: September 9th
 ![Bug6]({{ site.baseurl }}/assets/stars/insectsStart/bug6.2.jpg)
 
 Bug #7 (inchworm)
-Observed: Septemeber 10th/11th?
+Observed: Septemeber 10th
 
 ![Bug7]({{ site.baseurl }}/assets/stars/insectsStart/bug7.jpg)
 
