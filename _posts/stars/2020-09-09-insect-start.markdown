@@ -63,3 +63,8 @@ Bug #9 (katydid)
 Observed: September 13th
 
 ![Bug9]({{ site.baseurl }}/assets/stars/insectsStart/bug9.jpg)
+
+Bug #10 (praying mantis)
+Observed: September 13th
+
+![Bug10]({{ site.baseurl }}/assets/stars/insectsStart/bug10.jpg)
