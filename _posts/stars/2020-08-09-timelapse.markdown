@@ -26,3 +26,7 @@ While there I couldn't help but take a couple shots. These reiterate the idea th
 ![Stars]({{ site.baseurl }}/assets/stars/timelapse/star.jpg)
 
 ![Stars]({{ site.baseurl }}/assets/stars/timelapse/star1.jpg)
+
+Taken 9/17/2020
+
+![Stars]({{ site.baseurl }}/assets/stars/timelapse/timelapse3.gif)

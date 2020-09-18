@@ -68,3 +68,11 @@ Bug #10 (praying mantis)
 Observed: September 13th
 
 ![Bug10]({{ site.baseurl }}/assets/stars/insectsStart/bug10.jpg)
+
+Fabre Focus article #1
+
+Talk about seeing it outside, hearing others excitement, observing it, feeling it climb and grasp onto fingers, appreciation of different body parts, it calming down, cleaning legs, watching it breath, brings focus to the belly, notice it is gravid, put it down, see it clawing at the window, let it go, maybe return and observe more?, mention its copulation sometime in the last 11 days
+
+![Mantis]({{ site.baseurl }}/assets/stars/insectsStart/mantis.jpg)
+
+![Mantis]({{ site.baseurl }}/assets/stars/insectsStart/gravidMantis.jpg)
