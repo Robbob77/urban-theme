@@ -66,7 +66,7 @@ datatable: true
         <tr>
             <td>Eastern Gartersnake</td>
             <td>2018/09/22</td>
-            <td>2020/09/13</td>
+            <td>2020/10/10</td>
             <td><img src="/assets/snakes/lifers/easternGarter.jpg" alt="Eastern Gartersnake"></td>
             <th>Vermont, East</th>
         </tr>
@@ -101,7 +101,7 @@ datatable: true
         <tr>
             <td>Eastern Milksnake</td>
             <td>2019/04/13</td>
-            <td>2019/04/13</td>
+            <td>2020/10/10</td>
             <td><img src="/assets/snakes/lifers/easternMilk.jpg" alt="Eastern Milksnake"></td>
             <th>Vermont, East</th>
         </tr>
@@ -157,9 +157,9 @@ datatable: true
         <tr>
             <td>Northern Brown Snake</td>
             <td>2019/05/28</td>
-            <td>2019/05/28</td>
+            <td>2020/10/10</td>
             <td><img src="/assets/snakes/lifers/brownSnake.jpg" alt="Northern Brown Snake"></td>
-            <th>Virginia, East</th>
+            <th>Virginia, Vermont, East</th>
         </tr>
         <tr>
             <td>Red Bellied Watersnake</td>
