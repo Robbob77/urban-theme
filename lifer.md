@@ -66,7 +66,7 @@ datatable: true
         <tr>
             <td>Eastern Gartersnake</td>
             <td>2018/09/22</td>
-            <td>2020/10/10</td>
+            <td>2020/11/08</td>
             <td><img src="/assets/snakes/lifers/easternGarter.jpg" alt="Eastern Gartersnake"></td>
             <th>Vermont, East</th>
         </tr>
