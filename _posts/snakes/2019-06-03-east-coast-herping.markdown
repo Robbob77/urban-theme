@@ -34,6 +34,6 @@ All snakes seen on this trip: 11 Black racers, 8 Brown watersnake, 4 Pygmy rattl
 
 Notable DORs: Mudsnake, Eastern kingsnake
 
-Other things seen: Box turtles, Painted turtles, Spotted turtles, Eastern mud turtles, Eastern snapping turtles, Yellow bellied turtles, Red bellied turtles, Fawlers toads, Green tree frogs, Narrow mouth toad,Northern red salamander, Dusky salamander, Broad headed skink, Black bears, Possums, Pod of dolphins
+Other things seen: Box turtles, Painted turtles, Spotted turtles, Eastern mud turtles, Eastern snapping turtles, Yellow bellied turtles, Red bellied turtles, Fawlers toads, Green tree frogs, Narrow mouth toad, Northern red salamander, Dusky salamander, Broad headed skink, Black bears, Possums, Pod of dolphins
 
 And those are only what I took note of.
