@@ -1,0 +1,31 @@
+---
+layout: postS
+title:  "Happy Holidays"
+date:   2020-12-24 14:00:00
+preview: /assets/stars/holidays/preview.png
+stars: "on"
+number: 44
+---
+
+With 2020 finally coming to an end, I had a little fun on photoshop. Is this the first of many holiday cards to come?
+
+To anyone who may actually see this website, Merry Christmas and I hope you have a happy New Year!
+
+![Holiday Photoshop]({{ site.baseurl }}/assets/stars/holidays/herpHoliday2020.png)
+
+For those curious, working our way from the bottom left across we have:
+
+1. Mojave Shovel-Nose
+2. California Nightsnake
+3. Western Diamondback
+4. Pacific Giant Salamander
+5. Speckled Rattlesnake
+6. California Tiger Salamander
+7. Pacific Ring-neck
+
+Two Salamanders on stockings:
+
+1. Oregon/Yellow-eyed intergrade ensatina
+2. Spotted Salamander
+
+Happy Holidays!
