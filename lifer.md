@@ -38,7 +38,7 @@ datatable: true
         <tr>
             <td>Pacific Gophersnake</td>
             <td>2018/06/05</td>
-            <td>2020/07/20</td>
+            <td>2020/12/28</td>
             <td><img src="/assets/snakes/lifers/snakes/pacificGopher.jpg" alt="Pacific Gophersnake"></td>
             <th>California, West</th>
         </tr>

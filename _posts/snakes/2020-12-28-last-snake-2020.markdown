@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Final 2020 Snake"
+date:   2020-12-28 12:00:00
+preview: /assets/snakes/lastSnake2020/preview.png
+snake: "on"
+number: 46
+---
+
+Surprise surprise. It may be winter in California but it's still barely warm enough for snakes to be around. Short walk in the warmest part of the day yielded a young gophersnake hanging out under a log. Took a quick in-situ shot and continued my search for salamanders. It's life is hard enough with the weather getting colder, no need to stress it out more. The slight morning rain must not have brought out much life. Only found two slenders and didn't stop to photograph them. 
+
+![Pacific Gophersnake]({{ site.baseurl }}/assets/snakes/lastSnake2020/pacGopWin20.jpg)
+
+With only a couple days left in the year I am sure this marks my last snake of the year. Thus, a quick year in review. 
+
+The year started off in Hawaii where my first herps were some green sea turtles. Being home earlier in the year than usual (March), I was able to take advantage of the rainy season in a way I have never been able to. This marked my introduction to pacific ring-necks, red-sided garters, and all the local salamanders. Later as summer began to role around, I acquired my first macro lens, got into astrophotography, and started taking road trips. With a focus on Southern California I visited death valley, the mojave, and anza borego. It became the year of rattlesnakes as I found panamints, speckleds, and even western diamondbacks which took me into Arizona. The year wraps up back at home with my first ever pacific giant salamander and the gophersnake above being my final snake of the year!
+
+Below are some of the highlight snakes and photos:
+
+![Highlight Collage]({{ site.baseurl }}/assets/snakes/lastSnake2020/preview.png)
+
+All in all I saw 16 lifer snake species, found the giant pacific salamander, and saw green and hawksbill sea turtles.
+
+And with that, on into 2021. Hopefully it will be as successful as this year. It will start off with some diversity as I plan on spending part of February in Georgia!
