@@ -21,30 +21,37 @@ datatable: true
     </thead>
     <tbody>
         <tr>
-            <td>Oregon/Yellow-Eyed Integrade Ensatina</td>
+            <td>Oregon Ensatina</td>
             <td>2020/12/21</td>
-            <td>2020/12/21</td>
-            <td><img src="/assets/snakes/lifers/salamanders/oregonYellowIntegradeEnsatina.jpg" alt="Oregon/Yellow-Eyed Integrade Ensatina"></td>
+            <td>2021/01/03</td>
+            <td><img src="/assets/snakes/lifers/salamanders/oregonEnsatina.jpg" alt="Oregon Ensatina"></td>
+            <th>California, West, Ensatina</th>
+        </tr>
+        <tr>
+            <td>Painted Ensatina</td>
+            <td>2021/01/03</td>
+            <td>2021/01/03</td>
+            <td><img src="/assets/snakes/lifers/salamanders/paintedEnsatina.jpg" alt="Painted Ensatina"></td>
             <th>California, West, Ensatina</th>
         </tr>
         <tr>
             <td>Yellow-Eyed Ensatina</td>
             <td>2019/12/24</td>
-            <td>2020/12/21</td>
+            <td>2020/03/18</td>
             <td><img src="/assets/snakes/lifers/salamanders/yellowEyedEnsatina.jpg" alt="Yellow-Eyed Ensatina"></td>
             <th>California, West, Ensatina</th>
         </tr>
         <tr>
-            <td>Pacific Giant Salamander</td>
+            <td>California Giant Salamander</td>
             <td>2020/12/21</td>
             <td>2020/12/21</td>
-            <td><img src="/assets/snakes/lifers/salamanders/giantPacificSalamander.jpg" alt="Pacific Giant Salamander"></td>
+            <td><img src="/assets/snakes/lifers/salamanders/californiaGiantSalamander.jpg" alt="California Giant Salamander"></td>
             <th>California, West</th>
         </tr>
         <tr>
             <td>California Slender Salamander</td>
             <td>2019/12/19</td>
-            <td>2020/12/17</td>
+            <td>2021/01/03</td>
             <td><img src="/assets/snakes/lifers/salamanders/californiaSlenderSalamander.jpg" alt="California Slender Salamander"></td>
             <th>California, West</th>
         </tr>
@@ -56,11 +63,18 @@ datatable: true
             <th>California, West, Mole</th>
         </tr>
         <tr>
+            <td>Northwestern Salamander</td>
+            <td>2021/01/02</td>
+            <td>2021/01/02</td>
+            <td><img src="/assets/snakes/lifers/salamanders/northwesternSalamander.jpg" alt="Northwestern Salamander"></td>
+            <th>California, West, Mole</th>
+        </tr>
+        <tr>
             <td>Arboreal Salamander</td>
             <td>2019/12/19</td>
             <td>2020/03/15</td>
-            <td><img src="/assets/snakes/lifers/salamanders/arborealSalamander.jpg" alt="Arborea Salamander"></td>
-            <th>California, West</th>
+            <td><img src="/assets/snakes/lifers/salamanders/arborealSalamander.jpg" alt="Arboreal Salamander"></td>
+            <th>California, West, Arboreal</th>
         </tr>
         <tr>
             <td>Blue Spotted Salamander</td>
@@ -88,6 +102,13 @@ datatable: true
             <td>2019/12/29</td>
             <td>2019/12/29</td>
             <td><img src="/assets/snakes/lifers/salamanders/californiaNewt.jpg" alt="California Newt"></td>
+            <th>California, West, Newt</th>
+        </tr>
+        <tr>
+            <td>Rough-Skinned Newt</td>
+            <td>2021/01/02</td>
+            <td>2021/01/02</td>
+            <td><img src="/assets/snakes/lifers/salamanders/roughSkinnedNewt.jpg" alt="Rough-Skinned Newt"></td>
             <th>California, West, Newt</th>
         </tr>
         <tr>
