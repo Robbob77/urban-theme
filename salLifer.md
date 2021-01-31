@@ -119,6 +119,13 @@ datatable: true
             <th>Vermont, East, Newt</th>
         </tr>
         <tr>
+            <td>Broken Striped Newt</td>
+            <td>2021/01/29</td>
+            <td>2021/01/29</td>
+            <td><img src="/assets/snakes/lifers/salamanders/brokenStripedNewt.jpg" alt="Broken Striped Newt"></td>
+            <th>Georgia, East, Newt</th>
+        </tr>
+        <tr>
             <td>Red-Backed Salamander</td>
             <td>2019/09/05</td>
             <td>2020/11/11</td>
@@ -140,7 +147,35 @@ datatable: true
             <th>New Jersey, East</th>
         </tr>
         <tr>
-            <td>Dusky Salamander</td>
+            <td>Ocmulgee Slimy Salamander</td>
+            <td>2021/01/30</td>
+            <td>2021/01/30</td>
+            <td><img src="/assets/snakes/lifers/salamanders/ocmulgeeSlimy.jpg" alt="Ocmulgee Slimy Salamander"></td>
+            <th>Georgia, East</th>
+        </tr>
+        <tr>
+            <td>Mud Salamander</td>
+            <td>2021/01/29</td>
+            <td>2021/01/29</td>
+            <td><img src="/assets/snakes/lifers/salamanders/mudSalamander.jpg" alt="Mud Salamander"></td>
+            <th>Georgia, East</th>
+        </tr>
+        <tr>
+            <td>Carolina Sand Hills Salamander</td>
+            <td>2021/01/29</td>
+            <td>2021/01/29</td>
+            <td><img src="/assets/snakes/lifers/salamanders/carolinaSandHill.jpg" alt="Carolina Sand Hills Salamander"></td>
+            <th>North Carolina, East</th>
+        </tr>
+        <tr>
+            <td>Southern Dusky Salamander</td>
+            <td>2021/01/29</td>
+            <td>2021/01/29</td>
+            <td><img src="/assets/snakes/lifers/salamanders/southernDusky.jpg" alt="Southern Dusky Salamander"></td>
+            <th>North Carolina, East</th>
+        </tr>
+        <tr>
+            <td>Northern Dusky Salamander</td>
             <td>2019/05/29</td>
             <td>2019/05/29</td>
             <td>Not Personally Photographed</td>

@@ -350,5 +350,12 @@ datatable: true
             <td><img src="/assets/snakes/lifers/snakes/westernDiamondback.jpg" alt="Western Diamond-backed Rattlesnake"></td>
             <th>California, Arizona, West</th>
         </tr>
+        <tr>
+            <td>Eastern Hognose</td>
+            <td>2021/01/30</td>
+            <td>2021/01/30</td>
+            <td><img src="/assets/snakes/lifers/snakes/easternHognose.jpg" alt="Eastern Hognose"></td>
+            <th>Georgia, East</th>
+        </tr>
     </tbody>
 </table>

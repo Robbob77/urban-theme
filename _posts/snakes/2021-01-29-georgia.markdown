@@ -1,0 +1,66 @@
+---
+layout: post
+title:  "Georgia"
+date:   2021-01-29 12:00:00
+preview: /assets/snakes/georgia/preview.jpg
+snake: "on"
+number: 48
+---
+
+So it begins, the first herping outing of the new year. Won't be in California but instead I'm embarking on a drive down the east coast which will result in 19 days in South Central Georgia. There the main goal of the trip will be to try and find tiger, mole, and marbled salamanders, an eastern indigo,  pine snake, canebreaks, and eastern diamondbacks. Those are what I would be most excited about finding though I am sure that most of those are unrealistic at this time of year or at the very least incredibly ambitious. At the very least since I haven't been to Georgia before I am expecting to find a plethora of lifers. 
+
+<div align="center"><h3> January 29 (Day 1)</h3></div>
+
+The trip begins. Having spent the first day getting to North Carolina, we spent our time searching for salamanders. As the Carolina Sand Hill Salamanders had just been diverged from the southern two-lined species, we had those and mud salamanders as our primary goal. We were rewarded early on with a gravid female sand hill. 
+
+![Carolina Sand Hill Salamander]({{ site.baseurl }}/assets/snakes/georgia/day1(1-29)/carSanWin21.jpg)
+
+Apparently other locales contain sand hills with a more orange coloration and spots which make it more closely resemble a mud salamander, but I was still excited to have seen them at all. The second one spotted was a male.
+
+![Carolina Sand Hill Salamander]({{ site.baseurl }}/assets/snakes/georgia/day1(1-29)/carSanWin211.jpg)
+
+Males have a sort of whisker above their mouth which resembles a moustache and detects pheromones.
+
+![Carolina Sand Hill Salamander]({{ site.baseurl }}/assets/snakes/georgia/day1(1-29)/carSanWin212.jpg)
+
+We would see two more during the day but neither were photographed. The next species seen was a pair of southern dusky salamanders. I attempted to photograph a particular fiesty sub-adult and got no great identifying pictures but this is the best I got which highlights the red on top and speckles along the side. Later we saw an adult, but it was quickly returned to its habitat without takign the time to photograph the individual.
+
+![Southern Dusky Salamander]({{ site.baseurl }}/assets/snakes/georgia/day1(1-29)/souDusWin21.jpg)
+
+A change in habitat led us to our one and only mud salamander of the day. It was a sub-adult and had poor colors lacking the traditional bright orange, but retained spots along its body and was quite pretty in the light. 
+
+![Mud Salamander]({{ site.baseurl }}/assets/snakes/georgia/day1(1-29)/mudSalWin21.jpg)
+
+With both our targets in the bag, we went to try our luck dip netting. I a nearby stream we managed to happen upon another salamander species. This one was a broken striped newt. In its adult amphibious stage, it was quite dark and had an aquatic, flat tail. Their name is derived from the fact that their back contains two rows of spots going the length of its body which appears to be a broken stripe. 
+
+![Broken Striped Newt]({{ site.baseurl }}/assets/snakes/georgia/day1(1-29)/broStrWin21.jpg)
+
+That being said, its underside was a bright white with dots along the length.
+
+![Broken Striped Newt]({{ site.baseurl }}/assets/snakes/georgia/day1(1-29)/broStrWin211.jpg)
+
+Successful day 1! Both targets hit and four lifer salamanders.
+
+<div align="center"><h3> January 30 (Day 2)</h3></div>
+
+With temperatures starting off cool and rising to the low 60s, we thought it would be a great day to test our luck and look for an indigo. We quickly became familiar with the sandy, pine habitat which had plenty of gopher tortoise burrows spread throughout. Surprisingly, my first snake of the new year, and the only one of the day, happened to be an eastern hognose! Not the snake I expected to find, but one that I have been thinking about for a while. This one appeared to be young and a melanistic black individual. Here it is in-situ.
+
+![Eastern Hognose Snake]({{ site.baseurl }}/assets/snakes/georgia/day2(1-30)/easHogWin21.jpg)
+
+Although, we intended to pick it up gently and see its full pattern, it ended up putting on its theatrics. Unfortunately, this included plenty of poop, a healthy dose of musk, and a freshly eaten, partially digested toad. Then it lay tongue out and still after its fit of spasms came to an end. 
+
+![Eastern Hognose Snake]({{ site.baseurl }}/assets/snakes/georgia/day2(1-30)/easHogWin211.jpg)
+
+With a watchful eye on us, it remained only a quarter turned back over and we let it win this battle. It was returned to where we found it to let it flip back over in peace.
+
+![Eastern Hognose Snake]({{ site.baseurl }}/assets/snakes/georgia/day2(1-30)/easHogWin212.jpg)
+
+The rest of the day was quite the bust though we did stumble upon a slimy salamander. 
+
+![Ocmulgee Slimy Salamander]({{ site.baseurl }}/assets/snakes/georgia/day2(1-30)/sliSalWin21.jpg)
+
+Based on the locale we found it in, we identified it as an ocmulgee slimy salamander although there are 8 subspecies in Georgia and they are known to hybridize. The spots and grey coloration on this adult was beautiful. 
+
+![Ocmulgee Slimy Salamander]({{ site.baseurl }}/assets/snakes/georgia/day2(1-30)/sliSalWin211.jpg)
+
+Although less than we expected, all around not a bad day when you see two species you haven't seen before. We are still early in this trip and I expect great things to come.
