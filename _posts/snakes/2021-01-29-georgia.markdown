@@ -2,7 +2,7 @@
 layout: post
 title:  "Georgia"
 date:   2021-01-29 12:00:00
-preview: /assets/snakes/work/preview.jpg
+preview: /assets/snakes/georgia/preview.jpg
 snake: "on"
 number: 48
 ---
