@@ -148,11 +148,11 @@ datatable: true
             <th>Virginia, East</th>
         </tr>
         <tr>
-            <td>Cottonmouth</td>
+            <td>Eastern Cottonmouth</td>
             <td>2019/05/28</td>
-            <td>2019/05/28</td>
-            <td>Not Personally Photographed</td>
-            <th>Virginia, East</th>
+            <td>2021/01/31</td>
+            <td><img src="/assets/snakes/lifers/snakes/easternCottonmouth.jpg" alt="Eastern Cottonmouth"></td>
+            <th>Virginia, Georgia, East</th>
         </tr>  
         <tr>
             <td>Northern Brown Snake</td>
