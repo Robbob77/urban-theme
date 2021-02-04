@@ -181,5 +181,12 @@ datatable: true
             <td>Not Personally Photographed</td>
             <th>Virginia, Vermont, East</th>
         </tr>
+        <tr>
+            <td>Lesser Siren</td>
+            <td>2021/02/03</td>
+            <td>2021/02/03</td>
+            <td><img src="/assets/snakes/lifers/salamanders/lesserSiren.jpg" alt="Lesser Siren"></td>
+            <th>Georgia, Aquatic, East</th>
+        </tr>
     </tbody>
 </table>
