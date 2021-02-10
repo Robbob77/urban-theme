@@ -100,7 +100,7 @@ datatable: true
         <tr>
             <td>California Newt</td>
             <td>2019/12/29</td>
-            <td>2019/12/29</td>
+            <td>2020/12/26</td>
             <td><img src="/assets/snakes/lifers/salamanders/californiaNewt.jpg" alt="California Newt"></td>
             <th>California, West, Newt</th>
         </tr>
@@ -149,7 +149,7 @@ datatable: true
         <tr>
             <td>Ocmulgee Slimy Salamander</td>
             <td>2021/01/30</td>
-            <td>2021/01/30</td>
+            <td>2021/02/09</td>
             <td><img src="/assets/snakes/lifers/salamanders/ocmulgeeSlimy.jpg" alt="Ocmulgee Slimy Salamander"></td>
             <th>Georgia, East</th>
         </tr>

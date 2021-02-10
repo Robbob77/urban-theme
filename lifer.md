@@ -171,7 +171,7 @@ datatable: true
         <tr>
             <td>Corn Snake</td>
             <td>2019/05/29</td>
-            <td>2021/02/07</td>
+            <td>2021/02/09</td>
             <td><img src="/assets/snakes/lifers/snakes/cornSnake.jpg" alt="Corn Snake"></td>
             <th>North Carolina, Georgia, East</th>
         </tr>
@@ -349,6 +349,13 @@ datatable: true
             <td>2020/08/21</td>
             <td><img src="/assets/snakes/lifers/snakes/westernDiamondback.jpg" alt="Western Diamond-backed Rattlesnake"></td>
             <th>California, Arizona, West</th>
+        </tr>
+        <tr>
+            <td>Eastern Diamond-backed Rattlesnake</td>
+            <td>2021/02/09</td>
+            <td>2021/02/09</td>
+            <td><img src="/assets/snakes/lifers/snakes/easternDiamondback.jpg" alt="Eastern Diamond-backed Rattlesnake"></td>
+            <th>Georgia, East</th>
         </tr>
         <tr>
             <td>Eastern Hognose</td>
