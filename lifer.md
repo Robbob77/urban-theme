@@ -171,7 +171,7 @@ datatable: true
         <tr>
             <td>Corn Snake</td>
             <td>2019/05/29</td>
-            <td>2021/02/09</td>
+            <td>2021/02/10</td>
             <td><img src="/assets/snakes/lifers/snakes/cornSnake.jpg" alt="Corn Snake"></td>
             <th>North Carolina, Georgia, East</th>
         </tr>
