@@ -358,18 +358,19 @@ datatable: true
             <th>Georgia, East</th>
         </tr>
         <tr>
-            <td>Timber Rattlesnake (canebrake)</td>
-            <td>2021/02/12</td>
-            <td>2021/02/12</td>
-            <td><img src="/assets/snakes/lifers/snakes/timberRattlesnake.jpg" alt="Timber Rattlesnake"></td>
-            <th>Georgia, East</th>
-        </tr>
-        <tr>
             <td>Eastern Hognose</td>
             <td>2021/01/30</td>
             <td>2021/01/30</td>
             <td><img src="/assets/snakes/lifers/snakes/easternHognose.jpg" alt="Eastern Hognose"></td>
             <th>Georgia, East</th>
         </tr>
+        <tr>
+            <td>Timber Rattlesnake (canebrake)</td>
+            <td>2021/02/12</td>
+            <td>2021/02/12</td>
+            <td><img src="/assets/snakes/lifers/snakes/timberRattlesnake.jpg" alt="Timber Rattlesnake"></td>
+            <th>Georgia, East</th>
+        </tr>
+       
     </tbody>
 </table>
