@@ -136,9 +136,9 @@ datatable: true
         <tr>
             <td>Scarlet Kingsnake</td>
             <td>2019/05/28</td>
-            <td>2019/05/28</td>
+            <td>2021/02/12</td>
             <td><img src="/assets/snakes/lifers/snakes/scarKing.jpg" alt="Scarlet Kingsnake"></td>
-            <th>Virginia, East</th>
+            <th>Virginia, Georgia, East</th>
         </tr>
         <tr>
             <td>Brown Watersnake</td>
@@ -355,6 +355,13 @@ datatable: true
             <td>2021/02/09</td>
             <td>2021/02/09</td>
             <td><img src="/assets/snakes/lifers/snakes/easternDiamondback.jpg" alt="Eastern Diamond-backed Rattlesnake"></td>
+            <th>Georgia, East</th>
+        </tr>
+        <tr>
+            <td>Timber Rattlesnake (canebrake)</td>
+            <td>2021/02/12</td>
+            <td>2021/02/12</td>
+            <td><img src="/assets/snakes/lifers/snakes/timberRattlesnake.jpg" alt="Timber Rattlesnake"></td>
             <th>Georgia, East</th>
         </tr>
         <tr>
