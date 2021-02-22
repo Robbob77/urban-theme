@@ -163,7 +163,7 @@ datatable: true
         <tr>
             <td>Carolina Sand Hills Salamander</td>
             <td>2021/01/29</td>
-            <td>2021/01/29</td>
+            <td>2021/02/20</td>
             <td><img src="/assets/snakes/lifers/salamanders/carolinaSandHill.jpg" alt="Carolina Sand Hills Salamander"></td>
             <th>North Carolina, East</th>
         </tr>
