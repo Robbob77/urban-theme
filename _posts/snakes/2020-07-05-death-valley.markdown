@@ -106,5 +106,12 @@ The true heartbreak of the night came a couple hours later when I found a DOR pa
 ![Spotted Leaf-nosed Snake]({{ site.baseurl }}/assets/snakes/deathValley/leaNosSum20.jpg)
 
 
-
 All in all, a good trip. Glad to have seen such diversity and so many lifers. I truly feel as though I understand the park better and could continue my success given more time. The true tragedy was the night at Mojave and the fact that I saw 3 DORs that would have been lifers. 
+
+Quick little comparison between the different variations seen of colorado shovel noses. Ranging from no red to full red. 
+
+![Shovel Nosed Snake Comparisons]({{ site.baseurl }}/assets/snakes/deathValley/shovelNose.png)
+
+Threw in the mojave shovel nose.
+
+![Shovel Nosed Snake Comparisons]({{ site.baseurl }}/assets/snakes/deathValley/shovelNose2.png)
