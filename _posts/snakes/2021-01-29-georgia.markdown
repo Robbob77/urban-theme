@@ -241,7 +241,7 @@ Tried to get more scale photos but had some issues due to the smaller size of th
 
 <div align="center"><h3> February 14 (Day 17)</h3></div>
 
-With the warm rains, we decided to drive south towards warmer weather and camp for a couple days. With a noticeable boost in temperature and some sprinkling rain on the way down, we arrived just in time to cruise the first night. The night started off explosively as the sun had just set and in the first thirty minutes we found four corn snakes and a f green watersnake. 
+With the warm rains, we decided to drive south towards warmer weather and camp for a couple days. With a noticeable boost in temperature and some sprinkling rain on the way down, we arrived just in time to cruise the first night. The night started off explosively as the sun had just set and in the first thirty minutes we found four corn snakes and a florida green watersnake. 
 
 ![Corn Snake]({{ site.baseurl }}/assets/snakes/georgia/day17/corSnaWin21.jpg)
 
@@ -249,11 +249,11 @@ Between the apparent commonness of cornsnakes down there and the constant pressu
 
 ![Peninsula Ribbon Snake]({{ site.baseurl }}/assets/snakes/georgia/day17/penRibWin21.jpg)
 
-Surprise surprise, the next snake was an eastern garter. No pictures of that. After that we crusied for a couple more hours but activity seemed to be dead. Towards the end of the night we found some rocks to shine and activity picked up immediately. There were snakes in the water, on the rocks, and even on the crawl. We were only there for an hour but snakes were everywhere. It started with a f green in the water, a brown watersnake basking on the rocks, two cornsnakes on the crawl, a scarlet kingsnake on the crawl, and then a final f green in the water. Only the f green and scarlet king where photographed that night. 
+Surprise surprise, the next snake was an eastern garter. No pictures of that. After that we crusied for a couple more hours but activity seemed to be dead. Towards the end of the night we found some rocks to shine and activity picked up immediately. There were snakes in the water, on the rocks, and even on the crawl. We were only there for an hour but snakes were everywhere. It started with a florida green in the water, a brown watersnake basking on the rocks, two cornsnakes on the crawl, a scarlet kingsnake on the crawl, and then a final florida green in the water. Only the florida green and scarlet king where photographed that night. 
 
 ![f Green Watersnake]({{ site.baseurl }}/assets/snakes/georgia/day17/floGreWin21.jpg)
 
-I wasn't used to taking photos in the night nor dealing with all the bugs after all the day time photos I have been taking. Unfortunate because I would have loved a shot of the f greens head.
+I wasn't used to taking photos in the night nor dealing with all the bugs after all the day time photos I have been taking. Unfortunate because I would have loved a shot of the florida greens head.
 
 ![Scarlet Kingsnake]({{ site.baseurl }}/assets/snakes/georgia/day17/scaKinWin21.jpg)
 
@@ -317,7 +317,7 @@ We saw another racer crossing the road in front of the car as we were moving loc
 
 ![Gopher Tortoise({{ site.baseurl }}/assets/snakes/georgia/day19/gophertortoise.jpg)
 
-The last small flip was my lifer f brownsnake. Very similar to the dekay's up north but much more red.
+The last small flip was my lifer florida brownsnake. Very similar to the dekay's up north but much more red.
 
 ![Florida Brownsnake]({{ site.baseurl }}/assets/snakes/georgia/day19/floBroWin21.jpg)
 
@@ -418,7 +418,7 @@ Snake Recap:
 13 Corn Snake,
 7 Scarlet Kingsnakes,
 4 Black Racer,
-3 F Green Watersnake,
+3 Florida Green Watersnake,
 2 Yellow Ratsnake,
 2 Peninsula (Southern) Ribbon Snake,
 2 Eastern Gartersnake,
@@ -431,7 +431,7 @@ Snake Recap:
 1 Striped Glossy Snake,
 1 Southern Ring-neck snake,
 1 Brahimny Blindsnake,
-1 F Brownsnake,
+1 Florida Brownsnake,
 1 Eastern Coral Snake,
 1 Eastern Coachwhip, and
 1 Eastern Wormsnake.
