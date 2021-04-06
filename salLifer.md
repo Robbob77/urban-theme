@@ -86,14 +86,14 @@ datatable: true
         <tr>
             <td>Jefferson Salamander</td>
             <td>2019/04/14</td>
-            <td>2020/11/11</td>
+            <td>2021/03/31</td>
             <td><img src="/assets/snakes/lifers/salamanders/jeffersonSalamander.jpg" alt="Jefferson Salamander"></td>
             <th>Vermont, East, Mole</th>
         </tr>
         <tr>
             <td>Four-Toed Salamander</td>
             <td>2020/11/11</td>
-            <td>2020/11/11</td>
+            <td>2021/03/31</td>
             <td><img src="/assets/snakes/lifers/salamanders/fourToedSalamander.jpg" alt="Four-Toed Salamander"></td>
             <th>Vermont, East</th>
         </tr>
@@ -114,7 +114,7 @@ datatable: true
         <tr>
             <td>Eastern Newt</td>
             <td>2019/04/14</td>
-            <td>2019/09/05</td>
+            <td>2021/03/31</td>
             <td><img src="/assets/snakes/lifers/salamanders/easternNewt.jpg" alt="Eastern Newt"></td>
             <th>Vermont, East, Newt</th>
         </tr>
@@ -135,7 +135,7 @@ datatable: true
         <tr>
             <td>Spotted Salamander</td>
             <td>2019/04/14</td>
-            <td>2020/11/11</td>
+            <td>2021/03/31</td>
             <td><img src="/assets/snakes/lifers/salamanders/spottedSalamander.jpg" alt="Spotted Salamander"></td>
             <th>Vermont, East, Mole</th>
         </tr>
