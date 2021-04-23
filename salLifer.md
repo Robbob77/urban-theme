@@ -128,14 +128,14 @@ datatable: true
         <tr>
             <td>Red-Backed Salamander</td>
             <td>2019/09/05</td>
-            <td>2020/11/11</td>
+            <td>2021/04/23</td>
             <td><img src="/assets/snakes/lifers/salamanders/redBackedSalamander.jpg" alt="Red-Backed Salamander"></td>
             <th>Vermont, East</th>
         </tr>
         <tr>
             <td>Spotted Salamander</td>
             <td>2019/04/14</td>
-            <td>2021/03/31</td>
+            <td>2021/04/11</td>
             <td><img src="/assets/snakes/lifers/salamanders/spottedSalamander.jpg" alt="Spotted Salamander"></td>
             <th>Vermont, East, Mole</th>
         </tr>
