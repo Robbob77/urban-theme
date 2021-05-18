@@ -135,7 +135,7 @@ datatable: true
         <tr>
             <td>Spotted Salamander</td>
             <td>2019/04/14</td>
-            <td>2021/04/24</td>
+            <td>2021/05/05</td>
             <td><img src="/assets/snakes/lifers/salamanders/spottedSalamander.jpg" alt="Spotted Salamander"></td>
             <th>Vermont, East, Mole</th>
         </tr>
