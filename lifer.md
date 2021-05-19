@@ -66,9 +66,16 @@ datatable: true
         <tr>
             <td>Eastern Gartersnake</td>
             <td>2018/09/22</td>
-            <td>2021/05/16</td>
+            <td>2021/05/18</td>
             <td><img src="/assets/snakes/lifers/snakes/easternGarter.jpg" alt="Eastern Gartersnake"></td>
             <th>Vermont, East, Thamnophis sirtalis</th>
+        </tr>
+        <tr>
+            <td>Smooth Green Snake</td>
+            <td>2021/05/18</td>
+            <td>2021/05/18</td>
+            <td><img src="/assets/snakes/lifers/snakes/smoothGreen.jpg" alt="Smooth Green Snake"></td>
+            <th>Vermont, East, Opheodrys vernalis</th>
         </tr>
         <tr>
             <td>California Kingsnake</td>
