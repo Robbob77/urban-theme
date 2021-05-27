@@ -40,3 +40,10 @@ Cool to see the cloudy blue eyes indicating its readiness to shed. Also the scal
 ![Smooth Green Snake]({{ site.baseurl }}/assets/snakes/vermontChronicles/smoGreSnaSpr212.jpg)
 
 ![Smooth Green Snake]({{ site.baseurl }}/assets/snakes/vermontChronicles/smoGreSnaSpr213.jpg)
+
+
+<div align="center"><h3> May 26</h3></div>
+
+Short hike before a thunderstorm yields a gartersnake on the crawl, some toads moving about, and four eastern newts. 
+
+![Eastern Newt]({{ site.baseurl }}/assets/snakes/vermontChronicles/easNewSpr21.jpg)
