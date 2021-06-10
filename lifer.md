@@ -66,7 +66,7 @@ datatable: true
         <tr>
             <td>Eastern Gartersnake</td>
             <td>2018/09/22</td>
-            <td>2021/05/26</td>
+            <td>2021/05/31</td>
             <td><img src="/assets/snakes/lifers/snakes/easternGarter.jpg" alt="Eastern Gartersnake"></td>
             <th>Vermont, East, Thamnophis sirtalis</th>
         </tr>
@@ -115,7 +115,7 @@ datatable: true
         <tr>
             <td>Black Racer</td>
             <td>2019/05/28</td>
-            <td>2021/02/16</td>
+            <td>2021/06/05</td>
             <td><img src="/assets/snakes/lifers/snakes/blackRacer.jpg" alt="Black Racer"></td>
             <th>Virginia, Florida, East, Coluber constrictor priapus</th>
         </tr>
@@ -206,15 +206,15 @@ datatable: true
         <tr>
             <td>Coastal Plains Milksnake</td>
             <td>2019/05/31</td>
-            <td>2019/05/31</td>
-            <td>Not Personally Photographed</td>
-            <th>New Jersey, East, Lampropeltis triangulum triangulum</th>
+            <td>2021/06/05</td>
+            <td><img src="/assets/snakes/lifers/snakes/coastalPlainsMilk.jpg" alt="Coastal Plains Milksnake"></td>
+            <th>New Jersey, East, Lampropeltis triangulum temporalis</th>
         </tr>
         <tr>
             <td>Red Bellied Snake</td>
             <td>2019/05/31</td>
-            <td>2019/05/31</td>
-            <td>Not Personally Photographed</td>
+            <td>2021/06/05</td>
+            <td><img src="/assets/snakes/lifers/snakes/redBelly.jpg" alt="Red Bellied Snake"></td>
             <th>New Jersey, East, Storeria occipitomaculata</th>
         </tr>
         <tr>
