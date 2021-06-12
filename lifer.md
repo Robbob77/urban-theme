@@ -66,7 +66,7 @@ datatable: true
         <tr>
             <td>Eastern Gartersnake</td>
             <td>2018/09/22</td>
-            <td>2021/05/31</td>
+            <td>2021/06/11</td>
             <td><img src="/assets/snakes/lifers/snakes/easternGarter.jpg" alt="Eastern Gartersnake"></td>
             <th>Vermont, East, Thamnophis sirtalis</th>
         </tr>
@@ -115,7 +115,7 @@ datatable: true
         <tr>
             <td>Black Racer</td>
             <td>2019/05/28</td>
-            <td>2021/06/05</td>
+            <td>2021/06/11</td>
             <td><img src="/assets/snakes/lifers/snakes/blackRacer.jpg" alt="Black Racer"></td>
             <th>Virginia, Florida, East, Coluber constrictor priapus</th>
         </tr>
@@ -153,6 +153,13 @@ datatable: true
             <td>2021/02/15</td>
             <td><img src="/assets/snakes/lifers/snakes/watersnake.jpg" alt="Brown Watersnake"></td>
             <th>Virginia, East, Nerodia taxispilota</th>
+        </tr>
+        <tr>
+            <td>Northern Watersnake</td>
+            <td>2021/06/10</td>
+            <td>2021/06/10</td>
+            <td>Not Personally Photographed</td>
+            <th>New Jersey, East, Nerodia sipedon sipedon</th>
         </tr>
         <tr>
             <td>Eastern Cottonmouth</td>
@@ -213,7 +220,7 @@ datatable: true
         <tr>
             <td>Red Bellied Snake</td>
             <td>2019/05/31</td>
-            <td>2021/06/05</td>
+            <td>2021/06/11</td>
             <td><img src="/assets/snakes/lifers/snakes/redBelly.jpg" alt="Red Bellied Snake"></td>
             <th>New Jersey, East, Storeria occipitomaculata</th>
         </tr>
@@ -251,6 +258,13 @@ datatable: true
             <td>2020/04/24</td>
             <td><img src="/assets/snakes/lifers/snakes/pacRing.jpg" alt="Pacific Ring-necked Snake"></td>
             <th>California, West, Diadophis punctatus amabilis</th>
+        </tr>
+        <tr>
+            <td>Northern Ring-necked Snake</td>
+            <td>2021/06/10</td>
+            <td>2021/06/11</td>
+            <td><img src="/assets/snakes/lifers/snakes/norRing.jpg" alt="Northern Ring-necked Snake"></td>
+            <th>Pennyslvania, East, Diadophis punctatus edwardsii</th>
         </tr>
         <tr>
             <td>California Red-Sided Gartersnake</td>
@@ -367,14 +381,14 @@ datatable: true
         <tr>
             <td>Eastern Hognose</td>
             <td>2021/01/30</td>
-            <td>2021/01/30</td>
+            <td>2021/06/11</td>
             <td><img src="/assets/snakes/lifers/snakes/easternHognose.jpg" alt="Eastern Hognose"></td>
             <th>Georgia, East, Heterodon platirhinos</th>
         </tr>
         <tr>
             <td>Timber Rattlesnake (canebrake)</td>
             <td>2021/02/12</td>
-            <td>2021/02/12</td>
+            <td>2021/06/11</td>
             <td><img src="/assets/snakes/lifers/snakes/timberRattlesnake.jpg" alt="Timber Rattlesnake"></td>
             <th>Georgia, East, Crotalus horridus</th>
         </tr>
@@ -440,6 +454,13 @@ datatable: true
             <td>2021/02/16</td>
             <td><img src="/assets/snakes/lifers/snakes/southernRibbon.jpg" alt="Peninsula (Southern) Ribbon Snake"></td>
             <th>Florida, East, Thamnophis sauritus sackenii</th>
+        </tr>
+        <tr>
+            <td>Copperhead</td>
+            <td>2021/06/10</td>
+            <td>2021/06/10</td>
+            <td>Not Personally Photographed</td>
+            <th>Pennyslyvania, East, Agkistrodon contortrix</th>
         </tr>
     </tbody>
 </table>
