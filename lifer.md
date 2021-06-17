@@ -66,9 +66,9 @@ datatable: true
         <tr>
             <td>Eastern Gartersnake</td>
             <td>2018/09/22</td>
-            <td>2021/06/11</td>
+            <td>2021/06/15</td>
             <td><img src="/assets/snakes/lifers/snakes/easternGarter.jpg" alt="Eastern Gartersnake"></td>
-            <th>Vermont, East, Thamnophis sirtalis</th>
+            <th>Vermont, Pennyslvania, Florida, East, Thamnophis sirtalis</th>
         </tr>
         <tr>
             <td>Smooth Green Snake</td>
@@ -115,7 +115,7 @@ datatable: true
         <tr>
             <td>Black Racer</td>
             <td>2019/05/28</td>
-            <td>2021/06/11</td>
+            <td>2021/06/14</td>
             <td><img src="/assets/snakes/lifers/snakes/blackRacer.jpg" alt="Black Racer"></td>
             <th>Virginia, Florida, East, Coluber constrictor priapus</th>
         </tr>
@@ -129,9 +129,9 @@ datatable: true
         <tr>
             <td>Black Rat Snake</td>
             <td>2019/05/28</td>
-            <td>2019/05/28</td>
+            <td>2021/06/14</td>
             <td>Not Personally Photographed</td>
-            <th>Virginia, East, Elaphe Pantherophis obsoleta</th>
+            <th>Virginia, New Jersey East, Elaphe Pantherophis obsoleta</th>
         </tr>
         <tr>
             <td>Eastern Ribbon Snake</td>
@@ -157,7 +157,7 @@ datatable: true
         <tr>
             <td>Northern Watersnake</td>
             <td>2021/06/10</td>
-            <td>2021/06/10</td>
+            <td>2021/06/13</td>
             <td>Not Personally Photographed</td>
             <th>New Jersey, East, Nerodia sipedon sipedon</th>
         </tr>
@@ -167,7 +167,21 @@ datatable: true
             <td>2021/01/31</td>
             <td><img src="/assets/snakes/lifers/snakes/easternCottonmouth.jpg" alt="Eastern Cottonmouth"></td>
             <th>Virginia, Georgia, East, Agkistrodon piscivorus</th>
-        </tr>  
+        </tr>
+        <tr>
+            <td>Florida Cottonmouth</td>
+            <td>2021/06/15</td>
+            <td>2021/06/15</td>
+            <td><img src="/assets/snakes/lifers/snakes/floridaCottonmouth.jpg" alt="Florida Cottonmouth"></td>
+            <th>Florida, East, Agkistrodon piscivorus conanti</th>
+        </tr> 
+        <tr>
+            <td>Florida Scarlet Snake</td>
+            <td>2021/06/15</td>
+            <td>2021/06/15</td>
+            <td><img src="/assets/snakes/lifers/snakes/floridaScarlet.jpg" alt="Florida Scarlet Snake"></td>
+            <th>Florida, East, Cemophora coccinea coccinea</th>
+        </tr>   
         <tr>
             <td>Northern Brown Snake</td>
             <td>2019/05/28</td>
@@ -187,12 +201,12 @@ datatable: true
             <td>2019/05/29</td>
             <td>2021/02/18</td>
             <td><img src="/assets/snakes/lifers/snakes/cornSnake.jpg" alt="Corn Snake"></td>
-            <th>North Carolina, Georgia, East, Pantherophis guttatus</th>
+            <th>North Carolina, Georgia, Florida, East, Pantherophis guttatus</th>
         </tr>
         <tr>
             <td>Eastern Worm Snake</td>
             <td>2019/05/29</td>
-            <td>2021/02/20</td>
+            <td>2021/06/12</td>
             <td><img src="/assets/snakes/lifers/snakes/easternWorm.jpg" alt="Eastern Worm Snake"></td>
             <th>North Carolina, East, Carphophis amoenus</th>
         </tr>
@@ -206,21 +220,21 @@ datatable: true
         <tr>
             <td>Eastern Kingsnake</td>
             <td>2019/05/31</td>
-            <td>2019/05/31</td>
-            <td>Not Personally Photographed</td>
+            <td>2021/06/12</td>
+            <td><img src="/assets/snakes/lifers/snakes/easternKing.jpg" alt="Eastern Kingsnake"></td>
             <th>New Jersey, East, Lampropeltis getula</th>
         </tr>
         <tr>
             <td>Coastal Plains Milksnake</td>
             <td>2019/05/31</td>
-            <td>2021/06/05</td>
+            <td>2021/06/14</td>
             <td><img src="/assets/snakes/lifers/snakes/coastalPlainsMilk.jpg" alt="Coastal Plains Milksnake"></td>
             <th>New Jersey, East, Lampropeltis triangulum temporalis</th>
         </tr>
         <tr>
             <td>Red Bellied Snake</td>
             <td>2019/05/31</td>
-            <td>2021/06/11</td>
+            <td>2021/06/14</td>
             <td><img src="/assets/snakes/lifers/snakes/redBelly.jpg" alt="Red Bellied Snake"></td>
             <th>New Jersey, East, Storeria occipitomaculata</th>
         </tr>
@@ -262,7 +276,7 @@ datatable: true
         <tr>
             <td>Northern Ring-necked Snake</td>
             <td>2021/06/10</td>
-            <td>2021/06/11</td>
+            <td>2021/06/14</td>
             <td><img src="/assets/snakes/lifers/snakes/norRing.jpg" alt="Northern Ring-necked Snake"></td>
             <th>Pennyslvania, East, Diadophis punctatus edwardsii</th>
         </tr>
@@ -386,11 +400,11 @@ datatable: true
             <th>Georgia, East, Heterodon platirhinos</th>
         </tr>
         <tr>
-            <td>Timber Rattlesnake (canebrake)</td>
+            <td>Timber Rattlesnake</td>
             <td>2021/02/12</td>
-            <td>2021/06/11</td>
+            <td>2021/06/14</td>
             <td><img src="/assets/snakes/lifers/snakes/timberRattlesnake.jpg" alt="Timber Rattlesnake"></td>
-            <th>Georgia, East, Crotalus horridus</th>
+            <th>Georgia, New Jersey, East, Crotalus horridus</th>
         </tr>
         <tr>
             <td>Eastern Coachwhip</td>
@@ -409,7 +423,7 @@ datatable: true
         <tr>
             <td>Florida Brownsnake</td>
             <td>2021/02/16</td>
-            <td>2021/02/16</td>
+            <td>2021/06/15</td>
             <td><img src="/assets/snakes/lifers/snakes/floridaBrown.jpg" alt="Florida Brownsnake"></td>
             <th>Florida, East, Dekay, De Kay, Storeria victa</th>
         </tr>
@@ -451,7 +465,7 @@ datatable: true
         <tr>
             <td>Peninsula (Southern) Ribbon Snake</td>
             <td>2021/02/16</td>
-            <td>2021/02/16</td>
+            <td>2021/06/15</td>
             <td><img src="/assets/snakes/lifers/snakes/southernRibbon.jpg" alt="Peninsula (Southern) Ribbon Snake"></td>
             <th>Florida, East, Thamnophis sauritus sackenii</th>
         </tr>

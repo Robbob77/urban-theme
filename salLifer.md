@@ -142,8 +142,8 @@ datatable: true
         <tr>
             <td>Northern Red Salamander</td>
             <td>2019/05/31</td>
-            <td>2019/05/31</td>
-            <td>Not Personally Photographed</td>
+            <td>2021/06/13</td>
+            <td><img src="/assets/snakes/lifers/salamanders/northernRed.jpg" alt="Northern Red Salamander"></td>
             <th>New Jersey, East</th>
         </tr>
         <tr>
