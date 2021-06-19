@@ -66,7 +66,7 @@ datatable: true
         <tr>
             <td>Eastern Gartersnake</td>
             <td>2018/09/22</td>
-            <td>2021/06/15</td>
+            <td>2021/06/18</td>
             <td><img src="/assets/snakes/lifers/snakes/easternGarter.jpg" alt="Eastern Gartersnake"></td>
             <th>Vermont, Pennyslvania, Florida, East, Thamnophis sirtalis</th>
         </tr>
@@ -150,9 +150,9 @@ datatable: true
         <tr>
             <td>Brown Watersnake</td>
             <td>2019/05/28</td>
-            <td>2021/02/15</td>
+            <td>2021/06/18</td>
             <td><img src="/assets/snakes/lifers/snakes/watersnake.jpg" alt="Brown Watersnake"></td>
-            <th>Virginia, East, Nerodia taxispilota</th>
+            <th>Virginia, Florida, East, Nerodia taxispilota</th>
         </tr>
         <tr>
             <td>Northern Watersnake</td>
@@ -171,14 +171,14 @@ datatable: true
         <tr>
             <td>Florida Cottonmouth</td>
             <td>2021/06/15</td>
-            <td>2021/06/15</td>
+            <td>2021/06/18</td>
             <td><img src="/assets/snakes/lifers/snakes/floridaCottonmouth.jpg" alt="Florida Cottonmouth"></td>
             <th>Florida, East, Agkistrodon piscivorus conanti</th>
         </tr> 
         <tr>
             <td>Florida Scarlet Snake</td>
             <td>2021/06/15</td>
-            <td>2021/06/15</td>
+            <td>2021/06/18</td>
             <td><img src="/assets/snakes/lifers/snakes/floridaScarlet.jpg" alt="Florida Scarlet Snake"></td>
             <th>Florida, East, Cemophora coccinea coccinea</th>
         </tr>   
@@ -199,7 +199,7 @@ datatable: true
         <tr>
             <td>Corn Snake</td>
             <td>2019/05/29</td>
-            <td>2021/02/18</td>
+            <td>2021/06/18</td>
             <td><img src="/assets/snakes/lifers/snakes/cornSnake.jpg" alt="Corn Snake"></td>
             <th>North Carolina, Georgia, Florida, East, Pantherophis guttatus</th>
         </tr>
@@ -423,7 +423,7 @@ datatable: true
         <tr>
             <td>Florida Brownsnake</td>
             <td>2021/02/16</td>
-            <td>2021/06/15</td>
+            <td>2021/06/18</td>
             <td><img src="/assets/snakes/lifers/snakes/floridaBrown.jpg" alt="Florida Brownsnake"></td>
             <th>Florida, East, Dekay, De Kay, Storeria victa</th>
         </tr>
@@ -444,7 +444,7 @@ datatable: true
         <tr>
             <td>Banded Watersnake</td>
             <td>2021/02/15</td>
-            <td>2021/02/18</td>
+            <td>2021/06/18</td>
             <td><img src="/assets/snakes/lifers/snakes/bandedWatersnake.jpg" alt="Banded Watersnake"></td>
             <th>Florida, East, Nerodia fasciata</th>
         </tr>

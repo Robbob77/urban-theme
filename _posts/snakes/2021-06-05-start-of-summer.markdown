@@ -162,3 +162,19 @@ With a couple garters seen in between and the end of the rain the final snakes w
 The third cottonmouth was simply basking on the side of the road. Temperatures had slightly dropped and the road was steaming at this point.
 
 ![Florida Cottonmouth]({{ site.baseurl }}/assets/snakes/summerStart/floridaCottonmouth0.jpg)
+
+<div align="center"><h3> June 18</h3></div>
+
+Another night cruising the Everglades. This one set out a little earlier with the hopes to go hiking around dusk. On the way in we cruised a cottonmouth very early on. The second snake of the night proved to be the soruce of confusion as the night went on. Originally thought it may be a ratsnake and then was trying to determine if it was a banded or a brown watersnake. Posted it on iNaturalist for the time being and hopefully they can shed some light on it. We saw a handful of these throughout the night with one particular stretch of the road yielding 4 in 10 minutes and another producing 4 in 15 minutes. 
+
+![Watersnake]({{ site.baseurl }}/assets/snakes/summerStart/watersnake.jpg)
+
+About 45 minutes after the first of the watersnake-looking snakes we came across our third snake of the day, a nice corn snake. The most unique trait it had was a nubbed tail.
+
+![Corn Snake]({{ site.baseurl }}/assets/snakes/summerStart/corn.jpg)
+
+Always a pleasure to see scarlet snakes. It was a quite large individual with a low band count. This was snake 9 of 14 on the night. Last one I got photos of.
+
+![Florida Scarlet Snake]({{ site.baseurl }}/assets/snakes/summerStart/scarlet.jpg)
+
+The night wrapped up with some more watersnakes and a brown snake.
