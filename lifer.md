@@ -470,6 +470,13 @@ datatable: true
             <th>Florida, East, Thamnophis sauritus sackenii</th>
         </tr>
         <tr>
+            <td>Salt Marsh Snake</td>
+            <td>2021/06/18</td>
+            <td>2021/06/18</td>
+            <td><img src="/assets/snakes/lifers/snakes/saltMarsh.jpg" alt="Salt Marsh Snake"></td>
+            <th>Florida, East, Nerodia clarkii</th>
+        </tr>
+        <tr>
             <td>Copperhead</td>
             <td>2021/06/10</td>
             <td>2021/06/10</td>

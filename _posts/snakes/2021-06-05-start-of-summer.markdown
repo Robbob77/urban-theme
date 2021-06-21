@@ -167,7 +167,9 @@ The third cottonmouth was simply basking on the side of the road. Temperatures h
 
 Another night cruising the Everglades. This one set out a little earlier with the hopes to go hiking around dusk. On the way in we cruised a cottonmouth very early on. The second snake of the night proved to be the soruce of confusion as the night went on. Originally thought it may be a ratsnake and then was trying to determine if it was a banded or a brown watersnake. Posted it on iNaturalist for the time being and hopefully they can shed some light on it. We saw a handful of these throughout the night with one particular stretch of the road yielding 4 in 10 minutes and another producing 4 in 15 minutes. 
 
-![Watersnake]({{ site.baseurl }}/assets/snakes/summerStart/watersnake.jpg)
+![Salt Marsh Snake]({{ site.baseurl }}/assets/snakes/summerStart/watersnake.jpg)
+
+After some iNaturalist identifications came through it became quite obvious that this is actually a salt marsh snake. Cool lifer.
 
 About 45 minutes after the first of the watersnake-looking snakes we came across our third snake of the day, a nice corn snake. The most unique trait it had was a nubbed tail.
 
