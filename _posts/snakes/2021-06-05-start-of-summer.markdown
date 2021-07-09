@@ -180,3 +180,21 @@ Always a pleasure to see scarlet snakes. It was a quite large individual with a 
 ![Florida Scarlet Snake]({{ site.baseurl }}/assets/snakes/summerStart/scarlet.jpg)
 
 The night wrapped up with some more watersnakes and a brown snake.
+
+<div align="center"><h3>June 29</h3></div>
+
+First time herping in the Midwest and I stumbled upon a western ratsnake and some prairie ringnecks! Exciting for the little time I was able to spend looking for them. I was searching around a little cliff face with some bushes and rocks in front of it after a little rain. The ratsnake was hiding in a crack in the cliff face and I was surprised to see it when I flashed my light inside. 
+
+![Western Ratsnake]({{ site.baseurl }}/assets/snakes/summerStart/westernRatsnake1.jpg)
+
+All I saw was the shine of scales on a dark snake as it slithered away. It wasn't until I came back later that I saw the image above of it nestled into the little crack. This was exciting because the dark orange bands were visible which allowed for identification. The snake is in the center of the image.
+
+![Western Ratsnake]({{ site.baseurl }}/assets/snakes/summerStart/westernRatsnake.jpg)
+
+Later it was poking its head out, curious as to what was shining light into its little hole in the cliff.
+
+There were only a couple of good rocks to flip and to my surprise they had some ringnecks under them. Nothing special as far as ring necks go but its always fun to have a handful of snake!
+
+![Prairie Ringneck]({{ site.baseurl }}/assets/snakes/summerStart/prairieRing1.jpg)
+
+![Prairie Ringneck]({{ site.baseurl }}/assets/snakes/summerStart/prairieRing2.jpg)

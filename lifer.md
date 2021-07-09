@@ -66,7 +66,7 @@ datatable: true
         <tr>
             <td>Eastern Gartersnake</td>
             <td>2018/09/22</td>
-            <td>2021/06/18</td>
+            <td>2021/07/06</td>
             <td><img src="/assets/snakes/lifers/snakes/easternGarter.jpg" alt="Eastern Gartersnake"></td>
             <th>Vermont, Pennyslvania, Florida, East, Thamnophis sirtalis</th>
         </tr>
@@ -260,6 +260,13 @@ datatable: true
             <th>California, West, Diadophis punctatus vandenburgii</th>
         </tr>
         <tr>
+            <td>Prairie Ring-necked Snake</td>
+            <td>2021/06/29</td>
+            <td>2021/06/29</td>
+            <td><img src="/assets/snakes/lifers/snakes/prairieRing.jpg" alt="Prairie Ring-necked Snake"></td>
+            <th>Kansas, Midwest, Central, Diadophis punctatus arnyi</th>
+        </tr>
+        <tr>
             <td>Common Sharp-tailed Snake</td>
             <td>2019/12/23</td>
             <td>2020/06/10</td>
@@ -440,6 +447,13 @@ datatable: true
             <td>2021/02/15</td>
             <td><img src="/assets/snakes/lifers/snakes/yellowRatsnake.jpg" alt="Yellow Ratsnake"></td>
             <th>Florida, East, Pantherophis alleghaniensis</th>
+        </tr>
+        <tr>
+            <td>Western Ratsnake</td>
+            <td>2021/06/29</td>
+            <td>2021/06/29</td>
+            <td><img src="/assets/snakes/lifers/snakes/westernRatsnake.jpg" alt="Western Ratsnake"></td>
+            <th>Kansas, Midwest, Central, Pantherophis obsoletus</th>
         </tr>
         <tr>
             <td>Banded Watersnake</td>
