@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Start of Summer 2021"
+title:  "Summer/Fall 2021"
 date:   2021-06-05 12:00:00
 preview: /assets/snakes/summerStart/preview.jpg
 snake: "on"
@@ -198,3 +198,25 @@ There were only a couple of good rocks to flip and to my surprise they had some 
 ![Prairie Ringneck]({{ site.baseurl }}/assets/snakes/summerStart/prairieRing1.jpg)
 
 ![Prairie Ringneck]({{ site.baseurl }}/assets/snakes/summerStart/prairieRing2.jpg)
+
+<div align="center"><h3>September 8</h3></div>
+
+No pictures but I had a heck of a day! Tried out a new location on a whim and found it to be quite productive. After coming across a closure of access to my usual green snake spot I decided to check out the area nearby. No more than 10 minutes down the road even more optimal habitat was found. On this hill side gartersnakes, red bellied snakes, and green snakes were discovered. This appeared to be a productive area as many juveniles were found. This was also the first time I had seen Vermont red bellied snakes.
+
+<div align="center"><h3>October 21</h3></div>
+
+As Vermont temperatures drop, I was able to return to my new found green snake spot. It was not long before I found a large adult. This poor guy had a swollen eye. 
+
+![Green Snake]({{ site.baseurl }}/assets/snakes/summerStart/greenSnake.jpeg)
+
+It was not much longer before I found a tiny red bellied snake, one of the smallest snakes I have ever seen!
+
+![Red-bellied Snake]({{ site.baseurl }}/assets/snakes/summerStart/redBelliedSnake.jpeg)
+
+<div align="center"><h3>October 26</h3></div>
+
+Classic fall showers get the salamanders moving! I missed the peak of the migration but I was able to catch the tail end of the movements and see a few spotted salamanders moving on the roads around my house. 
+
+![Spotted Salamander]({{ site.baseurl }}/assets/snakes/summerStart/spottedSalamander.jpeg)
+
+Its been a slow fall as I have been adjusting to the new house, but if I'm still in Vermont next warm season I need to find some Vermont timbers.
