@@ -66,14 +66,14 @@ datatable: true
         <tr>
             <td>Eastern Gartersnake</td>
             <td>2018/09/22</td>
-            <td>2021/07/06</td>
+            <td>2022/02/28</td>
             <td><img src="/assets/snakes/lifers/snakes/easternGarter.jpg" alt="Eastern Gartersnake"></td>
             <th>Vermont, Pennyslvania, Florida, East, Thamnophis sirtalis</th>
         </tr>
         <tr>
             <td>Smooth Green Snake</td>
             <td>2021/05/18</td>
-            <td>2021/05/18</td>
+            <td>2021/10/21</td>
             <td><img src="/assets/snakes/lifers/snakes/smoothGreen.jpg" alt="Smooth Green Snake"></td>
             <th>Vermont, East, Opheodrys vernalis</th>
         </tr>
@@ -115,14 +115,14 @@ datatable: true
         <tr>
             <td>Black Racer</td>
             <td>2019/05/28</td>
-            <td>2021/06/14</td>
+            <td>2022/03/02</td>
             <td><img src="/assets/snakes/lifers/snakes/blackRacer.jpg" alt="Black Racer"></td>
             <th>Virginia, Florida, East, Coluber constrictor priapus</th>
         </tr>
         <tr>
             <td>Southern Ring-necked Snake</td>
             <td>2019/05/28</td>
-            <td>2021/02/16</td>
+            <td>2022/03/01</td>
             <td><img src="/assets/snakes/lifers/snakes/southernRingneck.jpg" alt="Southern Ring-neck Snake"></td>
             <th>Virginia, Florida, East, Diadophis punctatus punctatus</th>
         </tr>
@@ -150,7 +150,7 @@ datatable: true
         <tr>
             <td>Brown Watersnake</td>
             <td>2019/05/28</td>
-            <td>2021/06/18</td>
+            <td>2022/02/28</td>
             <td><img src="/assets/snakes/lifers/snakes/watersnake.jpg" alt="Brown Watersnake"></td>
             <th>Virginia, Florida, East, Nerodia taxispilota</th>
         </tr>
@@ -171,14 +171,14 @@ datatable: true
         <tr>
             <td>Florida Cottonmouth</td>
             <td>2021/06/15</td>
-            <td>2021/06/18</td>
+            <td>2022/02/26</td>
             <td><img src="/assets/snakes/lifers/snakes/floridaCottonmouth.jpg" alt="Florida Cottonmouth"></td>
             <th>Florida, East, Agkistrodon piscivorus conanti</th>
         </tr> 
         <tr>
             <td>Florida Scarlet Snake</td>
             <td>2021/06/15</td>
-            <td>2021/06/18</td>
+            <td>2022/02/27</td>
             <td><img src="/assets/snakes/lifers/snakes/floridaScarlet.jpg" alt="Florida Scarlet Snake"></td>
             <th>Florida, East, Cemophora coccinea coccinea</th>
         </tr>   
@@ -199,7 +199,7 @@ datatable: true
         <tr>
             <td>Corn Snake</td>
             <td>2019/05/29</td>
-            <td>2021/06/18</td>
+            <td>2022/03/04</td>
             <td><img src="/assets/snakes/lifers/snakes/cornSnake.jpg" alt="Corn Snake"></td>
             <th>North Carolina, Georgia, Florida, East, Pantherophis guttatus</th>
         </tr>
@@ -234,7 +234,7 @@ datatable: true
         <tr>
             <td>Red Bellied Snake</td>
             <td>2019/05/31</td>
-            <td>2021/06/14</td>
+            <td>2021/10/21</td>
             <td><img src="/assets/snakes/lifers/snakes/redBelly.jpg" alt="Red Bellied Snake"></td>
             <th>New Jersey, East, Storeria occipitomaculata</th>
         </tr>
@@ -423,28 +423,28 @@ datatable: true
         <tr>
             <td>Eastern Coral Snake</td>
             <td>2021/02/16</td>
-            <td>2021/02/16</td>
+            <td>2022/02/28</td>
             <td><img src="/assets/snakes/lifers/snakes/easternCoral.jpg" alt="Eastern Coral Snake"></td>
             <th>Florida, East, Micrurus fulvius</th>
         </tr>
         <tr>
             <td>Florida Brownsnake</td>
             <td>2021/02/16</td>
-            <td>2021/06/18</td>
+            <td>2022/03/03</td>
             <td><img src="/assets/snakes/lifers/snakes/floridaBrown.jpg" alt="Florida Brownsnake"></td>
             <th>Florida, East, Dekay, De Kay, Storeria victa</th>
         </tr>
         <tr>
             <td>Brahminy Blindsnake</td>
             <td>2021/02/16</td>
-            <td>2021/02/16</td>
+            <td>2022/03/02</td>
             <td><img src="/assets/snakes/lifers/snakes/brahminyBlind.jpg" alt="Brahminy Blindsnake"></td>
-            <th>Florida, East, Indotyphlops braminus</th>
+            <th>Florida, East, Indotyphlops braminus, invasive</th>
         </tr>
         <tr>
             <td>Yellow Ratsnake</td>
             <td>2021/02/15</td>
-            <td>2021/02/15</td>
+            <td>2022/02/27</td>
             <td><img src="/assets/snakes/lifers/snakes/yellowRatsnake.jpg" alt="Yellow Ratsnake"></td>
             <th>Florida, East, Pantherophis alleghaniensis</th>
         </tr>
@@ -458,14 +458,14 @@ datatable: true
         <tr>
             <td>Banded Watersnake</td>
             <td>2021/02/15</td>
-            <td>2021/06/18</td>
+            <td>2022/02/28</td>
             <td><img src="/assets/snakes/lifers/snakes/bandedWatersnake.jpg" alt="Banded Watersnake"></td>
             <th>Florida, East, Nerodia fasciata</th>
         </tr>
         <tr>
             <td>Florida Green Watersnake</td>
             <td>2021/02/14</td>
-            <td>2021/02/14</td>
+            <td>2022/03/03</td>
             <td><img src="/assets/snakes/lifers/snakes/floridaGreenWatersnake.jpg" alt="Florida Green Watersnake"></td>
             <th>Florida, East, Nerodia floridana</th>
         </tr>
@@ -479,7 +479,7 @@ datatable: true
         <tr>
             <td>Peninsula (Southern) Ribbon Snake</td>
             <td>2021/02/16</td>
-            <td>2021/06/15</td>
+            <td>2022/03/04</td>
             <td><img src="/assets/snakes/lifers/snakes/southernRibbon.jpg" alt="Peninsula (Southern) Ribbon Snake"></td>
             <th>Florida, East, Thamnophis sauritus sackenii</th>
         </tr>
