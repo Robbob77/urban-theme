@@ -79,7 +79,7 @@ datatable: true
         <tr>
             <td>Blue Spotted Salamander</td>
             <td>2019/04/14</td>
-            <td>2021/12/06</td>
+            <td>2022/03/19</td>
             <td><img src="/assets/snakes/lifers/salamanders/blueSpottedSalamander.jpg" alt="Blue Spotted Salamander"></td>
             <th>Vermont, East, Mole</th>
         </tr>
@@ -93,7 +93,7 @@ datatable: true
         <tr>
             <td>Four-Toed Salamander</td>
             <td>2020/03/31</td>
-            <td>2021/04/29</td>
+            <td>2022/03/19</td>
             <td><img src="/assets/snakes/lifers/salamanders/fourToedSalamander.jpg" alt="Four-Toed Salamander"></td>
             <th>Vermont, East</th>
         </tr>
@@ -114,7 +114,7 @@ datatable: true
         <tr>
             <td>Eastern Newt</td>
             <td>2019/04/14</td>
-            <td>2021/11/05</td>
+            <td>2022/03/19</td>
             <td><img src="/assets/snakes/lifers/salamanders/easternNewt.jpg" alt="Eastern Newt"></td>
             <th>Vermont, East, Newt</th>
         </tr>
@@ -128,14 +128,14 @@ datatable: true
         <tr>
             <td>Red-Backed Salamander</td>
             <td>2019/09/05</td>
-            <td>2021/12/06</td>
+            <td>2022/03/19</td>
             <td><img src="/assets/snakes/lifers/salamanders/redBackedSalamander.jpg" alt="Red-Backed Salamander"></td>
             <th>Vermont, East</th>
         </tr>
         <tr>
             <td>Spotted Salamander</td>
             <td>2019/04/14</td>
-            <td>2021/10/26</td>
+            <td>2022/03/19</td>
             <td><img src="/assets/snakes/lifers/salamanders/spottedSalamander.jpg" alt="Spotted Salamander"></td>
             <th>Vermont, East, Mole</th>
         </tr>
@@ -177,8 +177,8 @@ datatable: true
         <tr>
             <td>Northern Dusky Salamander</td>
             <td>2019/05/29</td>
-            <td>2019/05/29</td>
-            <td>Not Personally Photographed</td>
+            <td>2022/03/24</td>
+            <td><img src="/assets/snakes/lifers/salamanders/northernDusky.jpg" alt="Northern Dusky Salamander"></td>
             <th>Virginia, Vermont, East, stream</th>
         </tr>
         <tr>
