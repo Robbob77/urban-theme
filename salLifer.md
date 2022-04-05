@@ -128,7 +128,7 @@ datatable: true
         <tr>
             <td>Red-Backed Salamander</td>
             <td>2019/09/05</td>
-            <td>2022/03/19</td>
+            <td>2022/04/03</td>
             <td><img src="/assets/snakes/lifers/salamanders/redBackedSalamander.jpg" alt="Red-Backed Salamander"></td>
             <th>Vermont, East</th>
         </tr>
