@@ -79,7 +79,7 @@ datatable: true
         <tr>
             <td>Blue Spotted Salamander</td>
             <td>2019/04/14</td>
-            <td>2022/03/19</td>
+            <td>2022/04/07</td>
             <td><img src="/assets/snakes/lifers/salamanders/blueSpottedSalamander.jpg" alt="Blue Spotted Salamander"></td>
             <th>Vermont, East, Mole</th>
         </tr>
@@ -93,7 +93,7 @@ datatable: true
         <tr>
             <td>Four-Toed Salamander</td>
             <td>2020/03/31</td>
-            <td>2022/03/19</td>
+            <td>2022/04/07</td>
             <td><img src="/assets/snakes/lifers/salamanders/fourToedSalamander.jpg" alt="Four-Toed Salamander"></td>
             <th>Vermont, East</th>
         </tr>
@@ -135,7 +135,7 @@ datatable: true
         <tr>
             <td>Spotted Salamander</td>
             <td>2019/04/14</td>
-            <td>2022/03/19</td>
+            <td>2022/04/07</td>
             <td><img src="/assets/snakes/lifers/salamanders/spottedSalamander.jpg" alt="Spotted Salamander"></td>
             <th>Vermont, East, Mole</th>
         </tr>
