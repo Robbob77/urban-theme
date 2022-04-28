@@ -2,7 +2,7 @@
 layout: post
 title:  "Home for Spring!"
 date:   2022-03-14 12:00:00
-preview: /assets/snakes/vermontSpring/preview.jpeg
+preview: /assets/snakes/vermontSpring/preview.jpg
 snake: "on"
 number: 53
 ---

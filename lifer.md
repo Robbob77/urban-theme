@@ -26,14 +26,14 @@ datatable: true
             <td>2018/03/29</td>
             <td>2020/05/27</td>
             <td><img src="/assets/snakes/lifers/snakes/redDiamondRattle.jpg" alt="Red Diamond Rattlesnake"></td>
-            <th>Southern California, West, Crotalus ruber</th>
+            <th>Southern California, West, Crotalus ruber, venomous</th>
         </tr>
         <tr>
             <td>Northern Pacific Rattlesnake</td>
             <td>2018/06/04</td>
             <td>2020/08/13</td>
             <td><img src="/assets/snakes/lifers/snakes/norPac.jpg" alt="Northern Pacific Rattlesnake"></td>
-            <th>California, West, NorPac, Crotalus oreganus oreganus</th>
+            <th>California, West, NorPac, Crotalus oreganus oreganus, venomous</th>
         </tr>
         <tr>
             <td>Pacific Gophersnake</td>
@@ -96,7 +96,7 @@ datatable: true
             <td>2019/03/27</td>
             <td>2019/03/27</td>
             <td><img src="/assets/snakes/lifers/snakes/soPac.jpg" alt="Southern Pacific Rattlesnake"></td>
-            <th>California, West, SoPac, Crotalus oreganus helleri</th>
+            <th>California, West, SoPac, Crotalus oreganus helleri, venomous</th>
         </tr>
         <tr>
             <td>Red Racer</td>
@@ -166,14 +166,14 @@ datatable: true
             <td>2019/05/28</td>
             <td>2021/01/31</td>
             <td><img src="/assets/snakes/lifers/snakes/easternCottonmouth.jpg" alt="Eastern Cottonmouth"></td>
-            <th>Virginia, Georgia, East, Agkistrodon piscivorus</th>
+            <th>Virginia, Georgia, East, Agkistrodon piscivorus, venomous</th>
         </tr>
         <tr>
             <td>Florida Cottonmouth</td>
             <td>2021/06/15</td>
             <td>2022/02/26</td>
             <td><img src="/assets/snakes/lifers/snakes/floridaCottonmouth.jpg" alt="Florida Cottonmouth"></td>
-            <th>Florida, East, Agkistrodon piscivorus conanti</th>
+            <th>Florida, East, Agkistrodon piscivorus conanti, venomous</th>
         </tr> 
         <tr>
             <td>Florida Scarlet Snake</td>
@@ -215,7 +215,7 @@ datatable: true
             <td>2019/05/30</td>
             <td>2019/05/30</td>
             <td><img src="/assets/snakes/lifers/snakes/pygmy.jpg" alt="Carolina Pygmy Rattlesnake"></td>
-            <th>North Carolina, East, Sistrurus miliarus</th>
+            <th>North Carolina, East, Sistrurus miliarus, venomous</th>
         </tr>
         <tr>
             <td>Eastern Kingsnake</td>
@@ -313,7 +313,7 @@ datatable: true
             <td>2020/05/26</td>
             <td>2020/08/18</td>
             <td><img src="/assets/snakes/lifers/snakes/sidewinder.jpg" alt="Colorado Desert Sidewinder"></td>
-            <th>California, West, Rattlesnake, Crotalus cerastes laterorepens</th>
+            <th>California, West, Rattlesnake, Crotalus cerastes laterorepens, venomous</th>
         </tr>
         <tr>
             <td>Spotted Leaf-nosed Snake</td>
@@ -327,7 +327,7 @@ datatable: true
             <td>2020/06/01</td>
             <td>2020/06/02</td>
             <td><img src="/assets/snakes/lifers/snakes/mohaveSidewinder.jpg" alt="Mohave Desert Sidewinder"></td>
-            <th>California, West, Rattlesnake, Crotalus cerastes cerastes</th>
+            <th>California, West, Rattlesnake, Crotalus cerastes cerastes, venomous</th>
         </tr>
         <tr>
             <td>Great Basin Gophersnake</td>
@@ -348,7 +348,7 @@ datatable: true
             <td>2020/06/02</td>
             <td>2020/06/02</td>
             <td><img src="/assets/snakes/lifers/snakes/panamint.jpg" alt="Panamint Rattlesnake"></td>
-            <th>California, West, Crotalus stephensi</th>
+            <th>California, West, Crotalus stephensi, venomous</th>
         </tr>
         <tr>
             <td>Northern Desert Nightsnake</td>
@@ -369,7 +369,7 @@ datatable: true
             <td>2020/08/16</td>
             <td>2020/08/17</td>
             <td><img src="/assets/snakes/lifers/snakes/mohaveRattlesnake.jpg" alt="Northern Mohave Rattlesnake"></td>
-            <th>California, West, Green, Crotalus scutulatus scutulatus</th>
+            <th>California, West, Green, Crotalus scutulatus scutulatus, venomous</th>
         </tr>
         <tr>
             <td>Long-Nosed Snake</td>
@@ -383,21 +383,21 @@ datatable: true
             <td>2020/08/18</td>
             <td>2020/08/18</td>
             <td><img src="/assets/snakes/lifers/snakes/speckledRattlesnake.jpg" alt="Southwestern Speckled Rattlesnake"></td>
-            <th>California, West, Crotalus mitchellii pyrrhus</th>
+            <th>California, West, Crotalus mitchellii pyrrhus, venomous</th>
         </tr>
         <tr>
             <td>Western Diamond-backed Rattlesnake</td>
             <td>2020/08/21</td>
             <td>2020/08/21</td>
             <td><img src="/assets/snakes/lifers/snakes/westernDiamondback.jpg" alt="Western Diamond-backed Rattlesnake"></td>
-            <th>California, Arizona, West, Crotalus atrox</th>
+            <th>California, Arizona, West, Crotalus atrox, venomous</th>
         </tr>
         <tr>
             <td>Eastern Diamond-backed Rattlesnake</td>
             <td>2021/02/09</td>
             <td>2021/02/09</td>
             <td><img src="/assets/snakes/lifers/snakes/easternDiamondback.jpg" alt="Eastern Diamond-backed Rattlesnake"></td>
-            <th>Georgia, East, Crotalus adamanteus</th>
+            <th>Georgia, East, Crotalus adamanteus, venomous</th>
         </tr>
         <tr>
             <td>Eastern Hognose</td>
@@ -411,7 +411,7 @@ datatable: true
             <td>2021/02/12</td>
             <td>2021/06/14</td>
             <td><img src="/assets/snakes/lifers/snakes/timberRattlesnake.jpg" alt="Timber Rattlesnake"></td>
-            <th>Georgia, New Jersey, East, Crotalus horridus</th>
+            <th>Georgia, New Jersey, East, Crotalus horridus, venomous</th>
         </tr>
         <tr>
             <td>Eastern Coachwhip</td>
@@ -425,7 +425,7 @@ datatable: true
             <td>2021/02/16</td>
             <td>2022/02/28</td>
             <td><img src="/assets/snakes/lifers/snakes/easternCoral.jpg" alt="Eastern Coral Snake"></td>
-            <th>Florida, East, Micrurus fulvius</th>
+            <th>Florida, East, Micrurus fulvius, venomous</th>
         </tr>
         <tr>
             <td>Florida Brownsnake</td>
@@ -495,7 +495,63 @@ datatable: true
             <td>2021/06/10</td>
             <td>2021/06/10</td>
             <td>Not Personally Photographed</td>
-            <th>Pennyslyvania, East, Agkistrodon contortrix</th>
+            <th>Pennyslyvania, East, Agkistrodon contortrix, venomous</th>
+        </tr>
+        <tr>
+            <td>Pacific Tree Boa</td>
+            <td>2022/04/10</td>
+            <td>2022/04/10</td>
+            <td><img src="/assets/snakes/lifers/snakes/pacificTreeBoa.jpg" alt="Pacific Tree Boa"></td>
+            <th>Costa Rica, Dominical, Corallus ruschenbergerii</th>
+        </tr>
+        <tr>
+            <td>Bird-eating Snake</td>
+            <td>2022/04/11</td>
+            <td>2022/04/11</td>
+            <td><img src="/assets/snakes/lifers/snakes/birdEatingSnake.jpg" alt="Bird-eating Snake"></td>
+            <th>Costa Rica, Drakes Bay, Puffing Snake, Phrynonax poecilonotus</th>
+        </tr>
+        <tr>
+            <td>Allen's Coral Snake</td>
+            <td>2022/04/11</td>
+            <td>2022/04/11</td>
+            <td><img src="/assets/snakes/lifers/snakes/allensCoral.jpg" alt="Allen's Coral Snake"></td>
+            <th>Costa Rica, Rancho Quemado, Micrurus alleni, venomous </th>
+        </tr>
+        <tr>
+            <td>Common Blunt-headed Vine Snake</td>
+            <td>2022/04/11</td>
+            <td>2022/04/11</td>
+            <td><img src="/assets/snakes/lifers/snakes/bluntHeaded.jpg" alt="Common Blunt-headed Vine Snake"></td>
+            <th>Costa Rica, Rancho Quemado, Imantodes cenchoa </th>
+        </tr>
+        <tr>
+            <td>Northern Cat-eyed Snake</td>
+            <td>2022/04/11</td>
+            <td>2022/04/11</td>
+            <td><img src="/assets/snakes/lifers/snakes/catEyed.jpg" alt="Northern Cat-eyed Snake"></td>
+            <th>Costa Rica, Rancho Quemado, Leptodeira Septentrionalis </th>
+        </tr>
+        <tr>
+            <td>Clouded Snail-eater</td>
+            <td>2022/04/11</td>
+            <td>2022/04/11</td>
+            <td><img src="/assets/snakes/lifers/snakes/snailEater.jpg" alt="Clouded Snail-eater"></td>
+            <th>Costa Rica, Rancho Quemado, Sibon nebulatus </th>
+        </tr>
+        <tr>
+            <td>Eyelash Palm-Pitviper</td>
+            <td>2022/04/12</td>
+            <td>2022/04/12</td>
+            <td><img src="/assets/snakes/lifers/snakes/eyelash.jpg" alt="Eyelash Palm-Pitviper"></td>
+            <th>Costa Rica, Bolitas, Bothriechis schlegelii, venomous </th>
+        </tr>
+        <tr>
+            <td>Fer-de-Lance</td>
+            <td>2022/04/11</td>
+            <td>2022/04/11</td>
+            <td><img src="/assets/snakes/lifers/snakes/ferdelance.jpg" alt="Fer-de-Lance"></td>
+            <th>Costa Rica, Rancho Quemado, Terciopelo, fer de lance, Bothrops asper, venomous </th>
         </tr>
     </tbody>
 </table>
