@@ -66,7 +66,7 @@ datatable: true
         <tr>
             <td>Eastern Gartersnake</td>
             <td>2018/09/22</td>
-            <td>2022/04/06</td>
+            <td>2022/04/30</td>
             <td><img src="/assets/snakes/lifers/snakes/easternGarter.jpg" alt="Eastern Gartersnake"></td>
             <th>Vermont, Pennyslvania, Florida, East, Thamnophis sirtalis</th>
         </tr>
@@ -108,7 +108,7 @@ datatable: true
         <tr>
             <td>Eastern Milksnake</td>
             <td>2019/04/13</td>
-            <td>2020/10/10</td>
+            <td>2022/04/30</td>
             <td><img src="/assets/snakes/lifers/snakes/easternMilk.jpg" alt="Eastern Milksnake"></td>
             <th>Vermont, East, Lampropeltis triangulum triangulum</th>
         </tr>
@@ -127,11 +127,11 @@ datatable: true
             <th>Virginia, Florida, East, Diadophis punctatus punctatus</th>
         </tr>
         <tr>
-            <td>Black Rat Snake</td>
+            <td>Eastern Ratsnake</td>
             <td>2019/05/28</td>
-            <td>2021/06/14</td>
-            <td>Not Personally Photographed</td>
-            <th>Virginia, New Jersey East, Elaphe Pantherophis obsoleta</th>
+            <td>2022/04/30</td>
+            <td><img src="/assets/snakes/lifers/snakes/easternRatsnake.jpg" alt="Eastern Ratsnake"></td>
+            <th>Virginia, New Jersey East, Vermont, Elaphe Pantherophis obsoleta, black ratsnake</th>
         </tr>
         <tr>
             <td>Eastern Ribbon Snake</td>
@@ -157,9 +157,9 @@ datatable: true
         <tr>
             <td>Northern Watersnake</td>
             <td>2021/06/10</td>
-            <td>2021/06/13</td>
-            <td>Not Personally Photographed</td>
-            <th>New Jersey, East, Nerodia sipedon sipedon</th>
+            <td>2022/04/30</td>
+            <td><img src="/assets/snakes/lifers/snakes/northernWatersnake.jpg" alt="Northern Watersnake"></td>
+            <th>New Jersey, Vermont, East, Nerodia sipedon sipedon</th>
         </tr>
         <tr>
             <td>Eastern Cottonmouth</td>
