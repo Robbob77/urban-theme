@@ -1,0 +1,28 @@
+---
+layout: postS
+title:  "Vermont Summer"
+date:   2022-05-05 13:00:00
+preview: /assets/stars/foraging/preview.jpg
+stars: "on"
+number: 56
+---
+
+** Don't consume anything if you're not 100% confident in the identification **
+
+This past fall I got into foraging for mushrooms. It started with lions mane which isn't exactly what I found. There are a few hericium species in the area and I would guess that what I find most often is bears head tooth but I have seen a coupe different forms of clusters and teeth. 
+
+![Hericium]({{ site.baseurl }}/assets/stars/foraging/lionsMane.jpg)
+
+![Hericium]({{ site.baseurl }}/assets/stars/foraging/lionsMane2.jpg)
+
+In addition, I have gotten quite lucky with coming across some chicken of the woods. Particularly enjoy this. 
+
+![Chicken of the Woods]({{ site.baseurl }}/assets/stars/foraging/chickenOfTheWoods.jpg)
+
+Even came across some hen!
+
+![Hen of the Woods]({{ site.baseurl }}/assets/stars/foraging/henOfTheWoods.jpg)
+
+In the early spring I came across some wild onions (ramps?) growing around my house. 
+
+![Ramps/Wild Onions]({{ site.baseurl }}/assets/stars/foraging/ramps.jpg)

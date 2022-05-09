@@ -19,3 +19,21 @@ Settling back into my routine, I've finally had the opportunity to go out and se
 ![Northern Watersnake]({{ site.baseurl }}/assets/snakes/vermontSummer/northernWatersnake2.jpg)
 
 ![Northern Watersnake]({{ site.baseurl }}/assets/snakes/vermontSummer/northernWatersnake3.jpg)
+
+<div align="center"><h3>May 5</h3></div>
+
+Got out again! Came across some more ratsnakes, a DOR northern watersnake, and so many garters. Ratsnakes seem to be doing quite well in the state even though they're threatened. 
+
+![Eastern Ratsnake]({{ site.baseurl }}/assets/snakes/vermontSummer/easternRatsnake3.jpg)
+
+![Eastern Ratsnake]({{ site.baseurl }}/assets/snakes/vermontSummer/easternRatsnake4.jpg)
+
+![Eastern Ratsnake]({{ site.baseurl }}/assets/snakes/vermontSummer/easternRatsnake5.jpg)
+
+![Eastern Gartersnake]({{ site.baseurl }}/assets/snakes/vermontSummer/garter.jpg)
+
+![Eastern Gartersnake]({{ site.baseurl }}/assets/snakes/vermontSummer/garter2.jpg)
+
+This is what it felt like looking at these rocks. There are three garters here (at least that I've seen), can you find them all?
+
+![Eastern Gartersnake]({{ site.baseurl }}/assets/snakes/vermontSummer/garter3.jpg)

@@ -66,7 +66,7 @@ datatable: true
         <tr>
             <td>Eastern Gartersnake</td>
             <td>2018/09/22</td>
-            <td>2022/04/30</td>
+            <td>2022/05/05</td>
             <td><img src="/assets/snakes/lifers/snakes/easternGarter.jpg" alt="Eastern Gartersnake"></td>
             <th>Vermont, Pennyslvania, Florida, East, Thamnophis sirtalis</th>
         </tr>
@@ -129,7 +129,7 @@ datatable: true
         <tr>
             <td>Eastern Ratsnake</td>
             <td>2019/05/28</td>
-            <td>2022/04/30</td>
+            <td>2022/05/05</td>
             <td><img src="/assets/snakes/lifers/snakes/easternRatsnake.jpg" alt="Eastern Ratsnake"></td>
             <th>Virginia, New Jersey East, Vermont, Elaphe Pantherophis obsoleta, black ratsnake</th>
         </tr>
