@@ -37,3 +37,11 @@ Got out again! Came across some more ratsnakes, a DOR northern watersnake, and s
 This is what it felt like looking at these rocks. There are three garters here (at least that I've seen), can you find them all?
 
 ![Eastern Gartersnake]({{ site.baseurl }}/assets/snakes/vermontSummer/garter3.jpg)
+
+<div align="center"><h3>May 9</h3></div>
+
+Found my first turtle crossing the road! A very pretty painted turtle. The red color on these guys are stunning! Next encounter, I will take a little more time to appreciate it.
+
+![Painted Turtle]({{ site.baseurl }}/assets/snakes/vermontSummer/paintedTurtle2.jpg)
+
+![Painted Turtle]({{ site.baseurl }}/assets/snakes/vermontSummer/paintedTurtle.jpg)
