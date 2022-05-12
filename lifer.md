@@ -185,7 +185,7 @@ datatable: true
         <tr>
             <td>Northern Brown Snake</td>
             <td>2019/05/28</td>
-            <td>2020/10/10</td>
+            <td>2022/05/11</td>
             <td><img src="/assets/snakes/lifers/snakes/brownSnake.jpg" alt="Northern Brown Snake"></td>
             <th>Virginia, Vermont, East, Dekay, De Kay, Storeria dekayi</th>
         </tr>
