@@ -45,3 +45,13 @@ Found my first turtle crossing the road! A very pretty painted turtle. The red c
 ![Painted Turtle]({{ site.baseurl }}/assets/snakes/vermontSummer/paintedTurtle2.jpg)
 
 ![Painted Turtle]({{ site.baseurl }}/assets/snakes/vermontSummer/paintedTurtle.jpg)
+
+<div align="center"><h3>May 14</h3></div>
+
+Huge day, saw stream salamanders (dusky, spring, two-lined), red backs, eastern newts, american toads, wood frogs, spring peepers, green frogs, and garter snakes. We saw some american toad eggs which were in amplexus, their eggs in a string shape (weird), and spotted salamander eggs. Also some wood frog tadpoles.
+
+First spring salamanders I've ever found, super exciting. Not great photos but better to come hopefully. 
+
+![Spring Salamander]({{ site.baseurl }}/assets/snakes/vermontSummer/spring.jpg)
+
+![Spring Salamander]({{ site.baseurl }}/assets/snakes/vermontSummer/spring2.jpg)
