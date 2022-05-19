@@ -55,3 +55,39 @@ First spring salamanders I've ever found, super exciting. Not great photos but b
 ![Spring Salamander]({{ site.baseurl }}/assets/snakes/vermontSummer/spring.jpg)
 
 ![Spring Salamander]({{ site.baseurl }}/assets/snakes/vermontSummer/spring2.jpg)
+
+<div align = "center"><h3>May 16</h3></div>
+
+I was itching to get back out and take some better photos of those spring salamanders. Took the first excuse to get back there. Wasn't long before I turned one up.
+
+![Spring Salamander]({{ site.baseurl }}/assets/snakes/vermontSummer/spring3.jpg)
+
+Nice sized fellow, these are such amazing creatures. Can't believe they inhabit small streams. I would never have guessed that just a couple years ago. 
+
+![Spring Salamander]({{ site.baseurl }}/assets/snakes/vermontSummer/spring4.jpg)
+
+Love the pores on their face and the white dots under the mouth.
+
+Happened upon a second! This one was larger and brighter. Even decided to strike a pose.
+
+![Spring Salamander]({{ site.baseurl }}/assets/snakes/vermontSummer/spring5.jpg)
+
+Like a tree aquatic salamander they have an incredibly flat tail which aids their underwater locomotion.
+
+![Spring Salamander]({{ site.baseurl }}/assets/snakes/vermontSummer/spring6.jpg)
+
+Saw some frog and toad eggs on the way out. As well as this little guy. Always a welcome sight.
+
+![Eastern Newt]({{ site.baseurl }}/assets/snakes/vermontSummer/newt.jpg)
+
+<div align = "center"><h3>May 18</h3></div>
+
+Stumbled my way into some in cover, the conditions were perfect but I was still surprised to see some activity. Some garters and this surpise flip.
+
+![Garters and Milksnake flipped under tin]({{ site.baseurl }}/assets/snakes/vermontSummer/flip.jpg)
+
+Four garters and a milksnake. Interesting how the garter and milksnake were, in a sense, cuddling. Have to conserve heat somehow.
+
+![Eastern Milksnake]({{ site.baseurl }}/assets/snakes/vermontSummer/milk.jpg)
+
+Glad to see some milks, need to search out some more. 

@@ -66,7 +66,7 @@ datatable: true
         <tr>
             <td>Eastern Gartersnake</td>
             <td>2018/09/22</td>
-            <td>2022/05/14</td>
+            <td>2022/05/18</td>
             <td><img src="/assets/snakes/lifers/snakes/easternGarter.jpg" alt="Eastern Gartersnake"></td>
             <th>Vermont, Pennyslvania, Florida, East, Thamnophis sirtalis</th>
         </tr>
@@ -108,7 +108,7 @@ datatable: true
         <tr>
             <td>Eastern Milksnake</td>
             <td>2019/04/13</td>
-            <td>2022/04/30</td>
+            <td>2022/05/18</td>
             <td><img src="/assets/snakes/lifers/snakes/easternMilk.jpg" alt="Eastern Milksnake"></td>
             <th>Vermont, East, Lampropeltis triangulum triangulum</th>
         </tr>

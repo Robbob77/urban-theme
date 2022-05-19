@@ -114,7 +114,7 @@ datatable: true
         <tr>
             <td>Eastern Newt</td>
             <td>2019/04/14</td>
-            <td>2022/05/15</td>
+            <td>2022/05/18</td>
             <td><img src="/assets/snakes/lifers/salamanders/easternNewt.jpg" alt="Eastern Newt"></td>
             <th>Vermont, East, Newt</th>
         </tr>
@@ -191,7 +191,7 @@ datatable: true
         <tr>
             <td>Spring Salamander</td>
             <td>2022/05/14</td>
-            <td>2022/05/14</td>
+            <td>2022/05/16</td>
             <td><img src="/assets/snakes/lifers/salamanders/spring.jpg" alt="Spring Salamander"></td>
             <th>stream, Vermont, East</th>
         </tr>
