@@ -91,3 +91,17 @@ Four garters and a milksnake. Interesting how the garter and milksnake were, in 
 ![Eastern Milksnake]({{ site.baseurl }}/assets/snakes/vermontSummer/milk.jpg)
 
 Glad to see some milks, need to search out some more. 
+
+<div align = "center"><h3>June 1</h3></div>
+
+One of my favorite things about being on the east coast. Turtles!
+
+Especially crossing the road. Which isn't necessarily a good thing, but increases the occurences. I found this large snapping turtle driving through a swamp on my way to work. Only my second ever snapping turtle seen on land. Looked like it may have been preparing a nest so I left it alone. Think I saw another turtle around the same area a couple days later but couldn't stop for it.
+
+![Snapping]({{ site.baseurl }}/assets/snakes/vermontSummer/snapping.jpg)
+
+<div align = "center"><h3>June 5</h3></div>
+
+I've been following a small population of green frogs living in a stream by my house. There are also a handful of garter snakes living around my property and I knew the two interacted but was never exactly sure to what degree. This deserves a post by itself and you'll see that back at the home page. Here's a little teaser though.
+
+![Eastern Gartersnake Eating Green Frog]({{ site.baseurl }}/assets/snakes/vermontSummer/garterEatsGreen.jpg)
