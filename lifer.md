@@ -66,7 +66,7 @@ datatable: true
         <tr>
             <td>Eastern Gartersnake</td>
             <td>2018/09/22</td>
-            <td>2022/06/09</td>
+            <td>2022/08/03</td>
             <td><img src="/assets/snakes/lifers/snakes/easternGarter.jpg" alt="Eastern Gartersnake"></td>
             <th>Vermont, Pennyslvania, Florida, East, Thamnophis sirtalis</th>
         </tr>
@@ -234,7 +234,7 @@ datatable: true
         <tr>
             <td>Red Bellied Snake</td>
             <td>2019/05/31</td>
-            <td>2021/10/21</td>
+            <td>2022/06/17</td>
             <td><img src="/assets/snakes/lifers/snakes/redBelly.jpg" alt="Red Bellied Snake"></td>
             <th>New Jersey, East, Storeria occipitomaculata</th>
         </tr>

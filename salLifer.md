@@ -114,7 +114,7 @@ datatable: true
         <tr>
             <td>Eastern Newt</td>
             <td>2019/04/14</td>
-            <td>2022/05/19</td>
+            <td>2022/08/02</td>
             <td><img src="/assets/snakes/lifers/salamanders/easternNewt.jpg" alt="Eastern Newt"></td>
             <th>Vermont, East, Newt</th>
         </tr>
@@ -128,7 +128,7 @@ datatable: true
         <tr>
             <td>Red-Backed Salamander</td>
             <td>2019/09/05</td>
-            <td>2022/05/19</td>
+            <td>2022/08/02</td>
             <td><img src="/assets/snakes/lifers/salamanders/redBackedSalamander.jpg" alt="Red-Backed Salamander"></td>
             <th>Vermont, East</th>
         </tr>
@@ -177,21 +177,21 @@ datatable: true
         <tr>
             <td>Northern Dusky Salamander</td>
             <td>2019/05/29</td>
-            <td>2022/05/19</td>
+            <td>2022/08/02</td>
             <td><img src="/assets/snakes/lifers/salamanders/northernDusky.jpg" alt="Northern Dusky Salamander"></td>
             <th>Virginia, Vermont, East, stream</th>
         </tr>
         <tr>
             <td>Two-Lined Salamander</td>
             <td>2021/12/06</td>
-            <td>2022/05/14</td>
+            <td>2022/08/02</td>
             <td><img src="/assets/snakes/lifers/salamanders/twoLined.jpg" alt="Two-Lined Salamander"></td>
             <th>stream, Vermont, East</th>
         </tr>
         <tr>
             <td>Spring Salamander</td>
             <td>2022/05/14</td>
-            <td>2022/05/16</td>
+            <td>2022/08/02</td>
             <td><img src="/assets/snakes/lifers/salamanders/spring.jpg" alt="Spring Salamander"></td>
             <th>stream, Vermont, East</th>
         </tr>
