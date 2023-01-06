@@ -66,14 +66,14 @@ datatable: true
         <tr>
             <td>Eastern Gartersnake</td>
             <td>2018/09/22</td>
-            <td>2022/08/03</td>
+            <td>2022/10/06</td>
             <td><img src="/assets/snakes/lifers/snakes/easternGarter.jpg" alt="Eastern Gartersnake"></td>
             <th>Vermont, Pennyslvania, Florida, East, Thamnophis sirtalis</th>
         </tr>
         <tr>
             <td>Smooth Green Snake</td>
             <td>2021/05/18</td>
-            <td>2021/10/21</td>
+            <td>2022/08/25</td>
             <td><img src="/assets/snakes/lifers/snakes/smoothGreen.jpg" alt="Smooth Green Snake"></td>
             <th>Vermont, East, Opheodrys vernalis</th>
         </tr>
@@ -141,6 +141,13 @@ datatable: true
             <th>Virginia, East, Thamnophis sauritus sauritus</th>
         </tr>
         <tr>
+            <td>Western Ribbon Snake</td>
+            <td>2022/09/03</td>
+            <td>2022/09/03</td>
+            <td><img src="/assets/snakes/lifers/snakes/westRibbon.jpg" alt="Western Ribbon Snake"></td>
+            <th>Oklahoma, Midwest, Orange-striped ribbonsnake, Thamnophis proximus</th>
+        </tr>
+        <tr>
             <td>Scarlet Kingsnake</td>
             <td>2019/05/28</td>
             <td>2021/02/18</td>
@@ -162,11 +169,25 @@ datatable: true
             <th>New Jersey, Vermont, East, Nerodia sipedon sipedon</th>
         </tr>
         <tr>
+            <td>Broad-banded Watersnake</td>
+            <td>2022/09/03</td>
+            <td>2022/09/03</td>
+            <td><img src="/assets/snakes/lifers/snakes/broadBandedWatersnake.jpg" alt="Broad-banded Watersnake"></td>
+            <th>Oklahoma, Midwest, Nerodia fasciata confluens</th>
+        </tr>
+        <tr>
+            <td>Plain-bellied Watersnake</td>
+            <td>2022/09/04</td>
+            <td>2022/09/04</td>
+            <td><img src="/assets/snakes/lifers/snakes/plainBelliedWatersnake.jpg" alt="Plain-bellied Watersnake"></td>
+            <th>Oklahoma, Midwest, Nerodia erthrogaster </th>
+        </tr>
+        <tr>
             <td>Eastern Cottonmouth</td>
             <td>2019/05/28</td>
             <td>2021/01/31</td>
             <td><img src="/assets/snakes/lifers/snakes/easternCottonmouth.jpg" alt="Eastern Cottonmouth"></td>
-            <th>Virginia, Georgia, East, Agkistrodon piscivorus, venomous</th>
+            <th>Virginia, Georgia, East, Agkistrodon piscivorus piscivorus, venomous</th>
         </tr>
         <tr>
             <td>Florida Cottonmouth</td>
@@ -174,6 +195,13 @@ datatable: true
             <td>2022/02/26</td>
             <td><img src="/assets/snakes/lifers/snakes/floridaCottonmouth.jpg" alt="Florida Cottonmouth"></td>
             <th>Florida, East, Agkistrodon piscivorus conanti, venomous</th>
+        </tr> 
+        <tr>
+            <td>Western Cottonmouth</td>
+            <td>2022/09/07</td>
+            <td>2022/09/07</td>
+            <td><img src="/assets/snakes/lifers/snakes/westCottonmouth.jpg" alt="Western Cottonmouth"></td>
+            <th>Illinois, Midwest, Agkistrodon piscivorus leucostoma, venomous</th>
         </tr> 
         <tr>
             <td>Florida Scarlet Snake</td>
@@ -262,7 +290,7 @@ datatable: true
         <tr>
             <td>Prairie Ring-necked Snake</td>
             <td>2021/06/29</td>
-            <td>2021/06/29</td>
+            <td>2022/09/04</td>
             <td><img src="/assets/snakes/lifers/snakes/prairieRing.jpg" alt="Prairie Ring-necked Snake"></td>
             <th>Kansas, Midwest, Central, Diadophis punctatus arnyi</th>
         </tr>
@@ -367,14 +395,14 @@ datatable: true
         <tr>
             <td>Northern Mohave Rattlesnake</td>
             <td>2020/08/16</td>
-            <td>2020/08/17</td>
+            <td>2022/09/19</td>
             <td><img src="/assets/snakes/lifers/snakes/mohaveRattlesnake.jpg" alt="Northern Mohave Rattlesnake"></td>
-            <th>California, West, Green, Crotalus scutulatus scutulatus, venomous</th>
+            <th>California, Arizona, West, Green, Crotalus scutulatus scutulatus, venomous</th>
         </tr>
         <tr>
             <td>Long-Nosed Snake</td>
             <td>2020/08/17</td>
-            <td>2020/08/17</td>
+            <td>2022/09/21</td>
             <td><img src="/assets/snakes/lifers/snakes/longNosed.jpg" alt="Long-nosed Snake"></td>
             <th>California, West, Rhinocheilus lecontei</th>
         </tr>
@@ -388,9 +416,9 @@ datatable: true
         <tr>
             <td>Western Diamond-backed Rattlesnake</td>
             <td>2020/08/21</td>
-            <td>2020/08/21</td>
+            <td>2022/09/21</td>
             <td><img src="/assets/snakes/lifers/snakes/westernDiamondback.jpg" alt="Western Diamond-backed Rattlesnake"></td>
-            <th>California, Arizona, West, Crotalus atrox, venomous</th>
+            <th>Arizona, West, Crotalus atrox, venomous</th>
         </tr>
         <tr>
             <td>Eastern Diamond-backed Rattlesnake</td>
@@ -451,7 +479,7 @@ datatable: true
         <tr>
             <td>Western Ratsnake</td>
             <td>2021/06/29</td>
-            <td>2021/06/29</td>
+            <td>2022/09/04</td>
             <td><img src="/assets/snakes/lifers/snakes/westernRatsnake.jpg" alt="Western Ratsnake"></td>
             <th>Kansas, Midwest, Central, Pantherophis obsoletus</th>
         </tr>
@@ -491,11 +519,11 @@ datatable: true
             <th>Florida, East, Nerodia clarkii</th>
         </tr>
         <tr>
-            <td>Copperhead</td>
+            <td>Eastern Copperhead</td>
             <td>2021/06/10</td>
-            <td>2021/06/10</td>
-            <td>Not Personally Photographed</td>
-            <th>Pennyslyvania, East, Agkistrodon contortrix, venomous</th>
+            <td>2022/09/03</td>
+            <td><img src="/assets/snakes/lifers/snakes/eastCopperhead.jpg" alt="Eastern Copperhead"></td>
+            <th>Pennyslyvania, Oklahoma, Midwest, East, Agkistrodon contortrix, venomous</th>
         </tr>
         <tr>
             <td>Pacific Tree Boa</td>
@@ -552,6 +580,90 @@ datatable: true
             <td>2022/04/11</td>
             <td><img src="/assets/snakes/lifers/snakes/ferdelance.jpg" alt="Fer-de-Lance"></td>
             <th>Costa Rica, Rancho Quemado, Terciopelo, fer de lance, Bothrops asper, venomous </th>
+        </tr>
+        <tr>
+            <td>Big Bend Patch-nosed Snake</td>
+            <td>2022/09/17</td>
+            <td>2022/09/17</td>
+            <td><img src="/assets/snakes/lifers/snakes/bigBendPatch.jpg" alt="Big Bend Patch-nosed Snake"></td>
+            <th>Arizona, West, Western patch, Salvadora hexalepis deserticola</th>
+        </tr>
+        <tr>
+            <td>Mountain Patch-nosed Snake</td>
+            <td>2022/09/21</td>
+            <td>2022/09/21</td>
+            <td><img src="/assets/snakes/lifers/snakes/mountainPatch.jpg" alt="Mountain Patch-nosed Snake"></td>
+            <th>Arizona, West, Eastern patch, Salvadora grahamiae grahamiae</th>
+        </tr>
+        <tr>
+            <td>Black-necked Gartersnake</td>
+            <td>2022/09/16</td>
+            <td>2022/09/22</td>
+            <td><img src="/assets/snakes/lifers/snakes/blackNeckGarter.jpg" alt="Black-necked Gartersnake"></td>
+            <th>Arizona, West, Thamnophis crytopsis</th>
+        </tr>
+        <tr>
+            <td>Checkered Gartersnake</td>
+            <td>2022/09/21</td>
+            <td>2022/09/21</td>
+            <td><img src="/assets/snakes/lifers/snakes/checkeredGarter.jpg" alt="Checkered Gartersnake"></td>
+            <th>Arizona, West, Thamnophis marcianus</th>
+        </tr>
+        <tr>
+            <td>Sonoran Gophersnake</td>
+            <td>2022/09/16</td>
+            <td>2022/09/21</td>
+            <td><img src="/assets/snakes/lifers/snakes/sonoranGopher.jpg" alt="Sonoran Gophersnake"></td>
+            <th>Arizona, West, Pituophis catenifer affinis</th>
+        </tr>
+        <tr>
+            <td>Sonoran Sidewinder</td>
+            <td>2022/09/17</td>
+            <td>2022/09/17</td>
+            <td><img src="/assets/snakes/lifers/snakes/sonoranSidewinder.jpg" alt="Sonoran Sidewinder"></td>
+            <th>Arizona, West, Crotalus cerastes cercobombus, venomous</th>
+        </tr>
+        <tr>
+            <td>Green Ratsnake</td>
+            <td>2022/09/17</td>
+            <td>2022/09/17</td>
+            <td><img src="/assets/snakes/lifers/snakes/greenRat.jpg" alt="Green Ratsnake"></td>
+            <th>Arizona, West, Senticolis triaspis</th>
+        </tr>
+        <tr>
+            <td>Black-tailed Rattlesnake</td>
+            <td>2022/09/17</td>
+            <td>2022/09/17</td>
+            <td><img src="/assets/snakes/lifers/snakes/blackTailedRattle.jpg" alt="Black-tailed Rattlesnake"></td>
+            <th>Arizona, West, venomous, Crotalus Molossus</th>
+        </tr>
+        <tr>
+            <td>Banded Rock Rattlesnake</td>
+            <td>2022/09/19</td>
+            <td>2022/09/21</td>
+            <td><img src="/assets/snakes/lifers/snakes/bandedRockRattle.jpg" alt="Banded Rock Rattlesnake"></td>
+            <th>Arizona, West, Crotalus lepidus klauberi, venomous</th>
+        </tr>
+        <tr>
+            <td>Ridge-nosed Rattlesnake</td>
+            <td>2022/09/21</td>
+            <td>2022/09/21</td>
+            <td><img src="/assets/snakes/lifers/snakes/ridgeNosedRattle.jpg" alt="Ridge-nosed Rattlesnake"></td>
+            <th>Arizona, West, venomous, Crotalus willardi</th>
+        </tr>
+        <tr>
+            <td>Tiger Rattlesnake</td>
+            <td>2022/09/19</td>
+            <td>2022/09/19</td>
+            <td><img src="/assets/snakes/lifers/snakes/tigerRattle.jpg" alt="Tiger Rattlesnake"></td>
+            <th>Arizona, West, venomous, Crotalus tigris</th>
+        </tr>
+        <tr>
+            <td>Sonoran Coral Snake</td>
+            <td>2022/09/19</td>
+            <td>2022/09/21</td>
+            <td><img src="/assets/snakes/lifers/snakes/sonoranCoral.jpg" alt="Sonoran Coral Snake"></td>
+            <th>Arizona, West, venomous, Micruroides euryxanthus</th>
         </tr>
     </tbody>
 </table>

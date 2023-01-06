@@ -114,7 +114,7 @@ datatable: true
         <tr>
             <td>Eastern Newt</td>
             <td>2019/04/14</td>
-            <td>2022/08/02</td>
+            <td>2022/10/07</td>
             <td><img src="/assets/snakes/lifers/salamanders/easternNewt.jpg" alt="Eastern Newt"></td>
             <th>Vermont, East, Newt</th>
         </tr>
@@ -140,6 +140,13 @@ datatable: true
             <th>Vermont, East, Mole</th>
         </tr>
         <tr>
+            <td>Barred Tiger Salamander</td>
+            <td>2022/09/20</td>
+            <td>2022/09/20</td>
+            <td><img src="/assets/snakes/lifers/salamanders/barredTiger.jpg" alt="Barred Tiger Salamander"></td>
+            <th>Arizona, West, Mole, invasive</th>
+        </tr>
+        <tr>
             <td>Northern Red Salamander</td>
             <td>2019/05/31</td>
             <td>2021/06/13</td>
@@ -152,6 +159,13 @@ datatable: true
             <td>2021/02/09</td>
             <td><img src="/assets/snakes/lifers/salamanders/ocmulgeeSlimy.jpg" alt="Ocmulgee Slimy Salamander"></td>
             <th>Georgia, East</th>
+        </tr>
+        <tr>
+            <td>Northern Slimy Salamander</td>
+            <td>2022/09/15</td>
+            <td>2022/09/15</td>
+            <td><img src="/assets/snakes/lifers/salamanders/northernSlimy.jpg" alt="Northern Slimy Salamander"></td>
+            <th>Pennsylvania, East</th>
         </tr>
         <tr>
             <td>Mud Salamander</td>
@@ -180,6 +194,13 @@ datatable: true
             <td>2022/08/02</td>
             <td><img src="/assets/snakes/lifers/salamanders/northernDusky.jpg" alt="Northern Dusky Salamander"></td>
             <th>Virginia, Vermont, East, stream</th>
+        </tr>
+        <tr>
+            <td>Allegheny Mountain Dusky Salamander</td>
+            <td>2022/09/15</td>
+            <td>2022/09/15</td>
+            <td>Not Personally Photographed</td>
+            <td>Pennsylvania, East</td>
         </tr>
         <tr>
             <td>Two-Lined Salamander</td>

@@ -105,3 +105,9 @@ Especially crossing the road. Which isn't necessarily a good thing, but increase
 I've been following a small population of green frogs living in a stream by my house. There are also a handful of garter snakes living around my property and I knew the two interacted but was never exactly sure to what degree. This deserves a post by itself and you'll see that back at the home page. Here's a little teaser though.
 
 ![Eastern Gartersnake Eating Green Frog]({{ site.baseurl }}/assets/snakes/vermontSummer/garterEatsGreen.jpg)
+
+<div align = "center"><h3>August 25</h3></div>
+
+Flipped a smooth green.
+
+![Smooth Green]({{ site.baseurl }}/assets/snakes/vermontSummer/smoothGreen.jpg)
