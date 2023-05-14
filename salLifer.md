@@ -114,7 +114,7 @@ datatable: true
         <tr>
             <td>Eastern Newt</td>
             <td>2019/04/14</td>
-            <td>2022/10/07</td>
+            <td>2023/05/09</td>
             <td><img src="/assets/snakes/lifers/salamanders/easternNewt.jpg" alt="Eastern Newt"></td>
             <th>Vermont, East, Newt</th>
         </tr>

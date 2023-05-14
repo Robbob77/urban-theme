@@ -66,7 +66,7 @@ datatable: true
         <tr>
             <td>Eastern Gartersnake</td>
             <td>2018/09/22</td>
-            <td>2022/10/06</td>
+            <td>2023/05/13</td>
             <td><img src="/assets/snakes/lifers/snakes/easternGarter.jpg" alt="Eastern Gartersnake"></td>
             <th>Vermont, Pennyslvania, Florida, East, Thamnophis sirtalis</th>
         </tr>
