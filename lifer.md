@@ -666,11 +666,11 @@ datatable: true
             <th>Arizona, West, venomous, Micruroides euryxanthus</th>
         </tr>
         <tr>
-            <td>Brown Banded Watersnake (Helicops)</td>
+            <td>Amazonian Water Snake</td>
             <td>2023/12/15</td>
             <td>2023/12/19</td>
             <td><img src="/assets/snakes/lifers/snakes/helicops.HEIC" alt="Brown Banded Watersnake (Helicops)"></td>
-            <th>Suriname, South America, Helicops angulatus</th>
+            <th>Suriname, South America, Helicops angulatus, South American Water Snake, Brown-banded watersnake</th>
         </tr>
         <tr>
             <td>Tschudi's False Coral Snake</td>

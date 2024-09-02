@@ -60,7 +60,14 @@ datatable: true
             <td>2019/06/09</td>
             <td>2020/03/17</td>
             <td><img src="/assets/snakes/lifers/salamanders/californiaTigerSalamander.jpg" alt="California Tiger Salamander"></td>
-            <th>California, West, Mole</th>
+            <th>California, West, Mole, californiense</th>
+        </tr>
+        <tr>
+            <td>Tiger Salamander</td>
+            <td>2023/09/28</td>
+            <td>2023/09/28</td>
+            <td><img src="/assets/snakes/lifers/salamanders/tigerSalamander.jpg" alt="Tiger Salamander"></td>
+            <th>Utah, West, Mole, tigrinum</th>
         </tr>
         <tr>
             <td>Northwestern Salamander</td>
@@ -114,7 +121,7 @@ datatable: true
         <tr>
             <td>Eastern Newt</td>
             <td>2019/04/14</td>
-            <td>2023/06/11</td>
+            <td>2024/05/15</td>
             <td><img src="/assets/snakes/lifers/salamanders/easternNewt.jpg" alt="Eastern Newt"></td>
             <th>Vermont, East, Newt</th>
         </tr>
@@ -144,7 +151,7 @@ datatable: true
             <td>2022/09/20</td>
             <td>2022/09/20</td>
             <td><img src="/assets/snakes/lifers/salamanders/barredTiger.jpg" alt="Barred Tiger Salamander"></td>
-            <th>Arizona, West, Mole, invasive</th>
+            <th>Arizona, West, Mole, invasive, Mavortium</th>
         </tr>
         <tr>
             <td>Northern Red Salamander</td>
