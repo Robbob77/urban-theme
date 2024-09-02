@@ -2,7 +2,7 @@
 layout: post
 title:  "Suriname"
 date:   2024-09-01 13:00:00
-preview: /assets/snakes/suriname/preview.heic
+preview: /assets/snakes/suriname/preview.HEIC
 snake: "on"
 number: 58
 ---
@@ -21,7 +21,7 @@ From the airplane it is hard to argue with the claim of Suriname being the most 
 
 On the ground we were picked up by our guide Matthew Wallace of Unlock Nature. Immediately we head out to the Seliba River where we would be staying for the first few nights. An hour drive out of the city followed by an hour south by boat and we were putting on our boots to start looking.
 
-![Seliba River Location]({{ site.baseurl }}/assets/snakes/suriname/seliba.heic)
+![Seliba River Location]({{ site.baseurl }}/assets/snakes/suriname/seliba.HEIC)
 
 Totals:   
 Brown Banded Water Snake (Helicops angulatus) 5  
