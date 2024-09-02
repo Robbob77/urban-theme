@@ -66,14 +66,14 @@ datatable: true
         <tr>
             <td>Eastern Gartersnake</td>
             <td>2018/09/22</td>
-            <td>2023/05/13</td>
+            <td>2024/07/16</td>
             <td><img src="/assets/snakes/lifers/snakes/easternGarter.jpg" alt="Eastern Gartersnake"></td>
             <th>Vermont, Pennyslvania, Florida, East, Thamnophis sirtalis</th>
         </tr>
         <tr>
             <td>Smooth Green Snake</td>
             <td>2021/05/18</td>
-            <td>2022/08/25</td>
+            <td>2023/08/13</td>
             <td><img src="/assets/snakes/lifers/snakes/smoothGreen.jpg" alt="Smooth Green Snake"></td>
             <th>Vermont, East, Opheodrys vernalis</th>
         </tr>
@@ -262,7 +262,7 @@ datatable: true
         <tr>
             <td>Red Bellied Snake</td>
             <td>2019/05/31</td>
-            <td>2022/06/17</td>
+            <td>2023/08/13</td>
             <td><img src="/assets/snakes/lifers/snakes/redBelly.jpg" alt="Red Bellied Snake"></td>
             <th>New Jersey, East, Storeria occipitomaculata</th>
         </tr>
@@ -521,9 +521,9 @@ datatable: true
         <tr>
             <td>Eastern Copperhead</td>
             <td>2021/06/10</td>
-            <td>2022/09/03</td>
+            <td>2023/07/22</td>
             <td><img src="/assets/snakes/lifers/snakes/eastCopperhead.jpg" alt="Eastern Copperhead"></td>
-            <th>Pennyslyvania, Oklahoma, Midwest, East, Agkistrodon contortrix, venomous</th>
+            <th>Pennyslyvania, Oklahoma, North Carolina, Midwest, East, Agkistrodon contortrix, venomous</th>
         </tr>
         <tr>
             <td>Pacific Tree Boa</td>
@@ -547,11 +547,11 @@ datatable: true
             <th>Costa Rica, Rancho Quemado, Micrurus alleni, venomous </th>
         </tr>
         <tr>
-            <td>Common Blunt-headed Vine Snake</td>
+            <td>Common Blunt-headed Snake</td>
             <td>2022/04/11</td>
-            <td>2022/04/11</td>
-            <td><img src="/assets/snakes/lifers/snakes/bluntHeaded.jpg" alt="Common Blunt-headed Vine Snake"></td>
-            <th>Costa Rica, Rancho Quemado, Imantodes cenchoa </th>
+            <td>2023/12/17</td>
+            <td><img src="/assets/snakes/lifers/snakes/bluntHeaded.jpg" alt="Common Blunt-headed Snake"></td>
+            <th>Costa Rica, Rancho Quemado, Suriname, South America, Imantodes cenchoa </th>
         </tr>
         <tr>
             <td>Northern Cat-eyed Snake</td>
@@ -575,10 +575,10 @@ datatable: true
             <th>Costa Rica, Bolitas, Bothriechis schlegelii, venomous </th>
         </tr>
         <tr>
-            <td>Fer-de-Lance</td>
+            <td>Fer-de-Lance (B. asper)</td>
             <td>2022/04/11</td>
             <td>2022/04/11</td>
-            <td><img src="/assets/snakes/lifers/snakes/ferdelance.jpg" alt="Fer-de-Lance"></td>
+            <td><img src="/assets/snakes/lifers/snakes/ferdelance.jpg" alt="Fer-de-Lance (B.asper)"></td>
             <th>Costa Rica, Rancho Quemado, Terciopelo, fer de lance, Bothrops asper, venomous </th>
         </tr>
         <tr>
@@ -664,6 +664,124 @@ datatable: true
             <td>2022/09/21</td>
             <td><img src="/assets/snakes/lifers/snakes/sonoranCoral.jpg" alt="Sonoran Coral Snake"></td>
             <th>Arizona, West, venomous, Micruroides euryxanthus</th>
+        </tr>
+        <tr>
+            <td>Brown Banded Watersnake (Helicops)</td>
+            <td>2023/12/15</td>
+            <td>2023/12/19</td>
+            <td><img src="/assets/snakes/lifers/snakes/helicops.heic" alt="Brown Banded Watersnake (Helicops)"></td>
+            <th>Suriname, South America, Helicops angulatus</th>
+        </tr>
+        <tr>
+            <td>Tschudi's False Coral Snake</td>
+            <td>2023/12/15</td>
+            <td>2023/12/15</td>
+            <td><img src="/assets/snakes/lifers/snakes/falsecoral.heic" alt="Tschudis False Coral Snake"></td>
+            <th>Suriname, South America, Oxyrhopus melanogenys</th>
+        </tr>
+        <tr>
+            <td>Brown Sipo</td>
+            <td>2023/12/15</td>
+            <td>2023/12/15</td>
+            <td><img src="/assets/snakes/lifers/snakes/brownSipo.heic" alt="Brown Sipo"></td>
+            <th>Suriname, South America, Chironius fuscus, Brown Whipsnake</th>
+        </tr>
+        <tr>
+            <td>Boddaert's Tropical Racer</td>
+            <td>2023/12/15</td>
+            <td>2023/12/17</td>
+            <td><img src="/assets/snakes/lifers/snakes/tropicalRacer.heic" alt="Boddaerts Tropical Racer"></td>
+            <th>Suriname, South America, Mastigodryas boddaerti</th>
+        </tr>
+        <tr>
+            <td>Sipo</td>
+            <td>2023/12/15</td>
+            <td>2023/12/19</td>
+            <td><img src="/assets/snakes/lifers/snakes/sipo.heic" alt="Sipo"></td>
+            <th>Suriname, South America, Chironius carinatus, Amazon Whipsnake, machete snake</th>
+        </tr>
+        <tr>
+            <td>Amazon Tree Boa</td>
+            <td>2023/12/15</td>
+            <td>2023/12/20</td>
+            <td><img src="/assets/snakes/lifers/snakes/amazonBoa.jpg" alt="Amazon Tree Boa"></td>
+            <th>Suriname, South America, Corallus hortulana, Slender Tree Boa</th>
+        </tr>
+        <tr>
+            <td>Emerald Tree Boa</td>
+            <td>2023/12/15</td>
+            <td>2023/12/18</td>
+            <td><img src="/assets/snakes/lifers/snakes/emeraldBoa.jpeg" alt="Emerald Tree Boa"></td>
+            <th>Suriname, South America, Corallus caninus</th>
+        </tr>
+        <tr>
+            <td>Green Sipo</td>
+            <td>2023/12/16</td>
+            <td>2023/12/16</td>
+            <td><img src="/assets/snakes/lifers/snakes/greenSipo.heic" alt="Green Sipo"></td>
+            <th>Suriname, South America, Chironius exoletus, Green Whipsnake, Linnaeus Sipo, Green Keelback</th>
+        </tr>
+        <tr>
+            <td>Boa Constrictor</td>
+            <td>2023/12/17</td>
+            <td>2023/12/19</td>
+            <td><img src="/assets/snakes/lifers/snakes/boaConstrictor.jpg" alt="Boa Constrictor"></td>
+            <th>Suriname, South America, Boa constrictor constrictor, Common Boa</th>
+        </tr>
+        <tr>
+            <td>Fer-de-Lance (B. atrox)</td>
+            <td>2023/12/17</td>
+            <td>2023/12/18</td>
+            <td><img src="/assets/snakes/lifers/snakes/bothropsAtrox.jpg" alt="Fer-de-Lance (B. atrox)"></td>
+            <th>Suriname, South America, labarria, labaria, fer de lance, Bothrops atrox, venomous </th>
+        </tr>
+        <tr>
+            <td>Two-lined Forest Pitviper</td>
+            <td>2023/12/17</td>
+            <td>2023/12/18</td>
+            <td><img src="/assets/snakes/lifers/snakes/bilineatus.jpg" alt="Two-lined Forest Pitviper"></td>
+            <th>Suriname, South America, Bothrops bilineatus, two-striped forest pitviper, venomous </th>
+        </tr>
+        <tr>
+            <td>Wucherer's Ground Snake</td>
+            <td>2023/12/17</td>
+            <td>2023/12/17</td>
+            <td><img src="/assets/snakes/lifers/snakes/groundSnake.heic" alt="Wucherers Ground Snake"></td>
+            <th>Suriname, South America, Xenopholis scalaris</th>
+        </tr>
+        <tr>
+            <td>Guyana Blind Snake</td>
+            <td>2023/12/18</td>
+            <td>2023/12/18</td>
+            <td><img src="/assets/snakes/lifers/snakes/gBlindSnake.jpeg" alt="Guyana Blind Snake"></td>
+            <th>Suriname, South America, Epictia tenella</th>
+        </tr>
+        <tr>
+            <td>Parrot Snake</td>
+            <td>2023/12/19</td>
+            <td>2023/12/19</td>
+            <td>Not Personally Photographed</td>
+            <th>Suriname, South America, Leptophis ahaetulla</th>
+        </tr>
+        <tr>
+            <td>Green Anaconda</td>
+            <td>2023/12/20</td>
+            <td>2023/12/20</td>
+            <td>Not Personally Photographed</td>
+            <th>Suriname, South America, Eunectes murinus</th>
+        </tr>
+        <tr>
+            <td>Crowned False Boa</td>
+            <td>2023/12/21</td>
+            <td>2023/12/21</td>
+            <td><img src="/assets/snakes/lifers/snakes/falseBoa.heic" alt="Crowned False Boa"></td>
+            <th>Suriname, South America, Psuedoboa coronata</th>
+        </tr><tr>
+            <td>Ornate Snail-eater</td>
+            <td>2023/12/21</td>
+            <td>2023/12/21</td>
+            <td><img src="/assets/snakes/lifers/snakes/ornateSnail.heic" alt="Ornate Snail-eater"></td>
+            <th>Suriname, South America, Dipsas catesbyi, catesby's snail eater</th>
         </tr>
     </tbody>
 </table>
