@@ -2,9 +2,9 @@
 layout: post
 title:  "Suriname"
 date:   2023-12-30 13:00:00
-preview: /assets/snakes/suriname/preview.HEIC
+preview: /assets/snakes/suriname/preview.jpeg
 snake: "on"
-number: 58
+number: 59
 ---
 
 <div align = "center"><h3>Suriname, South America - December 2023</h3></div>
@@ -25,7 +25,7 @@ Before I was ready to leave my tent, my travel companions had found our first he
 
 These are funky looking snakes with eyes similar to anacondas that are almost on top of their head. Less smelly than the iconic nerodia musk. More colorful individuals to come.
 
-![Helicops]({{ site.baseurl }}/assets/snakes/suriname/helicops.HEIC)
+![Helicops]({{ site.baseurl }}/assets/snakes/suriname/helicops.jpeg)
 
 With base set up along the Suriname River and a stream running through the center of camp, we expect to see many more of these to come and if we are lucky a Suriname Coral Snake too. However, much of our hiking will occur on a loop trail that goes out back of camp and into the rainforest. 
 
@@ -33,30 +33,30 @@ A couple of steps down the trail and "SNAKE!" is already called out. Unfortunate
 
 This snake was on the crawl heading over some tree roots and was gingerly kept in the open while our guide confirmed that it was in fact a coral snake mimic and not the highly venemous coral snake. I believe this was a mimic of the collared coral snake and a prime example of Batesian mimicry as once we were confident it was a mimic there was no venom concerns.
 
-![False Coral Snake]({{ site.baseurl }}/assets/snakes/suriname/falseCoral.HEIC)
+![False Coral Snake]({{ site.baseurl }}/assets/snakes/suriname/falseCoral.jpeg)
 
 For the next hour after that explosive start we trudged through upland forest, thick swamps, and crossed small streams. This break in wildlife was appreciated as we took in the habitat. In awe of the massive trees, avoiding spiky bushes, or keeping an eye out for bullet ants takes a trained eye to do while looking for snakes at the same time. This time was not unproductive as we were still spotting small creatures. We came across a Spix's Snouted Tree Frog (Scinax nebulosus) spotted by the outline of its shadow under a leaf.
 
-![Spixs Snouted Tree Frog]({{ site.baseurl }}/assets/snakes/suriname/frog.HEIC)
+![Spixs Snouted Tree Frog]({{ site.baseurl }}/assets/snakes/suriname/frog.jpeg)
 
 More conventially spotted were a three striped poison dart frog and tiger striped frogs (not pictured). The amphibian diversity is astounding.
 
-![Three Striped Poison Dart Frog]({{ site.baseurl }}/assets/snakes/suriname/poisonDart.HEIC)
+![Three Striped Poison Dart Frog]({{ site.baseurl }}/assets/snakes/suriname/poisonDart.jpeg)
 
 Before coming out of the forest to walk a road back to camp, we spotted a snake resting up in some low trees!
 
-![Brown Sipo]({{ site.baseurl }}/assets/snakes/suriname/brownSipo.HEIC)
+![Brown Sipo]({{ site.baseurl }}/assets/snakes/suriname/brownSipo.jpeg)
 
 Our first Sipo of the trip! These snakes are fairly common but really cool to come across. Commonly they are referred to by their genus of Chironius, but a name more familiar to North American herpers would be Whipsnake. A fun snake to find, although they can be a little fiesty which is always fun to deal with on an international trip. Not nerve wracking at all. Anyways, this particular diurnal snake, Chironius fuscus or the Brown Sipo, was fairly calm, or sleepy, when we disturbed it. In the rainforest, these snakes are semi arboreal probably to better allow it to stay dry and allow for more animals to be prey. This will not be the last snake found asleep in the trees.
 
 In fact, just down the road we would find a Boddaert's Tropical Racer!
 
 
-![Boddaert's Tropical Racer]({{ site.baseurl }}/assets/snakes/suriname/tropicalRacer2.HEIC)
+![Boddaert's Tropical Racer]({{ site.baseurl }}/assets/snakes/suriname/tropicalRacer2.jpeg)
 
 And not much further, another Sipo! This one was larger and is believed to be a Chironius carinatus which can be called a Sipo, Golden Keelback, or a Machete Snake. This one leaned towards being called a machete snake as it lived up to the expecation of aggressive defensive behavior. It bit anyone who put their hands near it which in combination with the anticoagulent in their saliva produced a harmlessly bloody mess.
 
-![Sipo]({{ site.baseurl }}/assets/snakes/suriname/sipo.HEIC)
+![Sipo]({{ site.baseurl }}/assets/snakes/suriname/sipo.jpeg)
 
 Back at camp, we were not ready to end the night of excitement and meandered around the edge of the clearing shining trees. It turned out to be a great idea as we came across our first Boa!
 
@@ -72,17 +72,17 @@ This massive snake was maybe five feet off the ground frozen in an ambush positi
 
 Pretty quickly, everyone began to crash from the day 1 excitement and we headed back to camp to sleep. One last scan of the stream yielded a bright orange Helicops before everyone passed out.
 
-![Helicops]({{ site.baseurl }}/assets/snakes/suriname/helicops2.HEIC)
+![Helicops]({{ site.baseurl }}/assets/snakes/suriname/helicops2.jpeg)
 
 <div align = "center"><h3>Seliba River - Day 2</h3></div>
 
-![Seliba River Location]({{ site.baseurl }}/assets/snakes/suriname/seliba.HEIC)
+![Seliba River Location]({{ site.baseurl }}/assets/snakes/suriname/seliba.jpeg)
 
 Finally able to see the Seliba River during the day, we are stunned. We are quite literally in a little outpost along the river with the rainforest at our backs. A slow restful morning allows us to fly the drone to see the area from above and walk the trail during the daylight. Aside from a pink toed tarantula, the focus is planning out the night time hiking.
 
 Before long, nighttime is upon us. This time rather than going through the dense rainforest along the trail, we target edge habitat. We start the night by shining along the edge of the Seliba River from a boat but are quickly turned in by some hard rains. Attempt 2 starts by shining along the road edge as we head to some swamps scouted out during the day. Along the road we spot another Sipo alseep in the trees. Surprisingly, we find a Green Sipo, our third sipo species. After a little work to get it down, we have it in hand and can admire it up close.
 
-<![Green Sipo]({{ site.baseurl }}/assets/snakes/suriname/greenSipo.HEIC)
+<![Green Sipo]({{ site.baseurl }}/assets/snakes/suriname/greenSipo.jpeg)
 
 Continuing along to the swamps we find a hotbed of activity. In what appears to be the start of a canal, we come across some more Helicops and a pair of Giant Leaf Frogs in amplexus.
 
@@ -90,11 +90,11 @@ Continuing along to the swamps we find a hotbed of activity. In what appears to 
 
 Moving along the canal, we spot a pair of eyes reflecting our flashlight back at us. Quickly, three of us are splashing through the water and scanning for where they went under. I happen to see a tail slowly floating by my leg make the call and let someone else come for the grab. A Dwarf Caimen!
 
-![Dwarf Caimen]({{ site.baseurl }}/assets/snakes/suriname/dwarfCaimen.HEIC)
+![Dwarf Caimen]({{ site.baseurl }}/assets/snakes/suriname/dwarfCaimen.jpeg)
 
 On our way back to camp at the end of the night we stop by a pond behind camp and find it full of amphibians. As we work from one end to the other we come across a common suriname toad. Don't be fooled by the name however, as suriname toads (Pipa pipa) are known for being completely flat, fully aquatic, and females "incubating" their eggs on their back. It has unique appendages as the front toes are star-shaped. It lacks a tongue and feeds using a suction method that rapidly draws water into its body engulfing any nearby particles or organisms.
 
-![Suriname Common Toad]({{ site.baseurl }}/assets/snakes/suriname/pipapipa.HEIC)
+![Suriname Common Toad]({{ site.baseurl }}/assets/snakes/suriname/pipapipa.jpeg)
 
 <div align = "center"><h3>Brownsberg National Park - Day 3</h3></div>
 
@@ -102,7 +102,7 @@ Day 3 marks the end of our time on the Seliba River. Much of the day passes trav
 
 That being said, we were sufficiently prepared for the remoteness of the experience and were looking forward to the new habitat producing some new snake species. We got there in the afternoon and went for a hike to a local waterfall. On the way, we spotted a Boddaert's Tropical Racer moving through a clearing.
 
-![Boddaerts Tropical Racer]({{ site.baseurl }}/assets/snakes/suriname/tropicalRacer.HEIC)
+![Boddaerts Tropical Racer]({{ site.baseurl }}/assets/snakes/suriname/tropicalRacer.jpeg)
 
 As we stopped to photograph it, we realized that we sat down next to boa constrictor eating a lizard under some tree roots!
 
@@ -112,7 +112,7 @@ As we stopped to photograph it, we realized that we sat down next to boa constri
 
 This was a crazy sighting as Boa Constrictors are rarely seen in the National Park. As is common around here, and in high demand in the pet trade, it had the characteristic red tail. As we neared the waterfall we found some harlequin toads (Genus Atelopus). 
 
-![Harlequin Toads]({{ site.baseurl }}/assets/snakes/suriname/atelopus.HEIC)
+![Harlequin Toads]({{ site.baseurl }}/assets/snakes/suriname/atelopus.jpeg)
 
 By the waterfall, there is a resident caimen living in a cave known to eat the bats within. It was home, but given recent global events no one was enthusiastic to crawl through a cave of bats to see it. To our surprise there were no snakes found along the stream below the river.  However, as we started back, it was not long before we came across our first labarria. Pattied up on the side of the trail waiting for some unsuspecting prey or a human to step too close.
 
@@ -122,7 +122,7 @@ Labarria is the Surinamese local name for the South American Fer-de-lance or lan
 
 On the drive back to camp, we drove by a flock of Grey-winged trumpeters who we would find to live within close proximity of our shelter. 
 
-![Grey-winged Trumpeter]({{ site.baseurl }}/assets/snakes/suriname/trumpeter.HEIC)
+![Grey-winged Trumpeter]({{ site.baseurl }}/assets/snakes/suriname/trumpeter.jpeg)
 
 Late afternoon and evening consisted of naps, refueling, preparing for the night expedition, and waiting out a heavy rainstorm.
 
@@ -140,23 +140,23 @@ The night turned out to be a huge success. Snakes appeared to be on the move or 
 
 ![Emerald Tree Boa]({{ site.baseurl }}/assets/snakes/suriname/emeraldBoa3.JPG)
 
-![Common Blunt-headed Snake]({{ site.baseurl }}/assets/snakes/suriname/blunt.HEIC)
+![Common Blunt-headed Snake]({{ site.baseurl }}/assets/snakes/suriname/blunt.jpeg)
 
-![Wucherer's Ground Snake]({{ site.baseurl }}/assets/snakes/suriname/groundSnake.HEIC)
+![Wucherer's Ground Snake]({{ site.baseurl }}/assets/snakes/suriname/groundSnake.jpeg)
 
 <div align = "center"><h3>Brownsberg National Park - Day 4</h3></div>
 
-![Brownsberg Location]({{ site.baseurl }}/assets/snakes/suriname/brownsberg.HEIC)
+![Brownsberg Location]({{ site.baseurl }}/assets/snakes/suriname/brownsberg.jpeg)
 
 The second day in Brownsberg was quite similar to the first in structure, but more time was spent searching which yielded fewer snakes. The morning into the early afternoon was spent day cruising and hiking the same roads we walked the night before. Came across quite a few lizards, geckos, caecilians, and a Guyana Blind Snake. 
 
-![Caecilians]({{ site.baseurl }}/assets/snakes/suriname/caecilian.HEIC)
+![Caecilians]({{ site.baseurl }}/assets/snakes/suriname/caecilian.jpeg)
 
 ![Guyana Blind Snake]({{ site.baseurl }}/assets/snakes/suriname/gBlindSnake.JPG)
 
 In the afternoon while we waited out the heat, we went for a hike which at its end overlooked the reservoir. Camp was momentarily overrun with howler monkies which we could not get on camera.
 
-![Reservoir Outlook]({{ site.baseurl }}/assets/snakes/suriname/reservoir.HEIC)
+![Reservoir Outlook]({{ site.baseurl }}/assets/snakes/suriname/reservoir.jpeg)
 
 Rather than walk the roads for the second night in a row, we elected to cruise the first half and then walk some select sections. Snakes appeared to be less active than the night before as we spotted an Emerald Tree Boa and Two-Lined Forest Pitviper however both were too far away to get a good look at. As we were hiking we came across another labarria and a Surinamese wood turtle. Few photos came from the night and many of us went to bed that night with nothing but wasp stings.
 
@@ -168,7 +168,7 @@ On our final day in Brownsberg, after packing up camp we flipped  some rocks whi
 
 Our third destination took us through the capitol of Paramaribo to Pepperpot.
 
-![Pepperpot Location]({{ site.baseurl }}/assets/snakes/suriname/pepperpot.HEIC)
+![Pepperpot Location]({{ site.baseurl }}/assets/snakes/suriname/pepperpot.jpeg)
 
 Here we kayaked through some canals shining trees as we went. We came across some Helicops, a parrot snake, and a sipo. The snakes were high up in the trees and hard to get to. Further down the canal we came across some caimen which evaded us quite well and some monkeys.
 
@@ -190,7 +190,7 @@ The rest of the day was then spent on the river. Shortly after the anaconda enco
 
 <div align = "center"><h3>Palulu - Day 7</h3></div>
 
-![Marrataka River Location]({{ site.baseurl }}/assets/snakes/suriname/marratakka.HEIC)
+![Marrataka River Location]({{ site.baseurl }}/assets/snakes/suriname/marratakka.jpeg)
 
 A second morning was spent along the Marrataka River. This time no snakes were found, however the spot of the morning was a crested eagle! Some more fishing took place before heading back to Paramaribo.
 
@@ -198,9 +198,9 @@ A second morning was spent along the Marrataka River. This time no snakes were f
 
 After a restful afternoon and evening, the final excursion of the trip is determined to be for the elusive bushmaster. Our guide knows of some hunting property in Palulu and knows he can get permission from the owner. We arrive at the property a around 9/10pm and are shown the entrance to the trails by the owner. This is dense, thick rainforest that looks mostly untouched outside of the occasional hunting/game trail. Lots of getting lost and turning back to find the trail, but we make our way through some rainforest, across a swamp, and to some uphill rainforest. On the way we come across a False Crowned Boa and Ornate Snail Eater before continuing this search well into the wee hours of the morning to no avail. Out of snacks and water, we turn back defeated but not disappointed on the final night.
 
-![False Crowned Boa]({{ site.baseurl }}/assets/snakes/suriname/falseBoa.HEIC)
+![False Crowned Boa]({{ site.baseurl }}/assets/snakes/suriname/falseBoa.jpeg)
 
-![Ornate Snail-eater]({{ site.baseurl }}/assets/snakes/suriname/ornateSnail.HEIC)
+![Ornate Snail-eater]({{ site.baseurl }}/assets/snakes/suriname/ornateSnail.jpeg)
 
 The following day we miss our flights due to traffic and the poor infrastructure throughout the city. The day after, the group part ways as we all rebooked different flight itineraries. I fly from Paramaribo to Trinidad and Tobago to Toronto before landing back in Newark, New Jersey.
 

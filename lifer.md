@@ -669,35 +669,35 @@ datatable: true
             <td>Amazonian Water Snake</td>
             <td>2023/12/15</td>
             <td>2023/12/19</td>
-            <td><img src="/assets/snakes/lifers/snakes/helicops.HEIC" alt="Brown Banded Watersnake (Helicops)"></td>
+            <td><img src="/assets/snakes/lifers/snakes/helicops.jpeg" alt="Brown Banded Watersnake (Helicops)"></td>
             <th>Suriname, South America, Helicops angulatus, South American Water Snake, Brown-banded watersnake</th>
         </tr>
         <tr>
             <td>Tschudi's False Coral Snake</td>
             <td>2023/12/15</td>
             <td>2023/12/15</td>
-            <td><img src="/assets/snakes/lifers/snakes/falseCoral.HEIC" alt="Tschudis False Coral Snake"></td>
+            <td><img src="/assets/snakes/lifers/snakes/falseCoral.jpeg" alt="Tschudis False Coral Snake"></td>
             <th>Suriname, South America, Oxyrhopus melanogenys</th>
         </tr>
         <tr>
             <td>Brown Sipo</td>
             <td>2023/12/15</td>
             <td>2023/12/15</td>
-            <td><img src="/assets/snakes/lifers/snakes/brownSipo.HEIC" alt="Brown Sipo"></td>
+            <td><img src="/assets/snakes/lifers/snakes/brownSipo.jpeg" alt="Brown Sipo"></td>
             <th>Suriname, South America, Chironius fuscus, Brown Whipsnake</th>
         </tr>
         <tr>
             <td>Boddaert's Tropical Racer</td>
             <td>2023/12/15</td>
             <td>2023/12/17</td>
-            <td><img src="/assets/snakes/lifers/snakes/tropicalRacer.HEIC" alt="Boddaerts Tropical Racer"></td>
+            <td><img src="/assets/snakes/lifers/snakes/tropicalRacer.jpeg" alt="Boddaerts Tropical Racer"></td>
             <th>Suriname, South America, Mastigodryas boddaerti</th>
         </tr>
         <tr>
             <td>Sipo</td>
             <td>2023/12/15</td>
             <td>2023/12/19</td>
-            <td><img src="/assets/snakes/lifers/snakes/sipo.HEIC" alt="Sipo"></td>
+            <td><img src="/assets/snakes/lifers/snakes/sipo.jpeg" alt="Sipo"></td>
             <th>Suriname, South America, Chironius carinatus, Amazon Whipsnake, machete snake</th>
         </tr>
         <tr>
@@ -718,7 +718,7 @@ datatable: true
             <td>Green Sipo</td>
             <td>2023/12/16</td>
             <td>2023/12/16</td>
-            <td><img src="/assets/snakes/lifers/snakes/greenSipo.HEIC" alt="Green Sipo"></td>
+            <td><img src="/assets/snakes/lifers/snakes/greenSipo.jpeg" alt="Green Sipo"></td>
             <th>Suriname, South America, Chironius exoletus, Green Whipsnake, Linnaeus Sipo, Green Keelback</th>
         </tr>
         <tr>
@@ -747,7 +747,7 @@ datatable: true
             <td>Wucherer's Ground Snake</td>
             <td>2023/12/17</td>
             <td>2023/12/17</td>
-            <td><img src="/assets/snakes/lifers/snakes/groundSnake.HEIC" alt="Wucherers Ground Snake"></td>
+            <td><img src="/assets/snakes/lifers/snakes/groundSnake.jpeg" alt="Wucherers Ground Snake"></td>
             <th>Suriname, South America, Xenopholis scalaris</th>
         </tr>
         <tr>
@@ -775,13 +775,13 @@ datatable: true
             <td>Crowned False Boa</td>
             <td>2023/12/21</td>
             <td>2023/12/21</td>
-            <td><img src="/assets/snakes/lifers/snakes/falseBoa.HEIC" alt="Crowned False Boa"></td>
+            <td><img src="/assets/snakes/lifers/snakes/falseBoa.jpeg" alt="Crowned False Boa"></td>
             <th>Suriname, South America, Psuedoboa coronata</th>
         </tr><tr>
             <td>Ornate Snail-eater</td>
             <td>2023/12/21</td>
             <td>2023/12/21</td>
-            <td><img src="/assets/snakes/lifers/snakes/ornateSnail.HEIC" alt="Ornate Snail-eater"></td>
+            <td><img src="/assets/snakes/lifers/snakes/ornateSnail.jpeg" alt="Ornate Snail-eater"></td>
             <th>Suriname, South America, Dipsas catesbyi, catesby's snail eater</th>
         </tr>
     </tbody>
